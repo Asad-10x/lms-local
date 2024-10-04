@@ -7,11 +7,11 @@ import os
 import requests
 import time
 
-# Setting up webdriver
-driver = webdriver.Chrome()
+# # Setting up webdriver
+# driver = webdriver.Chrome()
 
 # func to login_portal
-def login_cms(enrollment, password):
+def login_cms(driver, enrollment, password):
   driver.get("https://cms.bahria.edu.pk/Logins/Student/Login.aspx")
 
   # Fill out the form
@@ -37,28 +37,15 @@ def login_cms(enrollment, password):
 
   driver.find_element(By.ID, "BodyPH_btnLogin").click()
 
-## Wait for page to load or give error
-  time.sleep(5)
-
-  try:
-  # Assuming successful login redirects to a new URL or dashboard
-      dashboard_url = "https://cms.bahria.edu.pk/Sys/Student/Dashboard.aspx"  # Replace with actual post-login URL
-      WebDriverWait(driver, 10).until(EC.url_to_be(dashboard_url))
-      print("Login successful! Redirected to the dashboard.")
-  except:
-    try:
-      # If login fails, check for the error message in the alert div
-        error_message = driver.find_element(By.CSS_SELECTOR, ".alert-danger").text
-        print(f"Login failed: {error_message}")
-    except Exception as e:
-      print("Login failed, and no error message found. Exception:", str(e))
-
-
 # Example usage
-enrollment = "03-134202-013"
-password = "TeenWolf849_"
-
-login_cms(enrollment, password)
+if __name__ == "__main__":
+  driver = webdriver.Chrome()
+  enrollment = "03-134202-013"
+  password = "TeenWolf849_"
+  branch = "Lahore Campus"
+  role = "Student"
+  login_cms(enrollment, password)
+  driver.quit()
 
 
 
