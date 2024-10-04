@@ -11,7 +11,7 @@ import time
 # driver = webdriver.Chrome()
 
 # func to login_portal
-def login_cms(driver, enrollment, password):
+def login_cms(driver, enrollment, password, branch, role):
   driver.get("https://cms.bahria.edu.pk/Logins/Student/Login.aspx")
 
   # Fill out the form
@@ -24,7 +24,7 @@ def login_cms(driver, enrollment, password):
 
   select_branch = Select(branch_dropdown)
 
-  select_branch.select_by_visible_text("Lahore Campus")
+  select_branch.select_by_visible_text(branch)
 
   # Dropdown for selecting role
   role_dropdown = WebDriverWait(driver, 10).until(EC.element_to_be_clickable((By.ID, "BodyPH_ddlSubUserType")))
@@ -33,9 +33,15 @@ def login_cms(driver, enrollment, password):
   select_role = Select(role_dropdown)
 
   # Select the appropriate Role (Student)
-  select_role.select_by_visible_text("Student")
+  select_role.select_by_visible_text(role)
 
   driver.find_element(By.ID, "BodyPH_btnLogin").click()
+
+def go_to_lms(name):
+  lms_link = WebDriverWait(driver, 10).until((EC.element_to_be_clickable((By.LINK_TEXT, name))))
+  lms_link.click()
+
+
 
 # Example usage
 if __name__ == "__main__":
@@ -44,7 +50,9 @@ if __name__ == "__main__":
   password = "TeenWolf849_"
   branch = "Lahore Campus"
   role = "Student"
-  login_cms(enrollment, password)
+  lms_name = "Go To LMS"
+  login_cms(enrollment, password, branch, role)
+  go_to_lms(lms_name)
   driver.quit()
 
 

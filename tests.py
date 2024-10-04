@@ -22,19 +22,35 @@ def validate_login(driver):
         except Exception as e:
             print("Login failed, and no error message found. Exception:", str(e))
 
+def go_to_lms(driver, name):
+    try:
+        # Wait for the LMS link to be clickable and then click it
+        lms_link = WebDriverWait(driver, 10).until(EC.element_to_be_clickable((By.LINK_TEXT, name)))
+        lms_link.click()
+        print("Navigated to the LMS successfully!")
+        time.sleep(10);
+    except Exception as e:
+        print(f"Failed to navigate to LMS: {e}")
+
+
+
 # Example test
 def run_test():
     enrollment = "03-134202-013"
     password = "TeenWolf849_"
     branch = "Lahore Campus"
     role = "Student"
+    lms_name = "Go To LMS"
 
     # Perform login
     driver = webdriver.Chrome() 
-    login_cms(driver, enrollment, password)
+    login_cms(driver, enrollment, password, branch, role)
 
     # Validate login
     validate_login(driver)
+
+    # Go To LMS
+    go_to_lms(driver, lms_name)
 
     # Clean up and close the browser
     driver.quit()
