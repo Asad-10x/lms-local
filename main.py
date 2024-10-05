@@ -38,10 +38,27 @@ def login_cms(driver, enrollment, password, branch, role):
   driver.find_element(By.ID, "BodyPH_btnLogin").click()
 
 def go_to_lms(name):
+  left_pane = driver.find_element(By.ID, "sideMenuList")
+  driver.execute_script("arguments[0].scrollTop = arguments[0].scrollHeight;", left_pane)
+  time.sleep(1)
   lms_link = WebDriverWait(driver, 10).until((EC.element_to_be_clickable((By.LINK_TEXT, name))))
   lms_link.click()
+  # Check if a new window/tab was opened
+  time.sleep(2)  # Give it some time to open the new tab
+  handles = driver.window_handles
+  if len(handles) > 1:
+    driver.switch_to.window(handles[1])
+    print("Switched to the LMS window/tab.")
+    time.sleep(10)
 
-
+def get_assignments(driver):
+  try:
+    driver.get("https://lms.bahria.edu.pk/Student/Assignments.php")
+    WebDriverWait(driver, 10).until(EC.title_contains("Assignments"))
+    print("Navigated to the Assignments page successfully!")
+  # time.sleep(10)
+  except Exception as e:
+    print(f"Failed to navigate to Assignments page: {e}")
 
 # Example usage
 if __name__ == "__main__":
@@ -51,8 +68,9 @@ if __name__ == "__main__":
   branch = "Lahore Campus"
   role = "Student"
   lms_name = "Go To LMS"
-  login_cms(enrollment, password, branch, role)
+  login_cms(driver, enrollment, password, branch, role)
   go_to_lms(lms_name)
+  get_assignments(driver)
   driver.quit()
 
 
