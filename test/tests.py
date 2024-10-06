@@ -53,8 +53,8 @@ def test_get_assignments(driver):
 
 # Example test
 def run_test():
-    enrollment = "03-134202-013"
-    password = "TeenWolf849_"
+    enrollment = os.getenv("LMS_ENROLLMENT")
+    password = os.getenv("LMS_PASSWORD")
     branch = "Lahore Campus"
     role = "Student"
     lms_name = "Go To LMS"

@@ -1,0 +1,766 @@
+2024-10-06 07:53:38,609 [INFO] Navigated to the CMS login page.
+2024-10-06 07:53:38,872 [INFO] Entered the enrollment and password.
+2024-10-06 07:53:39,264 [INFO] Selected the branch: Lahore Campus
+2024-10-06 07:53:39,353 [INFO] Selected the role: Student
+2024-10-06 07:53:39,904 [INFO] Clicked the login button.
+2024-10-06 07:55:30,822 [INFO] Navigated to the CMS login page.
+2024-10-06 07:55:31,152 [INFO] Entered the enrollment and password.
+2024-10-06 07:55:31,514 [INFO] Selected the branch: Lahore Campus
+2024-10-06 07:55:31,604 [INFO] Selected the role: Student
+2024-10-06 07:55:32,134 [INFO] Clicked the login button.
+2024-10-06 07:56:39,794 [INFO] Navigated to the CMS login page.
+2024-10-06 07:56:40,155 [INFO] Entered the enrollment and password.
+2024-10-06 07:56:40,525 [INFO] Selected the branch: Lahore Campus
+2024-10-06 07:56:40,618 [INFO] Selected the role: Student
+2024-10-06 07:56:41,187 [INFO] Clicked the login button.
+2024-10-06 07:58:40,586 [INFO] Navigated to the CMS login page.
+2024-10-06 07:58:40,919 [INFO] Entered the enrollment and password.
+2024-10-06 07:58:41,227 [INFO] Selected the branch: Lahore Campus
+2024-10-06 07:58:41,319 [INFO] Selected the role: Student
+2024-10-06 08:00:06,622 [INFO] Navigated to the CMS login page.
+2024-10-06 08:00:06,899 [INFO] Filled out the login form.
+2024-10-06 08:00:48,891 [INFO] Navigated to the CMS login page.
+2024-10-06 08:00:49,232 [INFO] Entered the enrollment and password.
+2024-10-06 08:00:49,556 [INFO] Selected the branch.
+2024-10-06 08:04:57,620 [INFO] Navigated to the CMS login page.
+2024-10-06 08:04:58,095 [INFO] Entered the enrollment and password.
+2024-10-06 08:04:58,397 [INFO] Clicked on the branch dropdown.
+2024-10-06 08:04:58,542 [INFO] Selected the branch dropdown.
+2024-10-06 08:04:58,718 [INFO] Selected the branch: Lahore Campus
+2024-10-06 08:08:58,542 [INFO] Navigated to the CMS login page.
+2024-10-06 08:08:58,815 [INFO] Entered the enrollment and password.
+2024-10-06 08:08:58,974 [INFO] Clicked on the branch dropdown.
+2024-10-06 08:08:59,069 [INFO] Selected the branch dropdown.
+2024-10-06 08:08:59,223 [INFO] Selected the branch: Lahore Campus
+2024-10-06 08:08:59,322 [INFO] Selected the role: Student
+2024-10-06 08:08:59,820 [INFO] Clicked on the login button.
+2024-10-06 08:10:40,977 [INFO] Navigated to the CMS login page.
+2024-10-06 08:10:41,312 [INFO] Entered the enrollment and password.
+2024-10-06 08:10:41,477 [INFO] Clicked on the branch dropdown.
+2024-10-06 08:10:41,522 [INFO] Selected the branch dropdown.
+2024-10-06 08:10:41,657 [INFO] Selected the branch: Lahore Campus
+2024-10-06 08:10:41,742 [INFO] Selected the role: Student
+2024-10-06 08:10:42,432 [INFO] Clicked on the login button.
+2024-10-06 08:12:33,474 [INFO] Navigated to the CMS login page.
+2024-10-06 08:12:33,769 [INFO] Entered the enrollment and password.
+2024-10-06 08:12:33,932 [INFO] Clicked on the branch dropdown.
+2024-10-06 08:12:33,995 [INFO] Selected the branch dropdown.
+2024-10-06 08:12:34,141 [INFO] Selected the branch: Lahore Campus
+2024-10-06 08:12:34,241 [INFO] Selected the role: Student
+2024-10-06 08:12:34,686 [INFO] Clicked on the login button.
+2024-10-06 08:12:34,856 [ERROR] Failed to navigate to LMS: Message: no such element: Unable to locate element: {"method":"css selector","selector":"[id="sideMenuList"]"}
+  (Session info: chrome=129.0.6668.89); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+#0 0x5cb081cc710a <unknown>
+#1 0x5cb0819ad5e0 <unknown>
+#2 0x5cb0819fcbe8 <unknown>
+#3 0x5cb0819fce81 <unknown>
+#4 0x5cb081a438c4 <unknown>
+#5 0x5cb081a21b4d <unknown>
+#6 0x5cb081a40d7d <unknown>
+#7 0x5cb081a218c3 <unknown>
+#8 0x5cb0819ef6b3 <unknown>
+#9 0x5cb0819f068e <unknown>
+#10 0x5cb081c91b0b <unknown>
+#11 0x5cb081c95a91 <unknown>
+#12 0x5cb081c7e305 <unknown>
+#13 0x5cb081c96612 <unknown>
+#14 0x5cb081c6346f <unknown>
+#15 0x5cb081cb6008 <unknown>
+#16 0x5cb081cb61d3 <unknown>
+#17 0x5cb081cc5f5c <unknown>
+#18 0x7f228a10a39d <unknown>
+#19 0x7f228a18f49c <unknown>
+
+2024-10-06 08:13:15,038 [INFO] Navigated to the CMS login page.
+2024-10-06 08:13:15,353 [INFO] Entered the enrollment and password.
+2024-10-06 08:13:15,540 [INFO] Clicked on the branch dropdown.
+2024-10-06 08:13:15,605 [INFO] Selected the branch dropdown.
+2024-10-06 08:13:15,726 [INFO] Selected the branch: Lahore Campus
+2024-10-06 08:13:15,813 [INFO] Selected the role: Student
+2024-10-06 08:13:16,404 [INFO] Clicked on the login button.
+2024-10-06 08:13:17,686 [INFO] clicked on the LMS link.
+2024-10-06 08:14:30,700 [INFO] Navigated to the CMS login page.
+2024-10-06 08:14:30,994 [INFO] Entered the enrollment and password.
+2024-10-06 08:14:31,275 [INFO] Clicked on the branch dropdown.
+2024-10-06 08:14:31,372 [INFO] Selected the branch dropdown.
+2024-10-06 08:14:31,500 [INFO] Selected the branch: Lahore Campus
+2024-10-06 08:14:31,589 [INFO] Selected the role: Student
+2024-10-06 08:14:31,961 [INFO] Clicked on the login button.
+2024-10-06 08:14:32,107 [ERROR] Failed to navigate to LMS: Message: no such element: Unable to locate element: {"method":"css selector","selector":"[id="sideMenuList"]"}
+  (Session info: chrome=129.0.6668.89); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+#0 0x5cc2d0b5d10a <unknown>
+#1 0x5cc2d08435e0 <unknown>
+#2 0x5cc2d0892be8 <unknown>
+#3 0x5cc2d0892e81 <unknown>
+#4 0x5cc2d08d98c4 <unknown>
+#5 0x5cc2d08b7b4d <unknown>
+#6 0x5cc2d08d6d7d <unknown>
+#7 0x5cc2d08b78c3 <unknown>
+#8 0x5cc2d08856b3 <unknown>
+#9 0x5cc2d088668e <unknown>
+#10 0x5cc2d0b27b0b <unknown>
+#11 0x5cc2d0b2ba91 <unknown>
+#12 0x5cc2d0b14305 <unknown>
+#13 0x5cc2d0b2c612 <unknown>
+#14 0x5cc2d0af946f <unknown>
+#15 0x5cc2d0b4c008 <unknown>
+#16 0x5cc2d0b4c1d3 <unknown>
+#17 0x5cc2d0b5bf5c <unknown>
+#18 0x7ba94acef39d <unknown>
+#19 0x7ba94ad7449c <unknown>
+
+2024-10-06 08:15:38,989 [INFO] Navigated to the CMS login page.
+2024-10-06 08:15:39,314 [INFO] Entered the enrollment and password.
+2024-10-06 08:15:39,476 [INFO] Clicked on the branch dropdown.
+2024-10-06 08:15:39,543 [INFO] Selected the branch dropdown.
+2024-10-06 08:15:39,678 [INFO] Selected the branch: Lahore Campus
+2024-10-06 08:15:39,764 [INFO] Selected the role: Student
+2024-10-06 08:15:40,358 [INFO] Clicked on the login button.
+2024-10-06 08:15:40,519 [ERROR] Failed to navigate to LMS: Message: no such element: Unable to locate element: {"method":"css selector","selector":"[id="sideMenuList"]"}
+  (Session info: chrome=129.0.6668.89); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+#0 0x641096f6910a <unknown>
+#1 0x641096c4f5e0 <unknown>
+#2 0x641096c9ebe8 <unknown>
+#3 0x641096c9ee81 <unknown>
+#4 0x641096ce58c4 <unknown>
+#5 0x641096cc3b4d <unknown>
+#6 0x641096ce2d7d <unknown>
+#7 0x641096cc38c3 <unknown>
+#8 0x641096c916b3 <unknown>
+#9 0x641096c9268e <unknown>
+#10 0x641096f33b0b <unknown>
+#11 0x641096f37a91 <unknown>
+#12 0x641096f20305 <unknown>
+#13 0x641096f38612 <unknown>
+#14 0x641096f0546f <unknown>
+#15 0x641096f58008 <unknown>
+#16 0x641096f581d3 <unknown>
+#17 0x641096f67f5c <unknown>
+#18 0x75b175ad039d <unknown>
+#19 0x75b175b5549c <unknown>
+
+2024-10-06 08:16:51,916 [INFO] Navigated to the CMS login page.
+2024-10-06 08:16:52,237 [INFO] Entered the enrollment and password.
+2024-10-06 08:16:52,392 [INFO] Clicked on the branch dropdown.
+2024-10-06 08:16:52,443 [INFO] Selected the branch dropdown.
+2024-10-06 08:16:52,583 [INFO] Selected the branch: Lahore Campus
+2024-10-06 08:16:52,669 [INFO] Selected the role: Student
+2024-10-06 08:16:53,269 [INFO] Clicked on the login button.
+2024-10-06 08:16:53,436 [ERROR] Failed to navigate to LMS: Message: no such element: Unable to locate element: {"method":"css selector","selector":"[id="sideMenuList"]"}
+  (Session info: chrome=129.0.6668.89); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+#0 0x5e9b7e86a10a <unknown>
+#1 0x5e9b7e5505e0 <unknown>
+#2 0x5e9b7e59fbe8 <unknown>
+#3 0x5e9b7e59fe81 <unknown>
+#4 0x5e9b7e5e68c4 <unknown>
+#5 0x5e9b7e5c4b4d <unknown>
+#6 0x5e9b7e5e3d7d <unknown>
+#7 0x5e9b7e5c48c3 <unknown>
+#8 0x5e9b7e5926b3 <unknown>
+#9 0x5e9b7e59368e <unknown>
+#10 0x5e9b7e834b0b <unknown>
+#11 0x5e9b7e838a91 <unknown>
+#12 0x5e9b7e821305 <unknown>
+#13 0x5e9b7e839612 <unknown>
+#14 0x5e9b7e80646f <unknown>
+#15 0x5e9b7e859008 <unknown>
+#16 0x5e9b7e8591d3 <unknown>
+#17 0x5e9b7e868f5c <unknown>
+#18 0x7f0bfe6cb39d <unknown>
+#19 0x7f0bfe75049c <unknown>
+
+2024-10-06 08:17:37,351 [INFO] Navigated to the CMS login page.
+2024-10-06 08:17:37,852 [INFO] Entered the enrollment and password.
+2024-10-06 08:17:38,014 [INFO] Clicked on the branch dropdown.
+2024-10-06 08:17:38,072 [INFO] Selected the branch dropdown.
+2024-10-06 08:17:38,214 [INFO] Selected the branch: Lahore Campus
+2024-10-06 08:17:38,299 [INFO] Selected the role: Student
+2024-10-06 08:17:39,118 [INFO] Clicked on the login button.
+2024-10-06 08:17:40,445 [INFO] Navigated to the LMS successfully!
+2024-10-06 08:17:58,696 [INFO] Navigated to the CMS login page.
+2024-10-06 08:17:58,987 [INFO] Entered the enrollment and password.
+2024-10-06 08:17:59,168 [INFO] Clicked on the branch dropdown.
+2024-10-06 08:17:59,251 [INFO] Selected the branch dropdown.
+2024-10-06 08:17:59,373 [INFO] Selected the branch: Lahore Campus
+2024-10-06 08:17:59,463 [INFO] Selected the role: Student
+2024-10-06 08:18:00,297 [INFO] Clicked on the login button.
+2024-10-06 08:18:01,592 [INFO] Navigated to the LMS successfully!
+2024-10-06 08:18:57,015 [INFO] Navigated to the CMS login page.
+2024-10-06 08:18:57,359 [INFO] Entered the enrollment and password.
+2024-10-06 08:18:57,506 [INFO] Clicked on the branch dropdown.
+2024-10-06 08:18:57,568 [INFO] Selected the branch dropdown.
+2024-10-06 08:18:57,694 [INFO] Selected the branch: Lahore Campus
+2024-10-06 08:18:57,779 [INFO] Selected the role: Student
+2024-10-06 08:18:58,300 [INFO] Clicked on the login button.
+2024-10-06 08:18:58,457 [ERROR] Failed to navigate to LMS: Message: no such element: Unable to locate element: {"method":"css selector","selector":"[id="sideMenuList"]"}
+  (Session info: chrome=129.0.6668.89); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+#0 0x57c620ff510a <unknown>
+#1 0x57c620cdb5e0 <unknown>
+#2 0x57c620d2abe8 <unknown>
+#3 0x57c620d2ae81 <unknown>
+#4 0x57c620d718c4 <unknown>
+#5 0x57c620d4fb4d <unknown>
+#6 0x57c620d6ed7d <unknown>
+#7 0x57c620d4f8c3 <unknown>
+#8 0x57c620d1d6b3 <unknown>
+#9 0x57c620d1e68e <unknown>
+#10 0x57c620fbfb0b <unknown>
+#11 0x57c620fc3a91 <unknown>
+#12 0x57c620fac305 <unknown>
+#13 0x57c620fc4612 <unknown>
+#14 0x57c620f9146f <unknown>
+#15 0x57c620fe4008 <unknown>
+#16 0x57c620fe41d3 <unknown>
+#17 0x57c620ff3f5c <unknown>
+#18 0x7e04c814639d <unknown>
+#19 0x7e04c81cb49c <unknown>
+
+2024-10-06 08:19:17,210 [INFO] Navigated to the CMS login page.
+2024-10-06 08:19:17,506 [INFO] Entered the enrollment and password.
+2024-10-06 08:19:17,671 [INFO] Clicked on the branch dropdown.
+2024-10-06 08:19:17,757 [INFO] Selected the branch dropdown.
+2024-10-06 08:19:17,893 [INFO] Selected the branch: Lahore Campus
+2024-10-06 08:19:17,976 [INFO] Selected the role: Student
+2024-10-06 08:19:18,586 [INFO] Clicked on the login button.
+2024-10-06 08:19:18,741 [ERROR] Failed to navigate to LMS: Message: no such element: Unable to locate element: {"method":"css selector","selector":"[id="sideMenuList"]"}
+  (Session info: chrome=129.0.6668.89); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+#0 0x575bb92ba10a <unknown>
+#1 0x575bb8fa05e0 <unknown>
+#2 0x575bb8fefbe8 <unknown>
+#3 0x575bb8fefe81 <unknown>
+#4 0x575bb90368c4 <unknown>
+#5 0x575bb9014b4d <unknown>
+#6 0x575bb9033d7d <unknown>
+#7 0x575bb90148c3 <unknown>
+#8 0x575bb8fe26b3 <unknown>
+#9 0x575bb8fe368e <unknown>
+#10 0x575bb9284b0b <unknown>
+#11 0x575bb9288a91 <unknown>
+#12 0x575bb9271305 <unknown>
+#13 0x575bb9289612 <unknown>
+#14 0x575bb925646f <unknown>
+#15 0x575bb92a9008 <unknown>
+#16 0x575bb92a91d3 <unknown>
+#17 0x575bb92b8f5c <unknown>
+#18 0x75066f5cd39d <unknown>
+#19 0x75066f65249c <unknown>
+
+2024-10-06 08:19:30,013 [INFO] Navigated to the CMS login page.
+2024-10-06 08:19:30,359 [INFO] Entered the enrollment and password.
+2024-10-06 08:19:30,519 [INFO] Clicked on the branch dropdown.
+2024-10-06 08:19:30,581 [INFO] Selected the branch dropdown.
+2024-10-06 08:19:30,709 [INFO] Selected the branch: Lahore Campus
+2024-10-06 08:19:30,797 [INFO] Selected the role: Student
+2024-10-06 08:19:31,658 [INFO] Clicked on the login button.
+2024-10-06 08:19:32,929 [INFO] Navigated to the LMS successfully!
+2024-10-06 08:21:06,877 [INFO] Navigated to the CMS login page.
+2024-10-06 08:21:07,193 [INFO] Entered the enrollment and password.
+2024-10-06 08:21:07,350 [INFO] Clicked on the branch dropdown.
+2024-10-06 08:21:07,415 [INFO] Selected the branch dropdown.
+2024-10-06 08:21:07,542 [INFO] Selected the branch: Lahore Campus
+2024-10-06 08:21:07,629 [INFO] Selected the role: Student
+2024-10-06 08:21:08,240 [INFO] Clicked on the login button.
+2024-10-06 08:21:08,399 [ERROR] Failed to navigate to LMS: Message: no such element: Unable to locate element: {"method":"css selector","selector":"[id="sideMenuList"]"}
+  (Session info: chrome=129.0.6668.89); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+#0 0x55c01b87610a <unknown>
+#1 0x55c01b55c5e0 <unknown>
+#2 0x55c01b5abbe8 <unknown>
+#3 0x55c01b5abe81 <unknown>
+#4 0x55c01b5f28c4 <unknown>
+#5 0x55c01b5d0b4d <unknown>
+#6 0x55c01b5efd7d <unknown>
+#7 0x55c01b5d08c3 <unknown>
+#8 0x55c01b59e6b3 <unknown>
+#9 0x55c01b59f68e <unknown>
+#10 0x55c01b840b0b <unknown>
+#11 0x55c01b844a91 <unknown>
+#12 0x55c01b82d305 <unknown>
+#13 0x55c01b845612 <unknown>
+#14 0x55c01b81246f <unknown>
+#15 0x55c01b865008 <unknown>
+#16 0x55c01b8651d3 <unknown>
+#17 0x55c01b874f5c <unknown>
+#18 0x7b4fcfb4439d <unknown>
+#19 0x7b4fcfbc949c <unknown>
+
+2024-10-06 08:22:46,488 [INFO] Navigated to the CMS login page.
+2024-10-06 08:22:46,797 [INFO] Entered the enrollment and password.
+2024-10-06 08:22:46,950 [INFO] Clicked on the branch dropdown.
+2024-10-06 08:22:47,008 [INFO] Selected the branch dropdown.
+2024-10-06 08:22:47,146 [INFO] Selected the branch: Lahore Campus
+2024-10-06 08:22:47,230 [INFO] Selected the role: Student
+2024-10-06 08:22:47,772 [INFO] Clicked on the login button.
+2024-10-06 08:22:47,930 [ERROR] Failed to navigate to LMS: Message: no such element: Unable to locate element: {"method":"css selector","selector":"[id="sideMenuList"]"}
+  (Session info: chrome=129.0.6668.89); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+#0 0x56f7ae9f410a <unknown>
+#1 0x56f7ae6da5e0 <unknown>
+#2 0x56f7ae729be8 <unknown>
+#3 0x56f7ae729e81 <unknown>
+#4 0x56f7ae7708c4 <unknown>
+#5 0x56f7ae74eb4d <unknown>
+#6 0x56f7ae76dd7d <unknown>
+#7 0x56f7ae74e8c3 <unknown>
+#8 0x56f7ae71c6b3 <unknown>
+#9 0x56f7ae71d68e <unknown>
+#10 0x56f7ae9beb0b <unknown>
+#11 0x56f7ae9c2a91 <unknown>
+#12 0x56f7ae9ab305 <unknown>
+#13 0x56f7ae9c3612 <unknown>
+#14 0x56f7ae99046f <unknown>
+#15 0x56f7ae9e3008 <unknown>
+#16 0x56f7ae9e31d3 <unknown>
+#17 0x56f7ae9f2f5c <unknown>
+#18 0x7dfba653239d <unknown>
+#19 0x7dfba65b749c <unknown>
+
+2024-10-06 08:27:55,137 [INFO] Navigated to the CMS login page.
+2024-10-06 08:27:55,590 [INFO] Entered the enrollment and password.
+2024-10-06 08:27:55,772 [INFO] Clicked on the branch dropdown.
+2024-10-06 08:27:55,857 [INFO] Selected the branch dropdown.
+2024-10-06 08:27:56,023 [INFO] Selected the branch: Lahore Campus
+2024-10-06 08:27:56,112 [INFO] Selected the role: Student
+2024-10-06 08:27:56,753 [INFO] Clicked on the login button.
+2024-10-06 08:27:57,148 [INFO] Navigated to the LMS successfully!
+2024-10-06 08:28:07,864 [WARNING] Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x79c612e074a0>: Failed to establish a new connection: [Errno 111] Connection refused')': /session/4ea73b53bda5b2b63c4ade15b211a920
+2024-10-06 08:28:07,866 [WARNING] Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x79c612e075f0>: Failed to establish a new connection: [Errno 111] Connection refused')': /session/4ea73b53bda5b2b63c4ade15b211a920
+2024-10-06 08:28:07,868 [WARNING] Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x79c612e079e0>: Failed to establish a new connection: [Errno 111] Connection refused')': /session/4ea73b53bda5b2b63c4ade15b211a920
+2024-10-06 08:29:27,302 [INFO] Navigated to the CMS login page.
+2024-10-06 08:29:27,690 [INFO] Entered the enrollment and password.
+2024-10-06 08:29:27,887 [INFO] Clicked on the branch dropdown.
+2024-10-06 08:29:27,983 [INFO] Selected the branch dropdown.
+2024-10-06 08:29:28,111 [INFO] Selected the branch: Lahore Campus
+2024-10-06 08:29:28,208 [INFO] Selected the role: Student
+2024-10-06 08:29:29,092 [INFO] Clicked on the login button.
+2024-10-06 08:29:29,443 [INFO] Clicked the go to lms link.
+2024-10-06 08:30:07,895 [INFO] Navigated to the CMS login page.
+2024-10-06 08:30:08,162 [INFO] Entered the enrollment and password.
+2024-10-06 08:30:08,322 [INFO] Clicked on the branch dropdown.
+2024-10-06 08:30:08,417 [INFO] Selected the branch dropdown.
+2024-10-06 08:30:08,544 [INFO] Selected the branch: Lahore Campus
+2024-10-06 08:30:08,632 [INFO] Selected the role: Student
+2024-10-06 08:30:09,229 [INFO] Clicked on the login button.
+2024-10-06 08:30:09,373 [ERROR] Failed to navigate to LMS: Message: no such element: Unable to locate element: {"method":"css selector","selector":"[id="sideMenuList"]"}
+  (Session info: chrome=129.0.6668.89); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+#0 0x5b1aa25ad10a <unknown>
+#1 0x5b1aa22935e0 <unknown>
+#2 0x5b1aa22e2be8 <unknown>
+#3 0x5b1aa22e2e81 <unknown>
+#4 0x5b1aa23298c4 <unknown>
+#5 0x5b1aa2307b4d <unknown>
+#6 0x5b1aa2326d7d <unknown>
+#7 0x5b1aa23078c3 <unknown>
+#8 0x5b1aa22d56b3 <unknown>
+#9 0x5b1aa22d668e <unknown>
+#10 0x5b1aa2577b0b <unknown>
+#11 0x5b1aa257ba91 <unknown>
+#12 0x5b1aa2564305 <unknown>
+#13 0x5b1aa257c612 <unknown>
+#14 0x5b1aa254946f <unknown>
+#15 0x5b1aa259c008 <unknown>
+#16 0x5b1aa259c1d3 <unknown>
+#17 0x5b1aa25abf5c <unknown>
+#18 0x759382dc439d <unknown>
+#19 0x759382e4949c <unknown>
+
+2024-10-06 08:30:31,167 [INFO] Navigated to the CMS login page.
+2024-10-06 08:30:31,475 [INFO] Entered the enrollment and password.
+2024-10-06 08:30:31,639 [INFO] Clicked on the branch dropdown.
+2024-10-06 08:30:31,709 [INFO] Selected the branch dropdown.
+2024-10-06 08:30:31,843 [INFO] Selected the branch: Lahore Campus
+2024-10-06 08:30:31,927 [INFO] Selected the role: Student
+2024-10-06 08:30:32,760 [INFO] Clicked on the login button.
+2024-10-06 08:30:33,012 [INFO] Clicked the go to lms link.
+2024-10-06 08:30:33,051 [INFO] Switched to the LMS window/tab.
+2024-10-06 08:31:07,907 [INFO] Navigated to the CMS login page.
+2024-10-06 08:31:08,217 [INFO] Entered the enrollment and password.
+2024-10-06 08:31:08,367 [INFO] Clicked on the branch dropdown.
+2024-10-06 08:31:08,429 [INFO] Selected the branch dropdown.
+2024-10-06 08:31:08,557 [INFO] Selected the branch: Lahore Campus
+2024-10-06 08:31:08,641 [INFO] Selected the role: Student
+2024-10-06 08:31:09,251 [INFO] Clicked on the login button.
+2024-10-06 08:31:09,636 [INFO] Clicked the go to lms link.
+2024-10-06 08:31:09,688 [INFO] Switched to the LMS window/tab.
+2024-10-06 08:32:00,174 [INFO] Navigated to the CMS login page.
+2024-10-06 08:32:00,487 [INFO] Entered the enrollment and password.
+2024-10-06 08:32:00,641 [INFO] Clicked on the branch dropdown.
+2024-10-06 08:32:00,698 [INFO] Selected the branch dropdown.
+2024-10-06 08:32:00,835 [INFO] Selected the branch: Lahore Campus
+2024-10-06 08:32:00,924 [INFO] Selected the role: Student
+2024-10-06 08:32:01,458 [INFO] Clicked on the login button.
+2024-10-06 08:32:01,620 [ERROR] Failed to navigate to LMS: Message: no such element: Unable to locate element: {"method":"css selector","selector":"[id="sideMenuList"]"}
+  (Session info: chrome=129.0.6668.89); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+#0 0x619615af910a <unknown>
+#1 0x6196157df5e0 <unknown>
+#2 0x61961582ebe8 <unknown>
+#3 0x61961582ee81 <unknown>
+#4 0x6196158758c4 <unknown>
+#5 0x619615853b4d <unknown>
+#6 0x619615872d7d <unknown>
+#7 0x6196158538c3 <unknown>
+#8 0x6196158216b3 <unknown>
+#9 0x61961582268e <unknown>
+#10 0x619615ac3b0b <unknown>
+#11 0x619615ac7a91 <unknown>
+#12 0x619615ab0305 <unknown>
+#13 0x619615ac8612 <unknown>
+#14 0x619615a9546f <unknown>
+#15 0x619615ae8008 <unknown>
+#16 0x619615ae81d3 <unknown>
+#17 0x619615af7f5c <unknown>
+#18 0x765fe0b1339d <unknown>
+#19 0x765fe0b9849c <unknown>
+
+2024-10-06 08:32:07,188 [INFO] Failed to navigate to Assignments page: Message: 
+
+2024-10-06 08:32:46,103 [INFO] Navigated to the CMS login page.
+2024-10-06 08:32:46,421 [INFO] Entered the enrollment and password.
+2024-10-06 08:32:46,570 [INFO] Clicked on the branch dropdown.
+2024-10-06 08:32:46,635 [INFO] Selected the branch dropdown.
+2024-10-06 08:32:46,809 [INFO] Selected the branch: Lahore Campus
+2024-10-06 08:32:46,922 [INFO] Selected the role: Student
+2024-10-06 08:32:47,622 [INFO] Clicked on the login button.
+2024-10-06 08:32:47,869 [INFO] Clicked the go to lms link.
+2024-10-06 08:32:47,910 [INFO] Switched to the LMS window/tab.
+2024-10-06 08:32:59,700 [INFO] Failed to navigate to Assignments page: Message: 
+
+2024-10-06 08:37:37,207 [INFO] Navigated to the CMS login page.
+2024-10-06 08:37:37,594 [INFO] Entered the enrollment and password.
+2024-10-06 08:37:37,785 [INFO] Clicked on the branch dropdown.
+2024-10-06 08:37:37,888 [INFO] Selected the branch dropdown.
+2024-10-06 08:37:38,061 [INFO] Selected the branch: Lahore Campus
+2024-10-06 08:37:38,179 [INFO] Selected the role: Student
+2024-10-06 08:37:38,775 [INFO] Clicked on the login button.
+2024-10-06 08:37:39,015 [ERROR] Failed to navigate to LMS: Message: no such element: Unable to locate element: {"method":"css selector","selector":"[id="sideMenuList"]"}
+  (Session info: chrome=129.0.6668.89); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+#0 0x5763d4b6410a <unknown>
+#1 0x5763d484a5e0 <unknown>
+#2 0x5763d4899be8 <unknown>
+#3 0x5763d4899e81 <unknown>
+#4 0x5763d48e08c4 <unknown>
+#5 0x5763d48beb4d <unknown>
+#6 0x5763d48ddd7d <unknown>
+#7 0x5763d48be8c3 <unknown>
+#8 0x5763d488c6b3 <unknown>
+#9 0x5763d488d68e <unknown>
+#10 0x5763d4b2eb0b <unknown>
+#11 0x5763d4b32a91 <unknown>
+#12 0x5763d4b1b305 <unknown>
+#13 0x5763d4b33612 <unknown>
+#14 0x5763d4b0046f <unknown>
+#15 0x5763d4b53008 <unknown>
+#16 0x5763d4b531d3 <unknown>
+#17 0x5763d4b62f5c <unknown>
+#18 0x77532348f39d <unknown>
+#19 0x77532351449c <unknown>
+
+2024-10-06 08:37:43,249 [INFO] Failed to navigate to Assignments page: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=129.0.6668.89)
+Stacktrace:
+#0 0x5763d4b6410a <unknown>
+#1 0x5763d484a5e0 <unknown>
+#2 0x5763d48201af <unknown>
+#3 0x5763d48c703d <unknown>
+#4 0x5763d48dd629 <unknown>
+#5 0x5763d48be8c3 <unknown>
+#6 0x5763d488c6b3 <unknown>
+#7 0x5763d488d68e <unknown>
+#8 0x5763d4b2eb0b <unknown>
+#9 0x5763d4b32a91 <unknown>
+#10 0x5763d4b1b305 <unknown>
+#11 0x5763d4b33612 <unknown>
+#12 0x5763d4b0046f <unknown>
+#13 0x5763d4b53008 <unknown>
+#14 0x5763d4b531d3 <unknown>
+#15 0x5763d4b62f5c <unknown>
+#16 0x77532348f39d <unknown>
+#17 0x77532351449c <unknown>
+
+2024-10-06 08:38:13,467 [INFO] Navigated to the CMS login page.
+2024-10-06 08:38:13,958 [INFO] Entered the enrollment and password.
+2024-10-06 08:38:14,238 [INFO] Clicked on the branch dropdown.
+2024-10-06 08:38:14,334 [INFO] Selected the branch dropdown.
+2024-10-06 08:38:14,501 [INFO] Selected the branch: Lahore Campus
+2024-10-06 08:38:14,603 [INFO] Selected the role: Student
+2024-10-06 08:38:15,654 [INFO] Clicked on the login button.
+2024-10-06 08:38:16,046 [INFO] Clicked the go to lms link.
+2024-10-06 08:38:16,132 [INFO] Switched to the LMS window/tab.
+2024-10-06 08:38:28,346 [INFO] Failed to navigate to Assignments page: Message: 
+
+2024-10-06 08:46:12,311 [INFO] Navigated to the CMS login page.
+2024-10-06 08:46:12,614 [INFO] Entered the enrollment and password.
+2024-10-06 08:46:12,781 [INFO] Clicked on the branch dropdown.
+2024-10-06 08:46:12,871 [INFO] Selected the branch dropdown.
+2024-10-06 08:46:12,994 [INFO] Selected the branch: Lahore Campus
+2024-10-06 08:46:13,086 [INFO] Selected the role: Student
+2024-10-06 08:46:13,847 [INFO] Clicked on the login button.
+2024-10-06 08:46:14,095 [INFO] Clicked the go to lms link.
+2024-10-06 08:46:14,126 [INFO] Switched to the LMS window/tab.
+2024-10-06 08:46:18,498 [INFO] Navigated to the Assignments page successfully!
+2024-10-06 08:55:00,476 [INFO] Navigated to the CMS login page.
+2024-10-06 08:55:00,866 [INFO] Entered the enrollment and password.
+2024-10-06 08:55:01,051 [INFO] Clicked on the branch dropdown.
+2024-10-06 08:55:01,120 [INFO] Selected the branch dropdown.
+2024-10-06 08:55:01,258 [INFO] Selected the branch: Lahore Campus
+2024-10-06 08:55:01,343 [INFO] Selected the role: Student
+2024-10-06 08:55:01,822 [INFO] Clicked on the login button.
+2024-10-06 08:55:02,178 [INFO] Clicked the go to lms link.
+2024-10-06 08:55:02,213 [INFO] Switched to the LMS window/tab.
+2024-10-06 08:55:04,549 [INFO] Navigated to the Assignments page successfully!
+2024-10-06 08:55:05,405 [INFO] Selected the course 1.
+2024-10-06 08:55:31,294 [INFO] Navigated to the CMS login page.
+2024-10-06 08:55:31,578 [INFO] Entered the enrollment and password.
+2024-10-06 08:55:31,755 [INFO] Clicked on the branch dropdown.
+2024-10-06 08:55:31,818 [INFO] Selected the branch dropdown.
+2024-10-06 08:55:31,953 [INFO] Selected the branch: Lahore Campus
+2024-10-06 08:55:32,042 [INFO] Selected the role: Student
+2024-10-06 08:55:33,849 [INFO] Clicked on the login button.
+2024-10-06 08:55:34,142 [INFO] Clicked the go to lms link.
+2024-10-06 08:55:34,223 [INFO] Switched to the LMS window/tab.
+2024-10-06 08:55:42,210 [INFO] Navigated to the Assignments page successfully!
+2024-10-06 08:55:43,449 [INFO] Selected the course 1.
+2024-10-06 09:04:13,422 [INFO] Navigated to the CMS login page.
+2024-10-06 09:04:13,763 [INFO] Entered the enrollment and password.
+2024-10-06 09:04:13,925 [INFO] Clicked on the branch dropdown.
+2024-10-06 09:04:13,992 [INFO] Selected the branch dropdown.
+2024-10-06 09:04:14,120 [INFO] Selected the branch: Lahore Campus
+2024-10-06 09:04:14,246 [INFO] Selected the role: Student
+2024-10-06 09:04:14,787 [INFO] Clicked on the login button.
+2024-10-06 09:04:14,949 [ERROR] Failed to navigate to LMS: Message: no such element: Unable to locate element: {"method":"css selector","selector":"[id="sideMenuList"]"}
+  (Session info: chrome=129.0.6668.89); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+#0 0x6377a442d10a <unknown>
+#1 0x6377a41135e0 <unknown>
+#2 0x6377a4162be8 <unknown>
+#3 0x6377a4162e81 <unknown>
+#4 0x6377a41a98c4 <unknown>
+#5 0x6377a4187b4d <unknown>
+#6 0x6377a41a6d7d <unknown>
+#7 0x6377a41878c3 <unknown>
+#8 0x6377a41556b3 <unknown>
+#9 0x6377a415668e <unknown>
+#10 0x6377a43f7b0b <unknown>
+#11 0x6377a43fba91 <unknown>
+#12 0x6377a43e4305 <unknown>
+#13 0x6377a43fc612 <unknown>
+#14 0x6377a43c946f <unknown>
+#15 0x6377a441c008 <unknown>
+#16 0x6377a441c1d3 <unknown>
+#17 0x6377a442bf5c <unknown>
+#18 0x768bf0b1739d <unknown>
+#19 0x768bf0b9c49c <unknown>
+
+2024-10-06 09:04:21,632 [ERROR] Failed to navigate to Assignments page: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=129.0.6668.89)
+Stacktrace:
+#0 0x6377a442d10a <unknown>
+#1 0x6377a41135e0 <unknown>
+#2 0x6377a40e91af <unknown>
+#3 0x6377a419003d <unknown>
+#4 0x6377a41a6629 <unknown>
+#5 0x6377a41878c3 <unknown>
+#6 0x6377a41556b3 <unknown>
+#7 0x6377a415668e <unknown>
+#8 0x6377a43f7b0b <unknown>
+#9 0x6377a43fba91 <unknown>
+#10 0x6377a43e4305 <unknown>
+#11 0x6377a43fc612 <unknown>
+#12 0x6377a43c946f <unknown>
+#13 0x6377a441c008 <unknown>
+#14 0x6377a441c1d3 <unknown>
+#15 0x6377a442bf5c <unknown>
+#16 0x768bf0b1739d <unknown>
+#17 0x768bf0b9c49c <unknown>
+
+2024-10-06 09:06:15,552 [INFO] Navigated to the CMS login page.
+2024-10-06 09:06:15,802 [INFO] Entered the enrollment and password.
+2024-10-06 09:06:15,971 [INFO] Clicked on the branch dropdown.
+2024-10-06 09:06:16,072 [INFO] Selected the branch dropdown.
+2024-10-06 09:06:16,206 [INFO] Selected the branch: Lahore Campus
+2024-10-06 09:06:16,297 [INFO] Selected the role: Student
+2024-10-06 09:06:16,747 [INFO] Clicked on the login button.
+2024-10-06 09:06:17,582 [INFO] Clicked the go to lms link.
+2024-10-06 09:06:17,634 [INFO] Switched to the LMS window/tab.
+2024-10-06 09:06:19,947 [INFO] Navigated to the Assignments page successfully!
+2024-10-06 09:06:20,014 [INFO] Total courses: 9
+2024-10-06 09:06:25,764 [ERROR] Failed to navigate to Assignments page: Message: stale element reference: stale element not found
+  (Session info: chrome=129.0.6668.89); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Stacktrace:
+#0 0x64bfc742f10a <unknown>
+#1 0x64bfc71155e0 <unknown>
+#2 0x64bfc712584b <unknown>
+#3 0x64bfc711bcf8 <unknown>
+#4 0x64bfc7119ff9 <unknown>
+#5 0x64bfc711d105 <unknown>
+#6 0x64bfc711d18c <unknown>
+#7 0x64bfc7164847 <unknown>
+#8 0x64bfc7164e81 <unknown>
+#9 0x64bfc71598f3 <unknown>
+#10 0x64bfc7189b4d <unknown>
+#11 0x64bfc7159478 <unknown>
+#12 0x64bfc7189cee <unknown>
+#13 0x64bfc71a8d7d <unknown>
+#14 0x64bfc71898c3 <unknown>
+#15 0x64bfc71576b3 <unknown>
+#16 0x64bfc715868e <unknown>
+#17 0x64bfc73f9b0b <unknown>
+#18 0x64bfc73fda91 <unknown>
+#19 0x64bfc73e6305 <unknown>
+#20 0x64bfc73fe612 <unknown>
+#21 0x64bfc73cb46f <unknown>
+#22 0x64bfc741e008 <unknown>
+#23 0x64bfc741e1d3 <unknown>
+#24 0x64bfc742df5c <unknown>
+#25 0x735524eae39d <unknown>
+#26 0x735524f3349c <unknown>
+
+2024-10-06 09:07:35,890 [INFO] Navigated to the CMS login page.
+2024-10-06 09:07:36,123 [INFO] Entered the enrollment and password.
+2024-10-06 09:07:36,289 [INFO] Clicked on the branch dropdown.
+2024-10-06 09:07:36,374 [INFO] Selected the branch dropdown.
+2024-10-06 09:07:36,499 [INFO] Selected the branch: Lahore Campus
+2024-10-06 09:07:36,587 [INFO] Selected the role: Student
+2024-10-06 09:07:37,051 [INFO] Clicked on the login button.
+2024-10-06 09:07:37,901 [INFO] Clicked the go to lms link.
+2024-10-06 09:07:37,946 [INFO] Switched to the LMS window/tab.
+2024-10-06 09:07:41,910 [INFO] Navigated to the Assignments page successfully!
+2024-10-06 09:07:41,978 [INFO] Total courses: 9
+2024-10-06 09:07:47,712 [ERROR] Failed to navigate to Assignments page: Message: stale element reference: stale element not found
+  (Session info: chrome=129.0.6668.89); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Stacktrace:
+#0 0x581d7c39d10a <unknown>
+#1 0x581d7c0835e0 <unknown>
+#2 0x581d7c09384b <unknown>
+#3 0x581d7c089cf8 <unknown>
+#4 0x581d7c087ff9 <unknown>
+#5 0x581d7c08b105 <unknown>
+#6 0x581d7c08b18c <unknown>
+#7 0x581d7c0d2847 <unknown>
+#8 0x581d7c0d2e81 <unknown>
+#9 0x581d7c0c78f3 <unknown>
+#10 0x581d7c0f7b4d <unknown>
+#11 0x581d7c0c7478 <unknown>
+#12 0x581d7c0f7cee <unknown>
+#13 0x581d7c116d7d <unknown>
+#14 0x581d7c0f78c3 <unknown>
+#15 0x581d7c0c56b3 <unknown>
+#16 0x581d7c0c668e <unknown>
+#17 0x581d7c367b0b <unknown>
+#18 0x581d7c36ba91 <unknown>
+#19 0x581d7c354305 <unknown>
+#20 0x581d7c36c612 <unknown>
+#21 0x581d7c33946f <unknown>
+#22 0x581d7c38c008 <unknown>
+#23 0x581d7c38c1d3 <unknown>
+#24 0x581d7c39bf5c <unknown>
+#25 0x79ad4844c39d <unknown>
+#26 0x79ad484d149c <unknown>
+
+2024-10-06 09:09:50,953 [INFO] Navigated to the CMS login page.
+2024-10-06 09:09:51,241 [INFO] Entered the enrollment and password.
+2024-10-06 09:09:51,419 [INFO] Clicked on the branch dropdown.
+2024-10-06 09:09:51,492 [INFO] Selected the branch dropdown.
+2024-10-06 09:09:51,625 [INFO] Selected the branch: Lahore Campus
+2024-10-06 09:09:51,723 [INFO] Selected the role: Student
+2024-10-06 09:09:52,152 [INFO] Clicked on the login button.
+2024-10-06 09:09:53,353 [INFO] Clicked the go to lms link.
+2024-10-06 09:09:53,453 [INFO] Switched to the LMS window/tab.
+2024-10-06 09:09:55,247 [INFO] Navigated to the Assignments page successfully!
+2024-10-06 09:09:55,316 [INFO] Total courses: 9
+2024-10-06 09:09:56,090 [ERROR] Failed to navigate to Assignments page: name 'index' is not defined
+2024-10-06 09:10:34,849 [INFO] Navigated to the CMS login page.
+2024-10-06 09:10:35,151 [INFO] Entered the enrollment and password.
+2024-10-06 09:10:35,329 [INFO] Clicked on the branch dropdown.
+2024-10-06 09:10:35,411 [INFO] Selected the branch dropdown.
+2024-10-06 09:10:35,547 [INFO] Selected the branch: Lahore Campus
+2024-10-06 09:10:35,635 [INFO] Selected the role: Student
+2024-10-06 09:10:36,155 [INFO] Clicked on the login button.
+2024-10-06 09:10:37,127 [INFO] Clicked the go to lms link.
+2024-10-06 09:10:37,201 [INFO] Switched to the LMS window/tab.
+2024-10-06 09:10:39,435 [INFO] Navigated to the Assignments page successfully!
+2024-10-06 09:10:39,513 [INFO] Total courses: 9
+2024-10-06 09:10:40,460 [ERROR] Failed to navigate to Assignments page: Message: stale element reference: stale element not found
+  (Session info: chrome=129.0.6668.89); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Stacktrace:
+#0 0x5c7421fde10a <unknown>
+#1 0x5c7421cc45e0 <unknown>
+#2 0x5c7421cd484b <unknown>
+#3 0x5c7421ccacf8 <unknown>
+#4 0x5c7421cc8ff9 <unknown>
+#5 0x5c7421ccc105 <unknown>
+#6 0x5c7421ccc18c <unknown>
+#7 0x5c7421d13847 <unknown>
+#8 0x5c7421d13e81 <unknown>
+#9 0x5c7421d088f3 <unknown>
+#10 0x5c7421d38b4d <unknown>
+#11 0x5c7421d08478 <unknown>
+#12 0x5c7421d38cee <unknown>
+#13 0x5c7421d57d7d <unknown>
+#14 0x5c7421d388c3 <unknown>
+#15 0x5c7421d066b3 <unknown>
+#16 0x5c7421d0768e <unknown>
+#17 0x5c7421fa8b0b <unknown>
+#18 0x5c7421faca91 <unknown>
+#19 0x5c7421f95305 <unknown>
+#20 0x5c7421fad612 <unknown>
+#21 0x5c7421f7a46f <unknown>
+#22 0x5c7421fcd008 <unknown>
+#23 0x5c7421fcd1d3 <unknown>
+#24 0x5c7421fdcf5c <unknown>
+#25 0x7b4005eaa39d <unknown>
+#26 0x7b4005f2f49c <unknown>
+
+2024-10-06 10:10:19,049 [INFO] Navigated to the CMS login page.
+2024-10-06 10:10:19,783 [INFO] Entered the enrollment and password.
+2024-10-06 10:10:20,111 [INFO] Clicked on the branch dropdown.
+2024-10-06 10:10:20,260 [INFO] Selected the branch dropdown.
+2024-10-06 10:10:20,552 [INFO] Selected the branch: Lahore Campus
+2024-10-06 10:10:20,702 [INFO] Selected the role: Student
+2024-10-06 10:10:21,321 [INFO] Clicked on the login button.
+2024-10-06 10:10:22,373 [INFO] Clicked the go to lms link.
+2024-10-06 10:10:22,476 [INFO] Switched to the LMS window/tab.
+2024-10-06 10:10:24,905 [INFO] Navigated to the Assignments page successfully!
+2024-10-06 10:10:25,134 [INFO] Total courses: 9
+2024-10-06 10:10:26,147 [ERROR] Failed to navigate to Assignments page: Message: stale element reference: stale element not found
+  (Session info: chrome=129.0.6668.89); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Stacktrace:
+#0 0x57daa516110a <unknown>
+#1 0x57daa4e475e0 <unknown>
+#2 0x57daa4e5784b <unknown>
+#3 0x57daa4e4dcf8 <unknown>
+#4 0x57daa4e4bff9 <unknown>
+#5 0x57daa4e4f105 <unknown>
+#6 0x57daa4e4f18c <unknown>
+#7 0x57daa4e96847 <unknown>
+#8 0x57daa4e96e81 <unknown>
+#9 0x57daa4e8b8f3 <unknown>
+#10 0x57daa4ebbb4d <unknown>
+#11 0x57daa4e8b478 <unknown>
+#12 0x57daa4ebbcee <unknown>
+#13 0x57daa4edad7d <unknown>
+#14 0x57daa4ebb8c3 <unknown>
+#15 0x57daa4e896b3 <unknown>
+#16 0x57daa4e8a68e <unknown>
+#17 0x57daa512bb0b <unknown>
+#18 0x57daa512fa91 <unknown>
+#19 0x57daa5118305 <unknown>
+#20 0x57daa5130612 <unknown>
+#21 0x57daa50fd46f <unknown>
+#22 0x57daa5150008 <unknown>
+#23 0x57daa51501d3 <unknown>
+#24 0x57daa515ff5c <unknown>
+#25 0x7a344660139d <unknown>
+#26 0x7a344668649c <unknown>
+
