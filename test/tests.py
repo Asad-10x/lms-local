@@ -1,14 +1,12 @@
-from main import login_cms
-from main import get_assignments
+import unittest
+from src.main import *
 from selenium import webdriver
 from selenium.webdriver.common.by import By
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC 
 import time
 
-# This file is for unit testing of main.py
-
-# The first module I built is CMS_Login and the code segment for it's testing is:
+# to validate CMS login
 def validate_login(driver):
     try:
         # Wait for the page to load
@@ -80,4 +78,3 @@ def run_test():
 # Run the test
 if __name__ == "__main__":
     run_test()
-

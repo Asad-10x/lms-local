@@ -7,9 +7,6 @@ import os
 import requests
 import time
 
-# # Setting up webdriver
-# driver = webdriver.Chrome()
-
 # func to login_portal
 def login_cms(driver, enrollment, password, branch, role):
   driver.get("https://cms.bahria.edu.pk/Logins/Student/Login.aspx")
@@ -60,7 +57,7 @@ def get_assignments(driver):
   except Exception as e:
     print(f"Failed to navigate to Assignments page: {e}")
 
-# Example usage
+# Driver Program
 if __name__ == "__main__":
   driver = webdriver.Chrome()
   enrollment = "03-134202-013"
@@ -72,6 +69,3 @@ if __name__ == "__main__":
   go_to_lms(lms_name)
   get_assignments(driver)
   driver.quit()
-
-
-
