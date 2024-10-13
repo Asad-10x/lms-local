@@ -68,28 +68,106 @@ def go_to_lms(name):
   except Exception as e:
     logger.error("Failed to navigate to LMS: %s", e)
 
-def get_assignments(driver):
+def navigate_to_assignments(driver):
   try:
     driver.get("https://lms.bahria.edu.pk/Student/Assignments.php")
     WebDriverWait(driver, 10).until(EC.presence_of_element_located((By.CSS_SELECTOR, ".bg-gray.pad")))
-    logger.info("Navigated to the Assignments page successfully!")
-    
-    # Open dropdown and Select course
+    logger.info("Navigated to the assignments page successfully!")
+  except Exception as e:
+    logger.error("Failed to navigate to Assignments: %s", e)
+    return False
+  return True
+
+def select_course(driver, index):
+  try:
+    course_dropdown = WebDriverWait(driver, 10).until(EC.element_to_be_clickable((By.ID, "course")))
+    select_course = Select(course_dropdown)
+    select_course.select_by_index(index)
+    select_course_name = select_course.options[index].text
+    logger.info(f"Selected course at inded {index}: {select_course_name}")
+    return True, select_course_name
+  except Exception as e:
+    logger.warning(f"Failed to select course at index {index}: {e}")
+    return False, None
+
+#def fetch_assignment_data(driver, course_name):
+  try:
+    # Wait for the assignment table to load
+    # assignment_table = WebDriverWait(driver, 10).until(
+        # EC.presence_of_element_located((By.CSS_SELECTOR, "table table-hover"))
+    # )
+
+    assignment_rows = WebDriverWait(driver, 10).until(EC.presence_of_element_located((By.CSS_SELECTOR, "tbody > tr")))
+    if assignment_rows:
+      logger.info(f"Found {len(assignment_rows)} assignments for course: {course_name}")
+    else:
+      logger.info(f"No assignments found for course: {course_name}")
+      return
+
+    # Loop through each assignment row and extract details
+    for row in assignment_rows:
+        try:
+          assignment_no = row.find_element(By.CSS_SELECTOR, "td:nth-child(1)").text.strip()
+          title = row.find_element(By.CSS_SELECTOR, "td:nth-child(2)").text.strip()
+
+          # Extract the assignment download link if available
+          assignment_link_element = row.find_element(By.CSS_SELECTOR, "td:nth-child(3) a")
+          assignment_link = assignment_link_element.get_attribute("href") if assignment_link_element else "N/A"
+
+          # Log assignment details
+          logger.info(f"Assignment No: {assignment_no}, Title: {title}, Download Link: {assignment_link}")
+
+          # Download the assignment if a link is present
+          if assignment_link != "N/A":
+            logger.info(f"Downloading assignment {assignment_no} from {assignment_link}")
+            driver.get(assignment_link)
+            time.sleep(2)  # Wait for the download to start; adjust as needed for your environment
+
+        except Exception as e:
+            logger.error(f"Error while extracting assignment data: {e}")
+
+  except Exception as e:
+      logger.error(f"Error while fetching assignment data for course {course_name}: {e}")
+
+def process_courses(driver):
+  try:
+    # Find the course dropdown and initialize the select object
     course_dropdown = WebDriverWait(driver, 10).until(EC.presence_of_element_located((By.ID, "courseId")))
     select_course = Select(course_dropdown)
 
-    # to find the total number of courses
-    total_courses = len(select_course.options)
+    # Find the total number of courses
+    total_courses = len(select_course.options) -1 # because select course itself appears as a option :| nice engineering BULC ;)
     logger.info("Total courses: %s", total_courses)
-    
-    # loop through all the courses
-    for i in range(1, total_courses):
-      select_course = Select(driver.find_element(By.ID, "courseId"))
-      select_course.select_by_index(i)
-      logger.info(f"Selected course at index {i}: {select_course.options[i].text}")
-      
+
+    # Loop through each course and process assignments
+    for i in range(1, total_courses+1):
+      try:
+        course_dropdown = WebDriverWait(driver, 10).until(EC.presence_of_element_located((By.ID, "courseId")))
+        select_course = Select(course_dropdown)
+
+          # select by index :)
+        logger.info(f"Selected course at index {i}: {select_course.options[i].text}")
+        select_course.select_by_index(i)
+
+        time.sleep(7)
+        # Time to write a function to download assignments -_-
+        # fetch_assignment_data(driver, select_course.options[i].text)
+
+      except Exception as e:
+        logger.warning(f"Stale element encountered at index {i}. Retrying... Error: {e}")
+        time.sleep(2)
+        continue
   except Exception as e:
-    logger.error(f"Failed to navigate to Assignments page: {e}")
+    logger.error(f"Error in processing courses: {e}")
+
+def get_assignments(driver):
+    # First, navigate to the assignments page
+    if not navigate_to_assignments(driver):
+        logger.error("Failed to navigate to the assignments page. Exiting.")
+        return
+
+    # Process each course
+    process_courses(driver)
 
 # Driver Program
 if __name__ == "__main__":
@@ -99,7 +177,11 @@ if __name__ == "__main__":
   branch = "Lahore Campus"
   role = "Student"
   lms_name = "Go To LMS"
-  login_cms(driver, enrollment, password, branch, role)
-  go_to_lms(lms_name)
-  get_assignments(driver)
-  driver.quit()
+  try:
+      login_cms(driver, enrollment, password, branch, role)
+      go_to_lms(lms_name)
+      get_assignments(driver)
+  except Exception as e:
+    logger.error(f"An error occurred: {e}")
+  finally:
+    driver.quit()

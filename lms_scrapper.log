@@ -764,3 +764,2694 @@ Stacktrace:
 #25 0x7a344660139d <unknown>
 #26 0x7a344668649c <unknown>
 
+2024-10-12 04:54:21,715 [INFO] Navigated to the CMS login page.
+2024-10-12 04:54:21,981 [INFO] Entered the enrollment and password.
+2024-10-12 04:54:22,151 [INFO] Clicked on the branch dropdown.
+2024-10-12 04:54:22,208 [INFO] Selected the branch dropdown.
+2024-10-12 04:54:22,341 [INFO] Selected the branch: Lahore Campus
+2024-10-12 04:54:22,425 [INFO] Selected the role: Student
+2024-10-12 04:54:23,034 [INFO] Clicked on the login button.
+2024-10-12 04:54:23,821 [INFO] Clicked the go to lms link.
+2024-10-12 04:54:23,871 [INFO] Switched to the LMS window/tab.
+2024-10-12 04:58:00,002 [ERROR] Failed to navigate to Assignments page: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+2024-10-12 04:58:00,010 [WARNING] Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7866151bbf80>: Failed to establish a new connection: [Errno 111] Connection refused')': /session/c174722fc4d1e1bc7ec38f0492cea3d4
+2024-10-12 04:58:00,011 [WARNING] Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7866151b9bb0>: Failed to establish a new connection: [Errno 111] Connection refused')': /session/c174722fc4d1e1bc7ec38f0492cea3d4
+2024-10-12 04:58:00,012 [WARNING] Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x786615210110>: Failed to establish a new connection: [Errno 111] Connection refused')': /session/c174722fc4d1e1bc7ec38f0492cea3d4
+2024-10-12 04:58:17,106 [INFO] Navigated to the CMS login page.
+2024-10-12 04:58:17,455 [INFO] Entered the enrollment and password.
+2024-10-12 04:58:17,630 [INFO] Clicked on the branch dropdown.
+2024-10-12 04:58:17,719 [INFO] Selected the branch dropdown.
+2024-10-12 04:58:17,859 [INFO] Selected the branch: Lahore Campus
+2024-10-12 04:58:17,967 [INFO] Selected the role: Student
+2024-10-12 04:58:18,451 [INFO] Clicked on the login button.
+2024-10-12 04:58:19,414 [INFO] Clicked the go to lms link.
+2024-10-12 04:58:19,547 [INFO] Switched to the LMS window/tab.
+2024-10-12 05:00:49,694 [ERROR] Failed to navigate to Assignments page: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=129.0.6668.100)
+Stacktrace:
+#0 0x642da9fc510a <unknown>
+#1 0x642da9cab5e0 <unknown>
+#2 0x642da9c811af <unknown>
+#3 0x642da9d2803d <unknown>
+#4 0x642da9d3e629 <unknown>
+#5 0x642da9d1f8c3 <unknown>
+#6 0x642da9ced6b3 <unknown>
+#7 0x642da9cee68e <unknown>
+#8 0x642da9f8fb0b <unknown>
+#9 0x642da9f93a91 <unknown>
+#10 0x642da9f7c305 <unknown>
+#11 0x642da9f94612 <unknown>
+#12 0x642da9f6146f <unknown>
+#13 0x642da9fb4008 <unknown>
+#14 0x642da9fb41d3 <unknown>
+#15 0x642da9fc3f5c <unknown>
+#16 0x7303baec139d <unknown>
+#17 0x7303baf4649c <unknown>
+
+2024-10-12 19:15:40,687 [INFO] Navigated to the CMS login page.
+2024-10-12 19:15:41,162 [INFO] Entered the enrollment and password.
+2024-10-12 19:15:41,398 [INFO] Clicked on the branch dropdown.
+2024-10-12 19:15:41,513 [INFO] Selected the branch dropdown.
+2024-10-12 19:15:41,663 [INFO] Selected the branch: Lahore Campus
+2024-10-12 19:15:41,779 [INFO] Selected the role: Student
+2024-10-12 19:15:42,334 [INFO] Clicked on the login button.
+2024-10-12 19:16:06,650 [INFO] Navigated to the Assignments page successfully!
+2024-10-12 19:16:06,749 [INFO] Total courses: 9
+2024-10-12 19:16:07,647 [ERROR] Failed to navigate to Assignments page: Message: stale element reference: stale element not found
+  (Session info: chrome=129.0.6668.100); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Stacktrace:
+#0 0x5b57b589c10a <unknown>
+#1 0x5b57b55825e0 <unknown>
+#2 0x5b57b559284b <unknown>
+#3 0x5b57b5588cf8 <unknown>
+#4 0x5b57b5586ff9 <unknown>
+#5 0x5b57b558a105 <unknown>
+#6 0x5b57b558a18c <unknown>
+#7 0x5b57b55d1847 <unknown>
+#8 0x5b57b55d1e81 <unknown>
+#9 0x5b57b55c68f3 <unknown>
+#10 0x5b57b55f6b4d <unknown>
+#11 0x5b57b55c6478 <unknown>
+#12 0x5b57b55f6cee <unknown>
+#13 0x5b57b5615d7d <unknown>
+#14 0x5b57b55f68c3 <unknown>
+#15 0x5b57b55c46b3 <unknown>
+#16 0x5b57b55c568e <unknown>
+#17 0x5b57b5866b0b <unknown>
+#18 0x5b57b586aa91 <unknown>
+#19 0x5b57b5853305 <unknown>
+#20 0x5b57b586b612 <unknown>
+#21 0x5b57b583846f <unknown>
+#22 0x5b57b588b008 <unknown>
+#23 0x5b57b588b1d3 <unknown>
+#24 0x5b57b589af5c <unknown>
+#25 0x7415cdfee39d <unknown>
+#26 0x7415ce07349c <unknown>
+
+2024-10-12 20:20:50,713 [INFO] Navigated to the CMS login page.
+2024-10-12 20:20:51,261 [INFO] Entered the enrollment and password.
+2024-10-12 20:20:51,567 [INFO] Clicked on the branch dropdown.
+2024-10-12 20:20:51,702 [INFO] Selected the branch dropdown.
+2024-10-12 20:20:51,938 [INFO] Selected the branch: Lahore Campus
+2024-10-12 20:20:52,107 [INFO] Selected the role: Student
+2024-10-12 20:20:52,697 [INFO] Clicked on the login button.
+2024-10-12 20:21:16,930 [INFO] Navigated to the Assignments page successfully!
+2024-10-12 20:21:17,006 [INFO] Total courses: 9
+2024-10-12 20:21:17,888 [ERROR] Failed to navigate to Assignments page: Message: stale element reference: stale element not found
+  (Session info: chrome=129.0.6668.100); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Stacktrace:
+#0 0x5ec65652310a <unknown>
+#1 0x5ec6562095e0 <unknown>
+#2 0x5ec65621984b <unknown>
+#3 0x5ec65620fcf8 <unknown>
+#4 0x5ec65620dff9 <unknown>
+#5 0x5ec656211105 <unknown>
+#6 0x5ec65621118c <unknown>
+#7 0x5ec656258847 <unknown>
+#8 0x5ec656258e81 <unknown>
+#9 0x5ec65624d8f3 <unknown>
+#10 0x5ec65627db4d <unknown>
+#11 0x5ec65624d478 <unknown>
+#12 0x5ec65627dcee <unknown>
+#13 0x5ec65629cd7d <unknown>
+#14 0x5ec65627d8c3 <unknown>
+#15 0x5ec65624b6b3 <unknown>
+#16 0x5ec65624c68e <unknown>
+#17 0x5ec6564edb0b <unknown>
+#18 0x5ec6564f1a91 <unknown>
+#19 0x5ec6564da305 <unknown>
+#20 0x5ec6564f2612 <unknown>
+#21 0x5ec6564bf46f <unknown>
+#22 0x5ec656512008 <unknown>
+#23 0x5ec6565121d3 <unknown>
+#24 0x5ec656521f5c <unknown>
+#25 0x775b77c0b39d <unknown>
+#26 0x775b77c9049c <unknown>
+
+2024-10-13 19:13:11,348 [INFO] Navigated to the CMS login page.
+2024-10-13 19:13:11,629 [INFO] Entered the enrollment and password.
+2024-10-13 19:13:11,815 [INFO] Clicked on the branch dropdown.
+2024-10-13 19:13:11,874 [INFO] Selected the branch dropdown.
+2024-10-13 19:13:11,996 [INFO] Selected the branch: Lahore Campus
+2024-10-13 19:13:12,077 [INFO] Selected the role: Student
+2024-10-13 19:13:12,467 [INFO] Clicked on the login button.
+2024-10-13 19:13:13,352 [INFO] Clicked the go to lms link.
+2024-10-13 19:13:13,415 [INFO] Switched to the LMS window/tab.
+2024-10-13 19:13:15,286 [INFO] Navigated to the Assignments page successfully!
+2024-10-13 19:13:15,352 [INFO] Total courses: 9
+2024-10-13 19:13:16,205 [ERROR] Failed to navigate to Assignments page: Message: stale element reference: stale element not found
+  (Session info: chrome=129.0.6668.100); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Stacktrace:
+#0 0x61811416d10a <unknown>
+#1 0x618113e535e0 <unknown>
+#2 0x618113e6384b <unknown>
+#3 0x618113e59cf8 <unknown>
+#4 0x618113e57ff9 <unknown>
+#5 0x618113e5b105 <unknown>
+#6 0x618113e5b18c <unknown>
+#7 0x618113ea2847 <unknown>
+#8 0x618113ea2e81 <unknown>
+#9 0x618113e978f3 <unknown>
+#10 0x618113ec7b4d <unknown>
+#11 0x618113e97478 <unknown>
+#12 0x618113ec7cee <unknown>
+#13 0x618113ee6d7d <unknown>
+#14 0x618113ec78c3 <unknown>
+#15 0x618113e956b3 <unknown>
+#16 0x618113e9668e <unknown>
+#17 0x618114137b0b <unknown>
+#18 0x61811413ba91 <unknown>
+#19 0x618114124305 <unknown>
+#20 0x61811413c612 <unknown>
+#21 0x61811410946f <unknown>
+#22 0x61811415c008 <unknown>
+#23 0x61811415c1d3 <unknown>
+#24 0x61811416bf5c <unknown>
+#25 0x75aee92c639d <unknown>
+#26 0x75aee934b49c <unknown>
+
+2024-10-13 19:19:53,134 [INFO] Navigated to the CMS login page.
+2024-10-13 19:19:53,580 [INFO] Entered the enrollment and password.
+2024-10-13 19:19:53,786 [INFO] Clicked on the branch dropdown.
+2024-10-13 19:19:53,865 [INFO] Selected the branch dropdown.
+2024-10-13 19:19:54,001 [INFO] Selected the branch: Lahore Campus
+2024-10-13 19:19:54,090 [INFO] Selected the role: Student
+2024-10-13 19:19:54,671 [INFO] Clicked on the login button.
+2024-10-13 19:19:55,648 [INFO] Clicked the go to lms link.
+2024-10-13 19:19:55,717 [INFO] Switched to the LMS window/tab.
+2024-10-13 19:19:58,844 [INFO] Navigated to the Assignments page successfully!
+2024-10-13 19:19:59,010 [INFO] Total courses: 9
+2024-10-13 19:20:00,276 [ERROR] Failed to navigate to Assignments page: Message: stale element reference: stale element not found
+  (Session info: chrome=129.0.6668.100); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Stacktrace:
+#0 0x55b7f42b610a <unknown>
+#1 0x55b7f3f9c5e0 <unknown>
+#2 0x55b7f3fac84b <unknown>
+#3 0x55b7f3fa2cf8 <unknown>
+#4 0x55b7f3fa0ff9 <unknown>
+#5 0x55b7f3fa4105 <unknown>
+#6 0x55b7f3fa418c <unknown>
+#7 0x55b7f3feb847 <unknown>
+#8 0x55b7f3febe81 <unknown>
+#9 0x55b7f3fe08f3 <unknown>
+#10 0x55b7f4010b4d <unknown>
+#11 0x55b7f3fe0478 <unknown>
+#12 0x55b7f4010cee <unknown>
+#13 0x55b7f402fd7d <unknown>
+#14 0x55b7f40108c3 <unknown>
+#15 0x55b7f3fde6b3 <unknown>
+#16 0x55b7f3fdf68e <unknown>
+#17 0x55b7f4280b0b <unknown>
+#18 0x55b7f4284a91 <unknown>
+#19 0x55b7f426d305 <unknown>
+#20 0x55b7f4285612 <unknown>
+#21 0x55b7f425246f <unknown>
+#22 0x55b7f42a5008 <unknown>
+#23 0x55b7f42a51d3 <unknown>
+#24 0x55b7f42b4f5c <unknown>
+#25 0x743f34e1539d <unknown>
+#26 0x743f34e9a49c <unknown>
+
+2024-10-13 19:29:21,989 [INFO] Navigated to the CMS login page.
+2024-10-13 19:29:22,356 [INFO] Entered the enrollment and password.
+2024-10-13 19:29:22,521 [INFO] Clicked on the branch dropdown.
+2024-10-13 19:29:22,587 [INFO] Selected the branch dropdown.
+2024-10-13 19:29:22,720 [INFO] Selected the branch: Lahore Campus
+2024-10-13 19:29:22,807 [INFO] Selected the role: Student
+2024-10-13 19:29:22,905 [INFO] Clicked on the login button.
+2024-10-13 19:29:24,318 [INFO] Clicked the go to lms link.
+2024-10-13 19:29:24,382 [INFO] Switched to the LMS window/tab.
+2024-10-13 19:29:26,627 [INFO] Navigated to the Assignments page successfully!
+2024-10-13 19:29:26,731 [INFO] Total courses: 9
+2024-10-13 19:29:27,878 [ERROR] Error in get_assignments function: Message: stale element reference: stale element not found
+  (Session info: chrome=129.0.6668.100); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Stacktrace:
+#0 0x56af2004e10a <unknown>
+#1 0x56af1fd345e0 <unknown>
+#2 0x56af1fd4484b <unknown>
+#3 0x56af1fd3acf8 <unknown>
+#4 0x56af1fd38ff9 <unknown>
+#5 0x56af1fd3c105 <unknown>
+#6 0x56af1fd3c18c <unknown>
+#7 0x56af1fd83847 <unknown>
+#8 0x56af1fd83e81 <unknown>
+#9 0x56af1fd788f3 <unknown>
+#10 0x56af1fda8b4d <unknown>
+#11 0x56af1fd78478 <unknown>
+#12 0x56af1fda8cee <unknown>
+#13 0x56af1fdc7d7d <unknown>
+#14 0x56af1fda88c3 <unknown>
+#15 0x56af1fd766b3 <unknown>
+#16 0x56af1fd7768e <unknown>
+#17 0x56af20018b0b <unknown>
+#18 0x56af2001ca91 <unknown>
+#19 0x56af20005305 <unknown>
+#20 0x56af2001d612 <unknown>
+#21 0x56af1ffea46f <unknown>
+#22 0x56af2003d008 <unknown>
+#23 0x56af2003d1d3 <unknown>
+#24 0x56af2004cf5c <unknown>
+#25 0x7e8c702b139d <unknown>
+#26 0x7e8c7033649c <unknown>
+
+2024-10-13 19:32:25,576 [INFO] Navigated to the CMS login page.
+2024-10-13 19:32:25,878 [INFO] Entered the enrollment and password.
+2024-10-13 19:32:26,051 [INFO] Clicked on the branch dropdown.
+2024-10-13 19:32:26,127 [INFO] Selected the branch dropdown.
+2024-10-13 19:32:26,260 [INFO] Selected the branch: Lahore Campus
+2024-10-13 19:32:26,347 [INFO] Selected the role: Student
+2024-10-13 19:32:26,436 [INFO] Clicked on the login button.
+2024-10-13 19:32:27,461 [INFO] Clicked the go to lms link.
+2024-10-13 19:32:27,498 [INFO] Switched to the LMS window/tab.
+2024-10-13 19:32:29,985 [INFO] Navigated to the Assignments page successfully!
+2024-10-13 19:32:30,045 [INFO] Total courses: 9
+2024-10-13 19:32:31,074 [ERROR] Error in get_assignments function: Message: stale element reference: stale element not found
+  (Session info: chrome=129.0.6668.100); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Stacktrace:
+#0 0x6325857d310a <unknown>
+#1 0x6325854b95e0 <unknown>
+#2 0x6325854c984b <unknown>
+#3 0x6325854bfcf8 <unknown>
+#4 0x6325854bdff9 <unknown>
+#5 0x6325854c1105 <unknown>
+#6 0x6325854c118c <unknown>
+#7 0x632585508847 <unknown>
+#8 0x632585508e81 <unknown>
+#9 0x6325854fd8f3 <unknown>
+#10 0x63258552db4d <unknown>
+#11 0x6325854fd478 <unknown>
+#12 0x63258552dcee <unknown>
+#13 0x63258554cd7d <unknown>
+#14 0x63258552d8c3 <unknown>
+#15 0x6325854fb6b3 <unknown>
+#16 0x6325854fc68e <unknown>
+#17 0x63258579db0b <unknown>
+#18 0x6325857a1a91 <unknown>
+#19 0x63258578a305 <unknown>
+#20 0x6325857a2612 <unknown>
+#21 0x63258576f46f <unknown>
+#22 0x6325857c2008 <unknown>
+#23 0x6325857c21d3 <unknown>
+#24 0x6325857d1f5c <unknown>
+#25 0x7b7bd6e7739d <unknown>
+#26 0x7b7bd6efc49c <unknown>
+
+2024-10-13 19:33:00,262 [INFO] Navigated to the CMS login page.
+2024-10-13 19:33:00,541 [INFO] Entered the enrollment and password.
+2024-10-13 19:33:00,711 [INFO] Clicked on the branch dropdown.
+2024-10-13 19:33:00,786 [INFO] Selected the branch dropdown.
+2024-10-13 19:33:00,913 [INFO] Selected the branch: Lahore Campus
+2024-10-13 19:33:00,999 [INFO] Selected the role: Student
+2024-10-13 19:33:01,409 [INFO] Clicked on the login button.
+2024-10-13 19:33:02,346 [INFO] Clicked the go to lms link.
+2024-10-13 19:33:02,405 [INFO] Switched to the LMS window/tab.
+2024-10-13 19:33:05,944 [INFO] Navigated to the Assignments page successfully!
+2024-10-13 19:33:06,016 [INFO] Total courses: 9
+2024-10-13 19:33:06,924 [ERROR] Error in get_assignments function: Message: stale element reference: stale element not found
+  (Session info: chrome=129.0.6668.100); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Stacktrace:
+#0 0x616eaf8a610a <unknown>
+#1 0x616eaf58c5e0 <unknown>
+#2 0x616eaf59c84b <unknown>
+#3 0x616eaf592cf8 <unknown>
+#4 0x616eaf590ff9 <unknown>
+#5 0x616eaf594105 <unknown>
+#6 0x616eaf59418c <unknown>
+#7 0x616eaf5db847 <unknown>
+#8 0x616eaf5dbe81 <unknown>
+#9 0x616eaf5d08f3 <unknown>
+#10 0x616eaf600b4d <unknown>
+#11 0x616eaf5d0478 <unknown>
+#12 0x616eaf600cee <unknown>
+#13 0x616eaf61fd7d <unknown>
+#14 0x616eaf6008c3 <unknown>
+#15 0x616eaf5ce6b3 <unknown>
+#16 0x616eaf5cf68e <unknown>
+#17 0x616eaf870b0b <unknown>
+#18 0x616eaf874a91 <unknown>
+#19 0x616eaf85d305 <unknown>
+#20 0x616eaf875612 <unknown>
+#21 0x616eaf84246f <unknown>
+#22 0x616eaf895008 <unknown>
+#23 0x616eaf8951d3 <unknown>
+#24 0x616eaf8a4f5c <unknown>
+#25 0x77b27c34a39d <unknown>
+#26 0x77b27c3cf49c <unknown>
+
+2024-10-13 19:50:34,959 [INFO] Navigated to the CMS login page.
+2024-10-13 19:50:35,250 [INFO] Entered the enrollment and password.
+2024-10-13 19:50:35,422 [INFO] Clicked on the branch dropdown.
+2024-10-13 19:50:35,467 [INFO] Selected the branch dropdown.
+2024-10-13 19:50:35,610 [INFO] Selected the branch: Lahore Campus
+2024-10-13 19:50:35,774 [INFO] Selected the role: Student
+2024-10-13 19:50:35,868 [INFO] Clicked on the login button.
+2024-10-13 19:50:36,769 [INFO] Clicked the go to lms link.
+2024-10-13 19:50:36,823 [INFO] Switched to the LMS window/tab.
+2024-10-13 19:50:39,191 [INFO] Navigated to the Assignments page successfully!
+2024-10-13 19:50:39,338 [INFO] Total courses: 9
+2024-10-13 19:50:40,742 [WARNING] Stale element encountered. Retrying...
+2024-10-13 19:50:44,105 [WARNING] Stale element encountered. Retrying...
+2024-10-13 19:50:47,342 [WARNING] Stale element encountered. Retrying...
+2024-10-13 19:50:50,508 [WARNING] Stale element encountered. Retrying...
+2024-10-13 19:50:53,529 [WARNING] Stale element encountered. Retrying...
+2024-10-13 19:50:56,684 [WARNING] Stale element encountered. Retrying...
+2024-10-13 19:51:00,459 [WARNING] Stale element encountered. Retrying...
+2024-10-13 19:51:03,604 [WARNING] Stale element encountered. Retrying...
+2024-10-13 19:52:59,323 [INFO] Navigated to the CMS login page.
+2024-10-13 19:52:59,669 [INFO] Entered the enrollment and password.
+2024-10-13 19:52:59,823 [INFO] Clicked on the branch dropdown.
+2024-10-13 19:52:59,900 [INFO] Selected the branch dropdown.
+2024-10-13 19:53:00,039 [INFO] Selected the branch: Lahore Campus
+2024-10-13 19:53:00,121 [INFO] Selected the role: Student
+2024-10-13 19:53:00,975 [INFO] Clicked on the login button.
+2024-10-13 19:53:01,191 [INFO] Clicked the go to lms link.
+2024-10-13 19:53:01,233 [INFO] Switched to the LMS window/tab.
+2024-10-13 19:53:04,902 [INFO] Navigated to the Assignments page successfully!
+2024-10-13 19:53:04,967 [INFO] Total courses: 9
+2024-10-13 19:53:06,049 [WARNING] Stale element encountered. Retrying...
+2024-10-13 19:53:09,199 [WARNING] Stale element encountered. Retrying...
+2024-10-13 19:53:12,310 [WARNING] Stale element encountered. Retrying...
+2024-10-13 19:53:15,379 [WARNING] Stale element encountered. Retrying...
+2024-10-13 19:53:18,391 [WARNING] Stale element encountered. Retrying...
+2024-10-13 19:53:21,624 [WARNING] Stale element encountered. Retrying...
+2024-10-13 19:53:24,954 [WARNING] Stale element encountered. Retrying...
+2024-10-13 19:53:28,045 [WARNING] Stale element encountered. Retrying...
+2024-10-13 19:54:34,924 [INFO] Navigated to the CMS login page.
+2024-10-13 19:54:35,195 [INFO] Entered the enrollment and password.
+2024-10-13 19:54:35,354 [INFO] Clicked on the branch dropdown.
+2024-10-13 19:54:35,423 [INFO] Selected the branch dropdown.
+2024-10-13 19:54:35,553 [INFO] Selected the branch: Lahore Campus
+2024-10-13 19:54:35,637 [INFO] Selected the role: Student
+2024-10-13 19:54:36,279 [INFO] Clicked on the login button.
+2024-10-13 19:54:36,522 [INFO] Clicked the go to lms link.
+2024-10-13 19:54:36,548 [INFO] Switched to the LMS window/tab.
+2024-10-13 19:54:38,671 [INFO] Navigated to the Assignments page successfully!
+2024-10-13 19:54:38,748 [INFO] Total courses: 9
+2024-10-13 19:54:40,271 [WARNING] Stale element encountered. Retrying...
+2024-10-13 19:54:43,454 [WARNING] Stale element encountered. Retrying...
+2024-10-13 19:54:46,562 [WARNING] Stale element encountered. Retrying...
+2024-10-13 19:54:49,798 [WARNING] Stale element encountered. Retrying...
+2024-10-13 19:54:52,845 [WARNING] Stale element encountered. Retrying...
+2024-10-13 19:54:55,877 [WARNING] Stale element encountered. Retrying...
+2024-10-13 19:54:58,969 [WARNING] Stale element encountered. Retrying...
+2024-10-13 19:55:02,078 [WARNING] Stale element encountered. Retrying...
+2024-10-13 20:20:26,840 [INFO] Navigated to the CMS login page.
+2024-10-13 20:20:27,225 [INFO] Entered the enrollment and password.
+2024-10-13 20:20:27,424 [INFO] Clicked on the branch dropdown.
+2024-10-13 20:20:27,520 [INFO] Selected the branch dropdown.
+2024-10-13 20:20:27,670 [INFO] Selected the branch: Lahore Campus
+2024-10-13 20:20:27,772 [INFO] Selected the role: Student
+2024-10-13 20:20:28,202 [INFO] Clicked on the login button.
+2024-10-13 20:20:29,206 [INFO] Clicked the go to lms link.
+2024-10-13 20:20:29,272 [INFO] Switched to the LMS window/tab.
+2024-10-13 20:20:32,773 [INFO] Navigated to the Assignments page successfully!
+2024-10-13 20:20:32,875 [INFO] Total courses: 9
+2024-10-13 20:20:34,205 [WARNING] Stale element encountered. Retrying...
+2024-10-13 20:20:38,051 [WARNING] Stale element encountered. Retrying...
+2024-10-13 20:20:41,273 [WARNING] Stale element encountered. Retrying...
+2024-10-13 20:20:44,417 [WARNING] Stale element encountered. Retrying...
+2024-10-13 20:20:47,830 [WARNING] Stale element encountered. Retrying...
+2024-10-13 20:20:51,457 [WARNING] Stale element encountered. Retrying...
+2024-10-13 20:20:54,765 [WARNING] Stale element encountered. Retrying...
+2024-10-13 20:20:58,004 [WARNING] Stale element encountered. Retrying...
+2024-10-13 20:28:26,812 [INFO] Navigated to the CMS login page.
+2024-10-13 20:28:27,648 [INFO] Entered the enrollment and password.
+2024-10-13 20:28:27,916 [INFO] Clicked on the branch dropdown.
+2024-10-13 20:28:28,064 [INFO] Selected the branch dropdown.
+2024-10-13 20:28:28,289 [INFO] Selected the branch: Lahore Campus
+2024-10-13 20:28:28,438 [INFO] Selected the role: Student
+2024-10-13 20:28:29,479 [INFO] Clicked on the login button.
+2024-10-13 20:28:29,887 [INFO] Clicked the go to lms link.
+2024-10-13 20:28:29,968 [INFO] Switched to the LMS window/tab.
+2024-10-13 20:28:33,953 [INFO] Navigated to the Assignments page successfully!
+2024-10-13 20:28:34,066 [INFO] Total courses: 9
+2024-10-13 20:28:35,536 [WARNING] Stale element encountered for course at index 1: Message: stale element reference: stale element not found
+  (Session info: chrome=129.0.6668.100); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Stacktrace:
+#0 0x59aa8b02310a <unknown>
+#1 0x59aa8ad095e0 <unknown>
+#2 0x59aa8ad1984b <unknown>
+#3 0x59aa8ad0fcf8 <unknown>
+#4 0x59aa8ad0dff9 <unknown>
+#5 0x59aa8ad11105 <unknown>
+#6 0x59aa8ad1118c <unknown>
+#7 0x59aa8ad58847 <unknown>
+#8 0x59aa8ad58e81 <unknown>
+#9 0x59aa8ad4d8f3 <unknown>
+#10 0x59aa8ad7db4d <unknown>
+#11 0x59aa8ad4d478 <unknown>
+#12 0x59aa8ad7dcee <unknown>
+#13 0x59aa8ad9cd7d <unknown>
+#14 0x59aa8ad7d8c3 <unknown>
+#15 0x59aa8ad4b6b3 <unknown>
+#16 0x59aa8ad4c68e <unknown>
+#17 0x59aa8afedb0b <unknown>
+#18 0x59aa8aff1a91 <unknown>
+#19 0x59aa8afda305 <unknown>
+#20 0x59aa8aff2612 <unknown>
+#21 0x59aa8afbf46f <unknown>
+#22 0x59aa8b012008 <unknown>
+#23 0x59aa8b0121d3 <unknown>
+#24 0x59aa8b021f5c <unknown>
+#25 0x71275f07839d <unknown>
+#26 0x71275f0fd49c <unknown>
+. Retrying...
+2024-10-13 20:28:39,335 [WARNING] Stale element encountered for course at index 2: Message: stale element reference: stale element not found
+  (Session info: chrome=129.0.6668.100); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Stacktrace:
+#0 0x59aa8b02310a <unknown>
+#1 0x59aa8ad095e0 <unknown>
+#2 0x59aa8ad1984b <unknown>
+#3 0x59aa8ad0fcf8 <unknown>
+#4 0x59aa8ad0dff9 <unknown>
+#5 0x59aa8ad11105 <unknown>
+#6 0x59aa8ad1118c <unknown>
+#7 0x59aa8ad58847 <unknown>
+#8 0x59aa8ad58e81 <unknown>
+#9 0x59aa8ad4d8f3 <unknown>
+#10 0x59aa8ad7db4d <unknown>
+#11 0x59aa8ad4d478 <unknown>
+#12 0x59aa8ad7dcee <unknown>
+#13 0x59aa8ad9cd7d <unknown>
+#14 0x59aa8ad7d8c3 <unknown>
+#15 0x59aa8ad4b6b3 <unknown>
+#16 0x59aa8ad4c68e <unknown>
+#17 0x59aa8afedb0b <unknown>
+#18 0x59aa8aff1a91 <unknown>
+#19 0x59aa8afda305 <unknown>
+#20 0x59aa8aff2612 <unknown>
+#21 0x59aa8afbf46f <unknown>
+#22 0x59aa8b012008 <unknown>
+#23 0x59aa8b0121d3 <unknown>
+#24 0x59aa8b021f5c <unknown>
+#25 0x71275f07839d <unknown>
+#26 0x71275f0fd49c <unknown>
+. Retrying...
+2024-10-13 20:28:42,926 [WARNING] Stale element encountered for course at index 3: Message: stale element reference: stale element not found
+  (Session info: chrome=129.0.6668.100); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Stacktrace:
+#0 0x59aa8b02310a <unknown>
+#1 0x59aa8ad095e0 <unknown>
+#2 0x59aa8ad1984b <unknown>
+#3 0x59aa8ad0fcf8 <unknown>
+#4 0x59aa8ad0dff9 <unknown>
+#5 0x59aa8ad11105 <unknown>
+#6 0x59aa8ad1118c <unknown>
+#7 0x59aa8ad58847 <unknown>
+#8 0x59aa8ad58e81 <unknown>
+#9 0x59aa8ad4d8f3 <unknown>
+#10 0x59aa8ad7db4d <unknown>
+#11 0x59aa8ad4d478 <unknown>
+#12 0x59aa8ad7dcee <unknown>
+#13 0x59aa8ad9cd7d <unknown>
+#14 0x59aa8ad7d8c3 <unknown>
+#15 0x59aa8ad4b6b3 <unknown>
+#16 0x59aa8ad4c68e <unknown>
+#17 0x59aa8afedb0b <unknown>
+#18 0x59aa8aff1a91 <unknown>
+#19 0x59aa8afda305 <unknown>
+#20 0x59aa8aff2612 <unknown>
+#21 0x59aa8afbf46f <unknown>
+#22 0x59aa8b012008 <unknown>
+#23 0x59aa8b0121d3 <unknown>
+#24 0x59aa8b021f5c <unknown>
+#25 0x71275f07839d <unknown>
+#26 0x71275f0fd49c <unknown>
+. Retrying...
+2024-10-13 20:28:46,835 [WARNING] Stale element encountered for course at index 4: Message: stale element reference: stale element not found
+  (Session info: chrome=129.0.6668.100); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Stacktrace:
+#0 0x59aa8b02310a <unknown>
+#1 0x59aa8ad095e0 <unknown>
+#2 0x59aa8ad1984b <unknown>
+#3 0x59aa8ad0fcf8 <unknown>
+#4 0x59aa8ad0dff9 <unknown>
+#5 0x59aa8ad11105 <unknown>
+#6 0x59aa8ad1118c <unknown>
+#7 0x59aa8ad58847 <unknown>
+#8 0x59aa8ad58e81 <unknown>
+#9 0x59aa8ad4d8f3 <unknown>
+#10 0x59aa8ad7db4d <unknown>
+#11 0x59aa8ad4d478 <unknown>
+#12 0x59aa8ad7dcee <unknown>
+#13 0x59aa8ad9cd7d <unknown>
+#14 0x59aa8ad7d8c3 <unknown>
+#15 0x59aa8ad4b6b3 <unknown>
+#16 0x59aa8ad4c68e <unknown>
+#17 0x59aa8afedb0b <unknown>
+#18 0x59aa8aff1a91 <unknown>
+#19 0x59aa8afda305 <unknown>
+#20 0x59aa8aff2612 <unknown>
+#21 0x59aa8afbf46f <unknown>
+#22 0x59aa8b012008 <unknown>
+#23 0x59aa8b0121d3 <unknown>
+#24 0x59aa8b021f5c <unknown>
+#25 0x71275f07839d <unknown>
+#26 0x71275f0fd49c <unknown>
+. Retrying...
+2024-10-13 20:28:50,205 [WARNING] Stale element encountered for course at index 5: Message: stale element reference: stale element not found
+  (Session info: chrome=129.0.6668.100); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Stacktrace:
+#0 0x59aa8b02310a <unknown>
+#1 0x59aa8ad095e0 <unknown>
+#2 0x59aa8ad1984b <unknown>
+#3 0x59aa8ad0fcf8 <unknown>
+#4 0x59aa8ad0dff9 <unknown>
+#5 0x59aa8ad11105 <unknown>
+#6 0x59aa8ad1118c <unknown>
+#7 0x59aa8ad58847 <unknown>
+#8 0x59aa8ad58e81 <unknown>
+#9 0x59aa8ad4d8f3 <unknown>
+#10 0x59aa8ad7db4d <unknown>
+#11 0x59aa8ad4d478 <unknown>
+#12 0x59aa8ad7dcee <unknown>
+#13 0x59aa8ad9cd7d <unknown>
+#14 0x59aa8ad7d8c3 <unknown>
+#15 0x59aa8ad4b6b3 <unknown>
+#16 0x59aa8ad4c68e <unknown>
+#17 0x59aa8afedb0b <unknown>
+#18 0x59aa8aff1a91 <unknown>
+#19 0x59aa8afda305 <unknown>
+#20 0x59aa8aff2612 <unknown>
+#21 0x59aa8afbf46f <unknown>
+#22 0x59aa8b012008 <unknown>
+#23 0x59aa8b0121d3 <unknown>
+#24 0x59aa8b021f5c <unknown>
+#25 0x71275f07839d <unknown>
+#26 0x71275f0fd49c <unknown>
+. Retrying...
+2024-10-13 20:28:53,895 [WARNING] Stale element encountered for course at index 6: Message: stale element reference: stale element not found
+  (Session info: chrome=129.0.6668.100); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Stacktrace:
+#0 0x59aa8b02310a <unknown>
+#1 0x59aa8ad095e0 <unknown>
+#2 0x59aa8ad1984b <unknown>
+#3 0x59aa8ad0fcf8 <unknown>
+#4 0x59aa8ad0dff9 <unknown>
+#5 0x59aa8ad11105 <unknown>
+#6 0x59aa8ad1118c <unknown>
+#7 0x59aa8ad58847 <unknown>
+#8 0x59aa8ad58e81 <unknown>
+#9 0x59aa8ad4d8f3 <unknown>
+#10 0x59aa8ad7db4d <unknown>
+#11 0x59aa8ad4d478 <unknown>
+#12 0x59aa8ad7dcee <unknown>
+#13 0x59aa8ad9cd7d <unknown>
+#14 0x59aa8ad7d8c3 <unknown>
+#15 0x59aa8ad4b6b3 <unknown>
+#16 0x59aa8ad4c68e <unknown>
+#17 0x59aa8afedb0b <unknown>
+#18 0x59aa8aff1a91 <unknown>
+#19 0x59aa8afda305 <unknown>
+#20 0x59aa8aff2612 <unknown>
+#21 0x59aa8afbf46f <unknown>
+#22 0x59aa8b012008 <unknown>
+#23 0x59aa8b0121d3 <unknown>
+#24 0x59aa8b021f5c <unknown>
+#25 0x71275f07839d <unknown>
+#26 0x71275f0fd49c <unknown>
+. Retrying...
+2024-10-13 20:28:57,537 [WARNING] Stale element encountered for course at index 7: Message: stale element reference: stale element not found
+  (Session info: chrome=129.0.6668.100); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Stacktrace:
+#0 0x59aa8b02310a <unknown>
+#1 0x59aa8ad095e0 <unknown>
+#2 0x59aa8ad1984b <unknown>
+#3 0x59aa8ad0fcf8 <unknown>
+#4 0x59aa8ad0dff9 <unknown>
+#5 0x59aa8ad11105 <unknown>
+#6 0x59aa8ad1118c <unknown>
+#7 0x59aa8ad58847 <unknown>
+#8 0x59aa8ad58e81 <unknown>
+#9 0x59aa8ad4d8f3 <unknown>
+#10 0x59aa8ad7db4d <unknown>
+#11 0x59aa8ad4d478 <unknown>
+#12 0x59aa8ad7dcee <unknown>
+#13 0x59aa8ad9cd7d <unknown>
+#14 0x59aa8ad7d8c3 <unknown>
+#15 0x59aa8ad4b6b3 <unknown>
+#16 0x59aa8ad4c68e <unknown>
+#17 0x59aa8afedb0b <unknown>
+#18 0x59aa8aff1a91 <unknown>
+#19 0x59aa8afda305 <unknown>
+#20 0x59aa8aff2612 <unknown>
+#21 0x59aa8afbf46f <unknown>
+#22 0x59aa8b012008 <unknown>
+#23 0x59aa8b0121d3 <unknown>
+#24 0x59aa8b021f5c <unknown>
+#25 0x71275f07839d <unknown>
+#26 0x71275f0fd49c <unknown>
+. Retrying...
+2024-10-13 20:29:00,992 [WARNING] Stale element encountered for course at index 8: Message: stale element reference: stale element not found
+  (Session info: chrome=129.0.6668.100); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Stacktrace:
+#0 0x59aa8b02310a <unknown>
+#1 0x59aa8ad095e0 <unknown>
+#2 0x59aa8ad1984b <unknown>
+#3 0x59aa8ad0fcf8 <unknown>
+#4 0x59aa8ad0dff9 <unknown>
+#5 0x59aa8ad11105 <unknown>
+#6 0x59aa8ad1118c <unknown>
+#7 0x59aa8ad58847 <unknown>
+#8 0x59aa8ad58e81 <unknown>
+#9 0x59aa8ad4d8f3 <unknown>
+#10 0x59aa8ad7db4d <unknown>
+#11 0x59aa8ad4d478 <unknown>
+#12 0x59aa8ad7dcee <unknown>
+#13 0x59aa8ad9cd7d <unknown>
+#14 0x59aa8ad7d8c3 <unknown>
+#15 0x59aa8ad4b6b3 <unknown>
+#16 0x59aa8ad4c68e <unknown>
+#17 0x59aa8afedb0b <unknown>
+#18 0x59aa8aff1a91 <unknown>
+#19 0x59aa8afda305 <unknown>
+#20 0x59aa8aff2612 <unknown>
+#21 0x59aa8afbf46f <unknown>
+#22 0x59aa8b012008 <unknown>
+#23 0x59aa8b0121d3 <unknown>
+#24 0x59aa8b021f5c <unknown>
+#25 0x71275f07839d <unknown>
+#26 0x71275f0fd49c <unknown>
+. Retrying...
+2024-10-13 20:30:49,233 [INFO] Navigated to the CMS login page.
+2024-10-13 20:30:49,845 [INFO] Entered the enrollment and password.
+2024-10-13 20:30:50,147 [INFO] Clicked on the branch dropdown.
+2024-10-13 20:30:50,327 [INFO] Selected the branch dropdown.
+2024-10-13 20:30:50,598 [INFO] Selected the branch: Lahore Campus
+2024-10-13 20:30:50,862 [INFO] Selected the role: Student
+2024-10-13 20:30:51,532 [INFO] Clicked on the login button.
+2024-10-13 20:30:52,608 [INFO] Clicked the go to lms link.
+2024-10-13 20:30:52,696 [INFO] Switched to the LMS window/tab.
+2024-10-13 20:30:55,891 [INFO] Navigated to the Assignments page successfully!
+2024-10-13 20:30:56,026 [INFO] Total courses: 9
+2024-10-13 20:30:57,547 [WARNING] Stale element encountered. Retrying...
+2024-10-13 20:31:01,269 [WARNING] Stale element encountered. Retrying...
+2024-10-13 20:31:04,896 [WARNING] Stale element encountered. Retrying...
+2024-10-13 20:31:08,145 [WARNING] Stale element encountered. Retrying...
+2024-10-13 20:31:11,309 [WARNING] Stale element encountered. Retrying...
+2024-10-13 20:31:14,870 [WARNING] Stale element encountered. Retrying...
+2024-10-13 20:31:18,184 [WARNING] Stale element encountered. Retrying...
+2024-10-13 20:31:21,598 [WARNING] Stale element encountered. Retrying...
+2024-10-13 20:34:04,307 [INFO] Navigated to the CMS login page.
+2024-10-13 20:34:05,018 [INFO] Entered the enrollment and password.
+2024-10-13 20:34:05,408 [INFO] Clicked on the branch dropdown.
+2024-10-13 20:34:05,535 [INFO] Selected the branch dropdown.
+2024-10-13 20:34:05,738 [INFO] Selected the branch: Lahore Campus
+2024-10-13 20:34:05,861 [INFO] Selected the role: Student
+2024-10-13 20:34:07,906 [INFO] Clicked on the login button.
+2024-10-13 20:34:08,563 [INFO] Clicked the go to lms link.
+2024-10-13 20:34:08,642 [INFO] Switched to the LMS window/tab.
+2024-10-13 20:34:19,492 [INFO] Navigated to the Assignments page successfully!
+2024-10-13 20:34:19,610 [INFO] Total courses: 9
+2024-10-13 20:34:21,518 [WARNING] Stale element encountered. Retrying...
+2024-10-13 20:34:29,596 [WARNING] Stale element encountered. Retrying...
+2024-10-13 20:34:33,310 [WARNING] Stale element encountered. Retrying...
+2024-10-13 20:34:37,064 [WARNING] Stale element encountered. Retrying...
+2024-10-13 20:34:41,429 [WARNING] Stale element encountered. Retrying...
+2024-10-13 20:34:45,186 [WARNING] Stale element encountered. Retrying...
+2024-10-13 20:34:49,194 [WARNING] Stale element encountered. Retrying...
+2024-10-13 20:34:52,624 [WARNING] Stale element encountered. Retrying...
+2024-10-13 22:00:40,008 [INFO] Navigated to the CMS login page.
+2024-10-13 22:00:40,883 [INFO] Entered the enrollment and password.
+2024-10-13 22:00:41,465 [INFO] Clicked on the branch dropdown.
+2024-10-13 22:00:41,559 [INFO] Selected the branch dropdown.
+2024-10-13 22:00:41,863 [INFO] Selected the branch: Lahore Campus
+2024-10-13 22:00:42,064 [INFO] Selected the role: Student
+2024-10-13 22:00:42,803 [INFO] Clicked on the login button.
+2024-10-13 22:00:43,924 [INFO] Clicked the go to lms link.
+2024-10-13 22:00:43,978 [INFO] Switched to the LMS window/tab.
+2024-10-13 22:00:47,856 [INFO] Navigated to the Assignments page successfully!
+2024-10-13 22:00:47,941 [INFO] Total courses: 9
+2024-10-13 22:00:49,281 [WARNING] Stale element encountered. Retrying...
+2024-10-13 22:00:52,792 [WARNING] Stale element encountered. Retrying...
+2024-10-13 22:00:55,916 [WARNING] Stale element encountered. Retrying...
+2024-10-13 22:00:59,117 [WARNING] Stale element encountered. Retrying...
+2024-10-13 22:01:03,174 [WARNING] Stale element encountered. Retrying...
+2024-10-13 22:01:07,018 [WARNING] Stale element encountered. Retrying...
+2024-10-13 22:01:10,485 [WARNING] Stale element encountered. Retrying...
+2024-10-13 22:01:13,911 [WARNING] Stale element encountered. Retrying...
+2024-10-13 22:20:26,923 [INFO] Navigated to the CMS login page.
+2024-10-13 22:20:27,296 [INFO] Entered the enrollment and password.
+2024-10-13 22:20:27,479 [INFO] Clicked on the branch dropdown.
+2024-10-13 22:20:27,526 [INFO] Selected the branch dropdown.
+2024-10-13 22:20:27,675 [INFO] Selected the branch: Lahore Campus
+2024-10-13 22:20:27,761 [INFO] Selected the role: Student
+2024-10-13 22:20:28,165 [INFO] Clicked on the login button.
+2024-10-13 22:20:28,985 [INFO] Clicked the go to lms link.
+2024-10-13 22:20:29,013 [INFO] Switched to the LMS window/tab.
+2024-10-13 22:20:32,941 [INFO] Navigated to the assignments page successfully!
+2024-10-13 22:20:33,021 [INFO] Total courses: 9
+2024-10-13 22:20:33,022 [ERROR] Error in processing courses: 'Select' object is not callable
+2024-10-13 22:26:12,645 [INFO] Navigated to the CMS login page.
+2024-10-13 22:26:13,874 [INFO] Entered the enrollment and password.
+2024-10-13 22:26:14,517 [INFO] Clicked on the branch dropdown.
+2024-10-13 22:26:14,650 [INFO] Selected the branch dropdown.
+2024-10-13 22:26:14,829 [INFO] Selected the branch: Lahore Campus
+2024-10-13 22:26:15,102 [INFO] Selected the role: Student
+2024-10-13 22:26:16,613 [INFO] Clicked on the login button.
+2024-10-13 22:26:17,086 [INFO] Clicked the go to lms link.
+2024-10-13 22:26:17,159 [INFO] Switched to the LMS window/tab.
+2024-10-13 22:26:21,941 [INFO] Navigated to the assignments page successfully!
+2024-10-13 22:26:22,021 [INFO] Total courses: 9
+2024-10-13 22:26:22,022 [ERROR] Error in processing courses: 'Select' object is not callable
+2024-10-13 22:39:44,452 [INFO] Navigated to the CMS login page.
+2024-10-13 22:39:45,390 [INFO] Entered the enrollment and password.
+2024-10-13 22:39:45,623 [INFO] Clicked on the branch dropdown.
+2024-10-13 22:39:45,790 [INFO] Selected the branch dropdown.
+2024-10-13 22:39:45,927 [INFO] Selected the branch: Lahore Campus
+2024-10-13 22:39:46,059 [INFO] Selected the role: Student
+2024-10-13 22:39:47,033 [INFO] Clicked on the login button.
+2024-10-13 22:39:47,381 [INFO] Clicked the go to lms link.
+2024-10-13 22:39:47,455 [INFO] Switched to the LMS window/tab.
+2024-10-13 22:39:54,916 [INFO] Navigated to the assignments page successfully!
+2024-10-13 22:40:56,327 [INFO] Total courses: 1
+2024-10-13 22:43:19,468 [INFO] Navigated to the CMS login page.
+2024-10-13 22:43:19,763 [INFO] Entered the enrollment and password.
+2024-10-13 22:43:19,914 [INFO] Clicked on the branch dropdown.
+2024-10-13 22:43:19,982 [INFO] Selected the branch dropdown.
+2024-10-13 22:43:20,120 [INFO] Selected the branch: Lahore Campus
+2024-10-13 22:43:20,207 [INFO] Selected the role: Student
+2024-10-13 22:43:20,622 [INFO] Clicked on the login button.
+2024-10-13 22:43:20,962 [INFO] Clicked the go to lms link.
+2024-10-13 22:43:21,001 [INFO] Switched to the LMS window/tab.
+2024-10-13 22:43:24,146 [INFO] Navigated to the assignments page successfully!
+2024-10-13 22:43:24,210 [INFO] Total courses: 9
+2024-10-13 22:43:24,964 [WARNING] Stale element encountered at index 1. Retrying... Error: Message: stale element reference: stale element not found
+  (Session info: chrome=129.0.6668.100); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Stacktrace:
+#0 0x61dc79d0010a <unknown>
+#1 0x61dc799e65e0 <unknown>
+#2 0x61dc799f684b <unknown>
+#3 0x61dc799eccf8 <unknown>
+#4 0x61dc799eaff9 <unknown>
+#5 0x61dc799ee105 <unknown>
+#6 0x61dc799ee18c <unknown>
+#7 0x61dc79a35847 <unknown>
+#8 0x61dc79a35e81 <unknown>
+#9 0x61dc79a2a8f3 <unknown>
+#10 0x61dc79a5ab4d <unknown>
+#11 0x61dc79a2a478 <unknown>
+#12 0x61dc79a5acee <unknown>
+#13 0x61dc79a79d7d <unknown>
+#14 0x61dc79a5a8c3 <unknown>
+#15 0x61dc79a286b3 <unknown>
+#16 0x61dc79a2968e <unknown>
+#17 0x61dc79ccab0b <unknown>
+#18 0x61dc79ccea91 <unknown>
+#19 0x61dc79cb7305 <unknown>
+#20 0x61dc79ccf612 <unknown>
+#21 0x61dc79c9c46f <unknown>
+#22 0x61dc79cef008 <unknown>
+#23 0x61dc79cef1d3 <unknown>
+#24 0x61dc79cfef5c <unknown>
+#25 0x7421b53ce39d <unknown>
+#26 0x7421b545349c <unknown>
+
+2024-10-13 22:43:27,697 [WARNING] Stale element encountered at index 2. Retrying... Error: Message: stale element reference: stale element not found
+  (Session info: chrome=129.0.6668.100); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Stacktrace:
+#0 0x61dc79d0010a <unknown>
+#1 0x61dc799e65e0 <unknown>
+#2 0x61dc799f684b <unknown>
+#3 0x61dc799eccf8 <unknown>
+#4 0x61dc799eaff9 <unknown>
+#5 0x61dc799ee105 <unknown>
+#6 0x61dc799ee18c <unknown>
+#7 0x61dc79a35847 <unknown>
+#8 0x61dc79a35e81 <unknown>
+#9 0x61dc79a2a8f3 <unknown>
+#10 0x61dc79a5ab4d <unknown>
+#11 0x61dc79a2a478 <unknown>
+#12 0x61dc79a5acee <unknown>
+#13 0x61dc79a79d7d <unknown>
+#14 0x61dc79a5a8c3 <unknown>
+#15 0x61dc79a286b3 <unknown>
+#16 0x61dc79a2968e <unknown>
+#17 0x61dc79ccab0b <unknown>
+#18 0x61dc79ccea91 <unknown>
+#19 0x61dc79cb7305 <unknown>
+#20 0x61dc79ccf612 <unknown>
+#21 0x61dc79c9c46f <unknown>
+#22 0x61dc79cef008 <unknown>
+#23 0x61dc79cef1d3 <unknown>
+#24 0x61dc79cfef5c <unknown>
+#25 0x7421b53ce39d <unknown>
+#26 0x7421b545349c <unknown>
+
+2024-10-13 22:43:30,678 [WARNING] Stale element encountered at index 3. Retrying... Error: Message: stale element reference: stale element not found
+  (Session info: chrome=129.0.6668.100); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Stacktrace:
+#0 0x61dc79d0010a <unknown>
+#1 0x61dc799e65e0 <unknown>
+#2 0x61dc799f684b <unknown>
+#3 0x61dc799eccf8 <unknown>
+#4 0x61dc799eaff9 <unknown>
+#5 0x61dc799ee105 <unknown>
+#6 0x61dc799ee18c <unknown>
+#7 0x61dc79a35847 <unknown>
+#8 0x61dc79a35e81 <unknown>
+#9 0x61dc79a2a8f3 <unknown>
+#10 0x61dc79a5ab4d <unknown>
+#11 0x61dc79a2a478 <unknown>
+#12 0x61dc79a5acee <unknown>
+#13 0x61dc79a79d7d <unknown>
+#14 0x61dc79a5a8c3 <unknown>
+#15 0x61dc79a286b3 <unknown>
+#16 0x61dc79a2968e <unknown>
+#17 0x61dc79ccab0b <unknown>
+#18 0x61dc79ccea91 <unknown>
+#19 0x61dc79cb7305 <unknown>
+#20 0x61dc79ccf612 <unknown>
+#21 0x61dc79c9c46f <unknown>
+#22 0x61dc79cef008 <unknown>
+#23 0x61dc79cef1d3 <unknown>
+#24 0x61dc79cfef5c <unknown>
+#25 0x7421b53ce39d <unknown>
+#26 0x7421b545349c <unknown>
+
+2024-10-13 22:43:33,710 [WARNING] Stale element encountered at index 4. Retrying... Error: Message: stale element reference: stale element not found
+  (Session info: chrome=129.0.6668.100); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Stacktrace:
+#0 0x61dc79d0010a <unknown>
+#1 0x61dc799e65e0 <unknown>
+#2 0x61dc799f684b <unknown>
+#3 0x61dc799eccf8 <unknown>
+#4 0x61dc799eaff9 <unknown>
+#5 0x61dc799ee105 <unknown>
+#6 0x61dc799ee18c <unknown>
+#7 0x61dc79a35847 <unknown>
+#8 0x61dc79a35e81 <unknown>
+#9 0x61dc79a2a8f3 <unknown>
+#10 0x61dc79a5ab4d <unknown>
+#11 0x61dc79a2a478 <unknown>
+#12 0x61dc79a5acee <unknown>
+#13 0x61dc79a79d7d <unknown>
+#14 0x61dc79a5a8c3 <unknown>
+#15 0x61dc79a286b3 <unknown>
+#16 0x61dc79a2968e <unknown>
+#17 0x61dc79ccab0b <unknown>
+#18 0x61dc79ccea91 <unknown>
+#19 0x61dc79cb7305 <unknown>
+#20 0x61dc79ccf612 <unknown>
+#21 0x61dc79c9c46f <unknown>
+#22 0x61dc79cef008 <unknown>
+#23 0x61dc79cef1d3 <unknown>
+#24 0x61dc79cfef5c <unknown>
+#25 0x7421b53ce39d <unknown>
+#26 0x7421b545349c <unknown>
+
+2024-10-13 22:43:36,477 [WARNING] Stale element encountered at index 5. Retrying... Error: Message: stale element reference: stale element not found
+  (Session info: chrome=129.0.6668.100); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Stacktrace:
+#0 0x61dc79d0010a <unknown>
+#1 0x61dc799e65e0 <unknown>
+#2 0x61dc799f684b <unknown>
+#3 0x61dc799eccf8 <unknown>
+#4 0x61dc799eaff9 <unknown>
+#5 0x61dc799ee105 <unknown>
+#6 0x61dc799ee18c <unknown>
+#7 0x61dc79a35847 <unknown>
+#8 0x61dc79a35e81 <unknown>
+#9 0x61dc79a2a8f3 <unknown>
+#10 0x61dc79a5ab4d <unknown>
+#11 0x61dc79a2a478 <unknown>
+#12 0x61dc79a5acee <unknown>
+#13 0x61dc79a79d7d <unknown>
+#14 0x61dc79a5a8c3 <unknown>
+#15 0x61dc79a286b3 <unknown>
+#16 0x61dc79a2968e <unknown>
+#17 0x61dc79ccab0b <unknown>
+#18 0x61dc79ccea91 <unknown>
+#19 0x61dc79cb7305 <unknown>
+#20 0x61dc79ccf612 <unknown>
+#21 0x61dc79c9c46f <unknown>
+#22 0x61dc79cef008 <unknown>
+#23 0x61dc79cef1d3 <unknown>
+#24 0x61dc79cfef5c <unknown>
+#25 0x7421b53ce39d <unknown>
+#26 0x7421b545349c <unknown>
+
+2024-10-13 22:43:39,424 [WARNING] Stale element encountered at index 6. Retrying... Error: Message: stale element reference: stale element not found
+  (Session info: chrome=129.0.6668.100); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Stacktrace:
+#0 0x61dc79d0010a <unknown>
+#1 0x61dc799e65e0 <unknown>
+#2 0x61dc799f684b <unknown>
+#3 0x61dc799eccf8 <unknown>
+#4 0x61dc799eaff9 <unknown>
+#5 0x61dc799ee105 <unknown>
+#6 0x61dc799ee18c <unknown>
+#7 0x61dc79a35847 <unknown>
+#8 0x61dc79a35e81 <unknown>
+#9 0x61dc79a2a8f3 <unknown>
+#10 0x61dc79a5ab4d <unknown>
+#11 0x61dc79a2a478 <unknown>
+#12 0x61dc79a5acee <unknown>
+#13 0x61dc79a79d7d <unknown>
+#14 0x61dc79a5a8c3 <unknown>
+#15 0x61dc79a286b3 <unknown>
+#16 0x61dc79a2968e <unknown>
+#17 0x61dc79ccab0b <unknown>
+#18 0x61dc79ccea91 <unknown>
+#19 0x61dc79cb7305 <unknown>
+#20 0x61dc79ccf612 <unknown>
+#21 0x61dc79c9c46f <unknown>
+#22 0x61dc79cef008 <unknown>
+#23 0x61dc79cef1d3 <unknown>
+#24 0x61dc79cfef5c <unknown>
+#25 0x7421b53ce39d <unknown>
+#26 0x7421b545349c <unknown>
+
+2024-10-13 22:43:42,872 [WARNING] Stale element encountered at index 7. Retrying... Error: Message: stale element reference: stale element not found
+  (Session info: chrome=129.0.6668.100); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Stacktrace:
+#0 0x61dc79d0010a <unknown>
+#1 0x61dc799e65e0 <unknown>
+#2 0x61dc799f684b <unknown>
+#3 0x61dc799eccf8 <unknown>
+#4 0x61dc799eaff9 <unknown>
+#5 0x61dc799ee105 <unknown>
+#6 0x61dc799ee18c <unknown>
+#7 0x61dc79a35847 <unknown>
+#8 0x61dc79a35e81 <unknown>
+#9 0x61dc79a2a8f3 <unknown>
+#10 0x61dc79a5ab4d <unknown>
+#11 0x61dc79a2a478 <unknown>
+#12 0x61dc79a5acee <unknown>
+#13 0x61dc79a79d7d <unknown>
+#14 0x61dc79a5a8c3 <unknown>
+#15 0x61dc79a286b3 <unknown>
+#16 0x61dc79a2968e <unknown>
+#17 0x61dc79ccab0b <unknown>
+#18 0x61dc79ccea91 <unknown>
+#19 0x61dc79cb7305 <unknown>
+#20 0x61dc79ccf612 <unknown>
+#21 0x61dc79c9c46f <unknown>
+#22 0x61dc79cef008 <unknown>
+#23 0x61dc79cef1d3 <unknown>
+#24 0x61dc79cfef5c <unknown>
+#25 0x7421b53ce39d <unknown>
+#26 0x7421b545349c <unknown>
+
+2024-10-13 22:43:46,961 [WARNING] Stale element encountered at index 8. Retrying... Error: Message: stale element reference: stale element not found
+  (Session info: chrome=129.0.6668.100); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Stacktrace:
+#0 0x61dc79d0010a <unknown>
+#1 0x61dc799e65e0 <unknown>
+#2 0x61dc799f684b <unknown>
+#3 0x61dc799eccf8 <unknown>
+#4 0x61dc799eaff9 <unknown>
+#5 0x61dc799ee105 <unknown>
+#6 0x61dc799ee18c <unknown>
+#7 0x61dc79a35847 <unknown>
+#8 0x61dc79a35e81 <unknown>
+#9 0x61dc79a2a8f3 <unknown>
+#10 0x61dc79a5ab4d <unknown>
+#11 0x61dc79a2a478 <unknown>
+#12 0x61dc79a5acee <unknown>
+#13 0x61dc79a79d7d <unknown>
+#14 0x61dc79a5a8c3 <unknown>
+#15 0x61dc79a286b3 <unknown>
+#16 0x61dc79a2968e <unknown>
+#17 0x61dc79ccab0b <unknown>
+#18 0x61dc79ccea91 <unknown>
+#19 0x61dc79cb7305 <unknown>
+#20 0x61dc79ccf612 <unknown>
+#21 0x61dc79c9c46f <unknown>
+#22 0x61dc79cef008 <unknown>
+#23 0x61dc79cef1d3 <unknown>
+#24 0x61dc79cfef5c <unknown>
+#25 0x7421b53ce39d <unknown>
+#26 0x7421b545349c <unknown>
+
+2024-10-13 22:45:02,095 [INFO] Navigated to the CMS login page.
+2024-10-13 22:45:02,426 [INFO] Entered the enrollment and password.
+2024-10-13 22:45:02,593 [INFO] Clicked on the branch dropdown.
+2024-10-13 22:45:02,668 [INFO] Selected the branch dropdown.
+2024-10-13 22:45:02,839 [INFO] Selected the branch: Lahore Campus
+2024-10-13 22:45:02,945 [INFO] Selected the role: Student
+2024-10-13 22:45:03,981 [INFO] Clicked on the login button.
+2024-10-13 22:45:04,258 [INFO] Clicked the go to lms link.
+2024-10-13 22:45:04,315 [INFO] Switched to the LMS window/tab.
+2024-10-13 22:45:50,036 [INFO] Navigated to the assignments page successfully!
+2024-10-13 22:46:04,997 [INFO] Total courses: 9
+2024-10-13 22:47:07,677 [WARNING] Stale element encountered at index 1. Retrying... Error: Message: stale element reference: stale element not found
+  (Session info: chrome=129.0.6668.100); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Stacktrace:
+#0 0x625b1a13610a <unknown>
+#1 0x625b19e1c5e0 <unknown>
+#2 0x625b19e2c84b <unknown>
+#3 0x625b19e22cf8 <unknown>
+#4 0x625b19e20ff9 <unknown>
+#5 0x625b19e24105 <unknown>
+#6 0x625b19e2418c <unknown>
+#7 0x625b19e6b847 <unknown>
+#8 0x625b19e6be81 <unknown>
+#9 0x625b19e608f3 <unknown>
+#10 0x625b19e90b4d <unknown>
+#11 0x625b19e60478 <unknown>
+#12 0x625b19e90cee <unknown>
+#13 0x625b19eafd7d <unknown>
+#14 0x625b19e908c3 <unknown>
+#15 0x625b19e5e6b3 <unknown>
+#16 0x625b19e5f68e <unknown>
+#17 0x625b1a100b0b <unknown>
+#18 0x625b1a104a91 <unknown>
+#19 0x625b1a0ed305 <unknown>
+#20 0x625b1a105612 <unknown>
+#21 0x625b1a0d246f <unknown>
+#22 0x625b1a125008 <unknown>
+#23 0x625b1a1251d3 <unknown>
+#24 0x625b1a134f5c <unknown>
+#25 0x7514893bf39d <unknown>
+#26 0x75148944449c <unknown>
+
+2024-10-13 22:48:11,215 [INFO] Navigated to the CMS login page.
+2024-10-13 22:48:11,491 [INFO] Entered the enrollment and password.
+2024-10-13 22:48:11,668 [INFO] Clicked on the branch dropdown.
+2024-10-13 22:48:11,731 [INFO] Selected the branch dropdown.
+2024-10-13 22:48:11,877 [INFO] Selected the branch: Lahore Campus
+2024-10-13 22:48:11,985 [INFO] Selected the role: Student
+2024-10-13 22:48:12,834 [INFO] Clicked on the login button.
+2024-10-13 22:48:13,073 [INFO] Clicked the go to lms link.
+2024-10-13 22:48:13,112 [INFO] Switched to the LMS window/tab.
+2024-10-13 22:48:15,989 [INFO] Navigated to the assignments page successfully!
+2024-10-13 22:48:16,054 [INFO] Total courses: 9
+2024-10-13 22:48:16,124 [INFO] Selected course at index 1: Technical Writing & Presentation Skills
+2024-10-13 22:48:17,289 [WARNING] Stale element encountered at index 1. Retrying... Error: Message: stale element reference: stale element not found
+  (Session info: chrome=129.0.6668.100); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Stacktrace:
+#0 0x621c0f37710a <unknown>
+#1 0x621c0f05d5e0 <unknown>
+#2 0x621c0f06d84b <unknown>
+#3 0x621c0f063cf8 <unknown>
+#4 0x621c0f061ff9 <unknown>
+#5 0x621c0f065105 <unknown>
+#6 0x621c0f06518c <unknown>
+#7 0x621c0f0ac847 <unknown>
+#8 0x621c0f0ace81 <unknown>
+#9 0x621c0f0a18f3 <unknown>
+#10 0x621c0f0d1b4d <unknown>
+#11 0x621c0f0a1478 <unknown>
+#12 0x621c0f0d1cee <unknown>
+#13 0x621c0f0f0d7d <unknown>
+#14 0x621c0f0d18c3 <unknown>
+#15 0x621c0f09f6b3 <unknown>
+#16 0x621c0f0a068e <unknown>
+#17 0x621c0f341b0b <unknown>
+#18 0x621c0f345a91 <unknown>
+#19 0x621c0f32e305 <unknown>
+#20 0x621c0f346612 <unknown>
+#21 0x621c0f31346f <unknown>
+#22 0x621c0f366008 <unknown>
+#23 0x621c0f3661d3 <unknown>
+#24 0x621c0f375f5c <unknown>
+#25 0x7dfb888bf39d <unknown>
+#26 0x7dfb8894449c <unknown>
+
+2024-10-13 22:48:19,331 [INFO] Selected course at index 2: Numerical Analysis
+2024-10-13 22:48:20,334 [WARNING] Stale element encountered at index 2. Retrying... Error: Message: stale element reference: stale element not found
+  (Session info: chrome=129.0.6668.100); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Stacktrace:
+#0 0x621c0f37710a <unknown>
+#1 0x621c0f05d5e0 <unknown>
+#2 0x621c0f06d84b <unknown>
+#3 0x621c0f063cf8 <unknown>
+#4 0x621c0f061ff9 <unknown>
+#5 0x621c0f065105 <unknown>
+#6 0x621c0f06518c <unknown>
+#7 0x621c0f0ac847 <unknown>
+#8 0x621c0f0ace81 <unknown>
+#9 0x621c0f0a18f3 <unknown>
+#10 0x621c0f0d1b4d <unknown>
+#11 0x621c0f0a1478 <unknown>
+#12 0x621c0f0d1cee <unknown>
+#13 0x621c0f0f0d7d <unknown>
+#14 0x621c0f0d18c3 <unknown>
+#15 0x621c0f09f6b3 <unknown>
+#16 0x621c0f0a068e <unknown>
+#17 0x621c0f341b0b <unknown>
+#18 0x621c0f345a91 <unknown>
+#19 0x621c0f32e305 <unknown>
+#20 0x621c0f346612 <unknown>
+#21 0x621c0f31346f <unknown>
+#22 0x621c0f366008 <unknown>
+#23 0x621c0f3661d3 <unknown>
+#24 0x621c0f375f5c <unknown>
+#25 0x7dfb888bf39d <unknown>
+#26 0x7dfb8894449c <unknown>
+
+2024-10-13 22:48:22,478 [INFO] Selected course at index 3: Artificial Intelligence
+2024-10-13 22:48:23,263 [WARNING] Stale element encountered at index 3. Retrying... Error: Message: stale element reference: stale element not found
+  (Session info: chrome=129.0.6668.100); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Stacktrace:
+#0 0x621c0f37710a <unknown>
+#1 0x621c0f05d5e0 <unknown>
+#2 0x621c0f06d84b <unknown>
+#3 0x621c0f063cf8 <unknown>
+#4 0x621c0f061ff9 <unknown>
+#5 0x621c0f065105 <unknown>
+#6 0x621c0f06518c <unknown>
+#7 0x621c0f0ac847 <unknown>
+#8 0x621c0f0ace81 <unknown>
+#9 0x621c0f0a18f3 <unknown>
+#10 0x621c0f0d1b4d <unknown>
+#11 0x621c0f0a1478 <unknown>
+#12 0x621c0f0d1cee <unknown>
+#13 0x621c0f0f0d7d <unknown>
+#14 0x621c0f0d18c3 <unknown>
+#15 0x621c0f09f6b3 <unknown>
+#16 0x621c0f0a068e <unknown>
+#17 0x621c0f341b0b <unknown>
+#18 0x621c0f345a91 <unknown>
+#19 0x621c0f32e305 <unknown>
+#20 0x621c0f346612 <unknown>
+#21 0x621c0f31346f <unknown>
+#22 0x621c0f366008 <unknown>
+#23 0x621c0f3661d3 <unknown>
+#24 0x621c0f375f5c <unknown>
+#25 0x7dfb888bf39d <unknown>
+#26 0x7dfb8894449c <unknown>
+
+2024-10-13 22:48:25,372 [INFO] Selected course at index 4: Artificial Intelligence Lab
+2024-10-13 22:48:26,172 [WARNING] Stale element encountered at index 4. Retrying... Error: Message: stale element reference: stale element not found
+  (Session info: chrome=129.0.6668.100); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Stacktrace:
+#0 0x621c0f37710a <unknown>
+#1 0x621c0f05d5e0 <unknown>
+#2 0x621c0f06d84b <unknown>
+#3 0x621c0f063cf8 <unknown>
+#4 0x621c0f061ff9 <unknown>
+#5 0x621c0f065105 <unknown>
+#6 0x621c0f06518c <unknown>
+#7 0x621c0f0ac847 <unknown>
+#8 0x621c0f0ace81 <unknown>
+#9 0x621c0f0a18f3 <unknown>
+#10 0x621c0f0d1b4d <unknown>
+#11 0x621c0f0a1478 <unknown>
+#12 0x621c0f0d1cee <unknown>
+#13 0x621c0f0f0d7d <unknown>
+#14 0x621c0f0d18c3 <unknown>
+#15 0x621c0f09f6b3 <unknown>
+#16 0x621c0f0a068e <unknown>
+#17 0x621c0f341b0b <unknown>
+#18 0x621c0f345a91 <unknown>
+#19 0x621c0f32e305 <unknown>
+#20 0x621c0f346612 <unknown>
+#21 0x621c0f31346f <unknown>
+#22 0x621c0f366008 <unknown>
+#23 0x621c0f3661d3 <unknown>
+#24 0x621c0f375f5c <unknown>
+#25 0x7dfb888bf39d <unknown>
+#26 0x7dfb8894449c <unknown>
+
+2024-10-13 22:48:28,212 [INFO] Selected course at index 5: Introduction to Cloud Computing
+2024-10-13 22:48:29,048 [WARNING] Stale element encountered at index 5. Retrying... Error: Message: stale element reference: stale element not found
+  (Session info: chrome=129.0.6668.100); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Stacktrace:
+#0 0x621c0f37710a <unknown>
+#1 0x621c0f05d5e0 <unknown>
+#2 0x621c0f06d84b <unknown>
+#3 0x621c0f063cf8 <unknown>
+#4 0x621c0f061ff9 <unknown>
+#5 0x621c0f065105 <unknown>
+#6 0x621c0f06518c <unknown>
+#7 0x621c0f0ac847 <unknown>
+#8 0x621c0f0ace81 <unknown>
+#9 0x621c0f0a18f3 <unknown>
+#10 0x621c0f0d1b4d <unknown>
+#11 0x621c0f0a1478 <unknown>
+#12 0x621c0f0d1cee <unknown>
+#13 0x621c0f0f0d7d <unknown>
+#14 0x621c0f0d18c3 <unknown>
+#15 0x621c0f09f6b3 <unknown>
+#16 0x621c0f0a068e <unknown>
+#17 0x621c0f341b0b <unknown>
+#18 0x621c0f345a91 <unknown>
+#19 0x621c0f32e305 <unknown>
+#20 0x621c0f346612 <unknown>
+#21 0x621c0f31346f <unknown>
+#22 0x621c0f366008 <unknown>
+#23 0x621c0f3661d3 <unknown>
+#24 0x621c0f375f5c <unknown>
+#25 0x7dfb888bf39d <unknown>
+#26 0x7dfb8894449c <unknown>
+
+2024-10-13 22:48:31,087 [INFO] Selected course at index 6: Web Engineering
+2024-10-13 22:48:31,865 [WARNING] Stale element encountered at index 6. Retrying... Error: Message: stale element reference: stale element not found
+  (Session info: chrome=129.0.6668.100); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Stacktrace:
+#0 0x621c0f37710a <unknown>
+#1 0x621c0f05d5e0 <unknown>
+#2 0x621c0f06d84b <unknown>
+#3 0x621c0f063cf8 <unknown>
+#4 0x621c0f061ff9 <unknown>
+#5 0x621c0f065105 <unknown>
+#6 0x621c0f06518c <unknown>
+#7 0x621c0f0ac847 <unknown>
+#8 0x621c0f0ace81 <unknown>
+#9 0x621c0f0a18f3 <unknown>
+#10 0x621c0f0d1b4d <unknown>
+#11 0x621c0f0a1478 <unknown>
+#12 0x621c0f0d1cee <unknown>
+#13 0x621c0f0f0d7d <unknown>
+#14 0x621c0f0d18c3 <unknown>
+#15 0x621c0f09f6b3 <unknown>
+#16 0x621c0f0a068e <unknown>
+#17 0x621c0f341b0b <unknown>
+#18 0x621c0f345a91 <unknown>
+#19 0x621c0f32e305 <unknown>
+#20 0x621c0f346612 <unknown>
+#21 0x621c0f31346f <unknown>
+#22 0x621c0f366008 <unknown>
+#23 0x621c0f3661d3 <unknown>
+#24 0x621c0f375f5c <unknown>
+#25 0x7dfb888bf39d <unknown>
+#26 0x7dfb8894449c <unknown>
+
+2024-10-13 22:48:33,903 [INFO] Selected course at index 7: Web Engineering Lab
+2024-10-13 22:48:34,850 [WARNING] Stale element encountered at index 7. Retrying... Error: Message: stale element reference: stale element not found
+  (Session info: chrome=129.0.6668.100); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Stacktrace:
+#0 0x621c0f37710a <unknown>
+#1 0x621c0f05d5e0 <unknown>
+#2 0x621c0f06d84b <unknown>
+#3 0x621c0f063cf8 <unknown>
+#4 0x621c0f061ff9 <unknown>
+#5 0x621c0f065105 <unknown>
+#6 0x621c0f06518c <unknown>
+#7 0x621c0f0ac847 <unknown>
+#8 0x621c0f0ace81 <unknown>
+#9 0x621c0f0a18f3 <unknown>
+#10 0x621c0f0d1b4d <unknown>
+#11 0x621c0f0a1478 <unknown>
+#12 0x621c0f0d1cee <unknown>
+#13 0x621c0f0f0d7d <unknown>
+#14 0x621c0f0d18c3 <unknown>
+#15 0x621c0f09f6b3 <unknown>
+#16 0x621c0f0a068e <unknown>
+#17 0x621c0f341b0b <unknown>
+#18 0x621c0f345a91 <unknown>
+#19 0x621c0f32e305 <unknown>
+#20 0x621c0f346612 <unknown>
+#21 0x621c0f31346f <unknown>
+#22 0x621c0f366008 <unknown>
+#23 0x621c0f3661d3 <unknown>
+#24 0x621c0f375f5c <unknown>
+#25 0x7dfb888bf39d <unknown>
+#26 0x7dfb8894449c <unknown>
+
+2024-10-13 22:48:36,897 [INFO] Selected course at index 8: Data Communication and Networking
+2024-10-13 22:48:38,624 [WARNING] Stale element encountered at index 8. Retrying... Error: Message: stale element reference: stale element not found
+  (Session info: chrome=129.0.6668.100); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Stacktrace:
+#0 0x621c0f37710a <unknown>
+#1 0x621c0f05d5e0 <unknown>
+#2 0x621c0f06d84b <unknown>
+#3 0x621c0f063cf8 <unknown>
+#4 0x621c0f061ff9 <unknown>
+#5 0x621c0f065105 <unknown>
+#6 0x621c0f06518c <unknown>
+#7 0x621c0f0ac847 <unknown>
+#8 0x621c0f0ace81 <unknown>
+#9 0x621c0f0a18f3 <unknown>
+#10 0x621c0f0d1b4d <unknown>
+#11 0x621c0f0a1478 <unknown>
+#12 0x621c0f0d1cee <unknown>
+#13 0x621c0f0f0d7d <unknown>
+#14 0x621c0f0d18c3 <unknown>
+#15 0x621c0f09f6b3 <unknown>
+#16 0x621c0f0a068e <unknown>
+#17 0x621c0f341b0b <unknown>
+#18 0x621c0f345a91 <unknown>
+#19 0x621c0f32e305 <unknown>
+#20 0x621c0f346612 <unknown>
+#21 0x621c0f31346f <unknown>
+#22 0x621c0f366008 <unknown>
+#23 0x621c0f3661d3 <unknown>
+#24 0x621c0f375f5c <unknown>
+#25 0x7dfb888bf39d <unknown>
+#26 0x7dfb8894449c <unknown>
+
+2024-10-13 22:51:57,384 [INFO] Navigated to the CMS login page.
+2024-10-13 22:51:57,708 [INFO] Entered the enrollment and password.
+2024-10-13 22:51:57,896 [INFO] Clicked on the branch dropdown.
+2024-10-13 22:51:57,992 [INFO] Selected the branch dropdown.
+2024-10-13 22:51:58,141 [INFO] Selected the branch: Lahore Campus
+2024-10-13 22:51:58,256 [INFO] Selected the role: Student
+2024-10-13 22:51:59,201 [INFO] Clicked on the login button.
+2024-10-13 22:51:59,535 [INFO] Clicked the go to lms link.
+2024-10-13 22:51:59,582 [INFO] Switched to the LMS window/tab.
+2024-10-13 22:52:04,109 [INFO] Navigated to the assignments page successfully!
+2024-10-13 22:52:04,176 [INFO] Total courses: 9
+2024-10-13 22:52:04,245 [INFO] Selected course at index 1: Technical Writing & Presentation Skills
+2024-10-13 22:52:05,335 [INFO] Selected course at index 2: Numerical Analysis
+2024-10-13 22:52:06,218 [INFO] Selected course at index 3: Artificial Intelligence
+2024-10-13 22:52:07,399 [INFO] Selected course at index 4: Artificial Intelligence Lab
+2024-10-13 22:52:08,242 [INFO] Selected course at index 5: Introduction to Cloud Computing
+2024-10-13 22:52:09,098 [INFO] Selected course at index 6: Web Engineering
+2024-10-13 22:52:09,976 [INFO] Selected course at index 7: Web Engineering Lab
+2024-10-13 22:52:11,023 [INFO] Selected course at index 8: Data Communication and Networking
+2024-10-13 22:59:39,482 [INFO] Navigated to the CMS login page.
+2024-10-13 22:59:39,848 [INFO] Entered the enrollment and password.
+2024-10-13 22:59:40,069 [INFO] Clicked on the branch dropdown.
+2024-10-13 22:59:40,153 [INFO] Selected the branch dropdown.
+2024-10-13 22:59:40,354 [INFO] Selected the branch: Lahore Campus
+2024-10-13 22:59:40,492 [INFO] Selected the role: Student
+2024-10-13 22:59:42,343 [INFO] Clicked on the login button.
+2024-10-13 22:59:43,421 [INFO] Clicked the go to lms link.
+2024-10-13 22:59:43,609 [INFO] Switched to the LMS window/tab.
+2024-10-13 22:59:47,303 [INFO] Navigated to the assignments page successfully!
+2024-10-13 22:59:47,549 [INFO] Total courses: 8
+2024-10-13 22:59:47,624 [INFO] Selected course at index 1: Technical Writing & Presentation Skills
+2024-10-13 22:59:51,133 [WARNING] Stale element encountered at index 1. Retrying... Error: Message: stale element reference: stale element not found
+  (Session info: chrome=129.0.6668.100); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Stacktrace:
+#0 0x65094df9e10a <unknown>
+#1 0x65094dc845e0 <unknown>
+#2 0x65094dc9484b <unknown>
+#3 0x65094dc8acf8 <unknown>
+#4 0x65094dc88ff9 <unknown>
+#5 0x65094dc8c105 <unknown>
+#6 0x65094dc8c18c <unknown>
+#7 0x65094dcd3847 <unknown>
+#8 0x65094dcd3e81 <unknown>
+#9 0x65094dcc88f3 <unknown>
+#10 0x65094dcf8b4d <unknown>
+#11 0x65094dcc8478 <unknown>
+#12 0x65094dcf8cee <unknown>
+#13 0x65094dd17d7d <unknown>
+#14 0x65094dcf88c3 <unknown>
+#15 0x65094dcc66b3 <unknown>
+#16 0x65094dcc768e <unknown>
+#17 0x65094df68b0b <unknown>
+#18 0x65094df6ca91 <unknown>
+#19 0x65094df55305 <unknown>
+#20 0x65094df6d612 <unknown>
+#21 0x65094df3a46f <unknown>
+#22 0x65094df8d008 <unknown>
+#23 0x65094df8d1d3 <unknown>
+#24 0x65094df9cf5c <unknown>
+#25 0x7121bcc4439d <unknown>
+#26 0x7121bccc949c <unknown>
+
+2024-10-13 22:59:53,172 [INFO] Selected course at index 2: Numerical Analysis
+2024-10-13 22:59:54,043 [WARNING] Stale element encountered at index 2. Retrying... Error: Message: stale element reference: stale element not found
+  (Session info: chrome=129.0.6668.100); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Stacktrace:
+#0 0x65094df9e10a <unknown>
+#1 0x65094dc845e0 <unknown>
+#2 0x65094dc9484b <unknown>
+#3 0x65094dc8acf8 <unknown>
+#4 0x65094dc88ff9 <unknown>
+#5 0x65094dc8c105 <unknown>
+#6 0x65094dc8c18c <unknown>
+#7 0x65094dcd3847 <unknown>
+#8 0x65094dcd3e81 <unknown>
+#9 0x65094dcc88f3 <unknown>
+#10 0x65094dcf8b4d <unknown>
+#11 0x65094dcc8478 <unknown>
+#12 0x65094dcf8cee <unknown>
+#13 0x65094dd17d7d <unknown>
+#14 0x65094dcf88c3 <unknown>
+#15 0x65094dcc66b3 <unknown>
+#16 0x65094dcc768e <unknown>
+#17 0x65094df68b0b <unknown>
+#18 0x65094df6ca91 <unknown>
+#19 0x65094df55305 <unknown>
+#20 0x65094df6d612 <unknown>
+#21 0x65094df3a46f <unknown>
+#22 0x65094df8d008 <unknown>
+#23 0x65094df8d1d3 <unknown>
+#24 0x65094df9cf5c <unknown>
+#25 0x7121bcc4439d <unknown>
+#26 0x7121bccc949c <unknown>
+
+2024-10-13 22:59:56,082 [INFO] Selected course at index 3: Artificial Intelligence
+2024-10-13 22:59:56,889 [WARNING] Stale element encountered at index 3. Retrying... Error: Message: stale element reference: stale element not found
+  (Session info: chrome=129.0.6668.100); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Stacktrace:
+#0 0x65094df9e10a <unknown>
+#1 0x65094dc845e0 <unknown>
+#2 0x65094dc9484b <unknown>
+#3 0x65094dc8acf8 <unknown>
+#4 0x65094dc88ff9 <unknown>
+#5 0x65094dc8c105 <unknown>
+#6 0x65094dc8c18c <unknown>
+#7 0x65094dcd3847 <unknown>
+#8 0x65094dcd3e81 <unknown>
+#9 0x65094dcc88f3 <unknown>
+#10 0x65094dcf8b4d <unknown>
+#11 0x65094dcc8478 <unknown>
+#12 0x65094dcf8cee <unknown>
+#13 0x65094dd17d7d <unknown>
+#14 0x65094dcf88c3 <unknown>
+#15 0x65094dcc66b3 <unknown>
+#16 0x65094dcc768e <unknown>
+#17 0x65094df68b0b <unknown>
+#18 0x65094df6ca91 <unknown>
+#19 0x65094df55305 <unknown>
+#20 0x65094df6d612 <unknown>
+#21 0x65094df3a46f <unknown>
+#22 0x65094df8d008 <unknown>
+#23 0x65094df8d1d3 <unknown>
+#24 0x65094df9cf5c <unknown>
+#25 0x7121bcc4439d <unknown>
+#26 0x7121bccc949c <unknown>
+
+2024-10-13 22:59:58,928 [INFO] Selected course at index 4: Artificial Intelligence Lab
+2024-10-13 22:59:59,924 [WARNING] Stale element encountered at index 4. Retrying... Error: Message: stale element reference: stale element not found
+  (Session info: chrome=129.0.6668.100); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Stacktrace:
+#0 0x65094df9e10a <unknown>
+#1 0x65094dc845e0 <unknown>
+#2 0x65094dc9484b <unknown>
+#3 0x65094dc8acf8 <unknown>
+#4 0x65094dc88ff9 <unknown>
+#5 0x65094dc8c105 <unknown>
+#6 0x65094dc8c18c <unknown>
+#7 0x65094dcd3847 <unknown>
+#8 0x65094dcd3e81 <unknown>
+#9 0x65094dcc88f3 <unknown>
+#10 0x65094dcf8b4d <unknown>
+#11 0x65094dcc8478 <unknown>
+#12 0x65094dcf8cee <unknown>
+#13 0x65094dd17d7d <unknown>
+#14 0x65094dcf88c3 <unknown>
+#15 0x65094dcc66b3 <unknown>
+#16 0x65094dcc768e <unknown>
+#17 0x65094df68b0b <unknown>
+#18 0x65094df6ca91 <unknown>
+#19 0x65094df55305 <unknown>
+#20 0x65094df6d612 <unknown>
+#21 0x65094df3a46f <unknown>
+#22 0x65094df8d008 <unknown>
+#23 0x65094df8d1d3 <unknown>
+#24 0x65094df9cf5c <unknown>
+#25 0x7121bcc4439d <unknown>
+#26 0x7121bccc949c <unknown>
+
+2024-10-13 23:00:01,964 [INFO] Selected course at index 5: Introduction to Cloud Computing
+2024-10-13 23:00:02,868 [WARNING] Stale element encountered at index 5. Retrying... Error: Message: stale element reference: stale element not found
+  (Session info: chrome=129.0.6668.100); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Stacktrace:
+#0 0x65094df9e10a <unknown>
+#1 0x65094dc845e0 <unknown>
+#2 0x65094dc9484b <unknown>
+#3 0x65094dc8acf8 <unknown>
+#4 0x65094dc88ff9 <unknown>
+#5 0x65094dc8c105 <unknown>
+#6 0x65094dc8c18c <unknown>
+#7 0x65094dcd3847 <unknown>
+#8 0x65094dcd3e81 <unknown>
+#9 0x65094dcc88f3 <unknown>
+#10 0x65094dcf8b4d <unknown>
+#11 0x65094dcc8478 <unknown>
+#12 0x65094dcf8cee <unknown>
+#13 0x65094dd17d7d <unknown>
+#14 0x65094dcf88c3 <unknown>
+#15 0x65094dcc66b3 <unknown>
+#16 0x65094dcc768e <unknown>
+#17 0x65094df68b0b <unknown>
+#18 0x65094df6ca91 <unknown>
+#19 0x65094df55305 <unknown>
+#20 0x65094df6d612 <unknown>
+#21 0x65094df3a46f <unknown>
+#22 0x65094df8d008 <unknown>
+#23 0x65094df8d1d3 <unknown>
+#24 0x65094df9cf5c <unknown>
+#25 0x7121bcc4439d <unknown>
+#26 0x7121bccc949c <unknown>
+
+2024-10-13 23:00:04,914 [INFO] Selected course at index 6: Web Engineering
+2024-10-13 23:00:05,750 [WARNING] Stale element encountered at index 6. Retrying... Error: Message: stale element reference: stale element not found
+  (Session info: chrome=129.0.6668.100); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Stacktrace:
+#0 0x65094df9e10a <unknown>
+#1 0x65094dc845e0 <unknown>
+#2 0x65094dc9484b <unknown>
+#3 0x65094dc8acf8 <unknown>
+#4 0x65094dc88ff9 <unknown>
+#5 0x65094dc8c105 <unknown>
+#6 0x65094dc8c18c <unknown>
+#7 0x65094dcd3847 <unknown>
+#8 0x65094dcd3e81 <unknown>
+#9 0x65094dcc88f3 <unknown>
+#10 0x65094dcf8b4d <unknown>
+#11 0x65094dcc8478 <unknown>
+#12 0x65094dcf8cee <unknown>
+#13 0x65094dd17d7d <unknown>
+#14 0x65094dcf88c3 <unknown>
+#15 0x65094dcc66b3 <unknown>
+#16 0x65094dcc768e <unknown>
+#17 0x65094df68b0b <unknown>
+#18 0x65094df6ca91 <unknown>
+#19 0x65094df55305 <unknown>
+#20 0x65094df6d612 <unknown>
+#21 0x65094df3a46f <unknown>
+#22 0x65094df8d008 <unknown>
+#23 0x65094df8d1d3 <unknown>
+#24 0x65094df9cf5c <unknown>
+#25 0x7121bcc4439d <unknown>
+#26 0x7121bccc949c <unknown>
+
+2024-10-13 23:00:07,807 [INFO] Selected course at index 7: Web Engineering Lab
+2024-10-13 23:00:08,901 [WARNING] Stale element encountered at index 7. Retrying... Error: Message: stale element reference: stale element not found
+  (Session info: chrome=129.0.6668.100); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Stacktrace:
+#0 0x65094df9e10a <unknown>
+#1 0x65094dc845e0 <unknown>
+#2 0x65094dc9484b <unknown>
+#3 0x65094dc8acf8 <unknown>
+#4 0x65094dc88ff9 <unknown>
+#5 0x65094dc8c105 <unknown>
+#6 0x65094dc8c18c <unknown>
+#7 0x65094dcd3847 <unknown>
+#8 0x65094dcd3e81 <unknown>
+#9 0x65094dcc88f3 <unknown>
+#10 0x65094dcf8b4d <unknown>
+#11 0x65094dcc8478 <unknown>
+#12 0x65094dcf8cee <unknown>
+#13 0x65094dd17d7d <unknown>
+#14 0x65094dcf88c3 <unknown>
+#15 0x65094dcc66b3 <unknown>
+#16 0x65094dcc768e <unknown>
+#17 0x65094df68b0b <unknown>
+#18 0x65094df6ca91 <unknown>
+#19 0x65094df55305 <unknown>
+#20 0x65094df6d612 <unknown>
+#21 0x65094df3a46f <unknown>
+#22 0x65094df8d008 <unknown>
+#23 0x65094df8d1d3 <unknown>
+#24 0x65094df9cf5c <unknown>
+#25 0x7121bcc4439d <unknown>
+#26 0x7121bccc949c <unknown>
+
+2024-10-13 23:01:45,120 [INFO] Navigated to the CMS login page.
+2024-10-13 23:01:45,491 [INFO] Entered the enrollment and password.
+2024-10-13 23:01:45,716 [INFO] Clicked on the branch dropdown.
+2024-10-13 23:01:45,823 [INFO] Selected the branch dropdown.
+2024-10-13 23:01:45,956 [INFO] Selected the branch: Lahore Campus
+2024-10-13 23:01:46,065 [INFO] Selected the role: Student
+2024-10-13 23:01:46,616 [INFO] Clicked on the login button.
+2024-10-13 23:01:47,630 [INFO] Clicked the go to lms link.
+2024-10-13 23:01:47,753 [INFO] Switched to the LMS window/tab.
+2024-10-13 23:01:49,963 [INFO] Navigated to the assignments page successfully!
+2024-10-13 23:01:50,033 [INFO] Total courses: 8
+2024-10-13 23:01:50,115 [INFO] Selected course at index 1: Technical Writing & Presentation Skills
+2024-10-13 23:03:32,091 [WARNING] Stale element encountered at index 1. Retrying... Error: Message: stale element reference: stale element not found
+  (Session info: chrome=129.0.6668.100); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Stacktrace:
+#0 0x5b34f596b10a <unknown>
+#1 0x5b34f56515e0 <unknown>
+#2 0x5b34f566184b <unknown>
+#3 0x5b34f5657cf8 <unknown>
+#4 0x5b34f5655ff9 <unknown>
+#5 0x5b34f5659105 <unknown>
+#6 0x5b34f565918c <unknown>
+#7 0x5b34f56a0847 <unknown>
+#8 0x5b34f56a0e81 <unknown>
+#9 0x5b34f56958f3 <unknown>
+#10 0x5b34f56c5b4d <unknown>
+#11 0x5b34f5695478 <unknown>
+#12 0x5b34f56c5cee <unknown>
+#13 0x5b34f56e4d7d <unknown>
+#14 0x5b34f56c58c3 <unknown>
+#15 0x5b34f56936b3 <unknown>
+#16 0x5b34f569468e <unknown>
+#17 0x5b34f5935b0b <unknown>
+#18 0x5b34f5939a91 <unknown>
+#19 0x5b34f5922305 <unknown>
+#20 0x5b34f593a612 <unknown>
+#21 0x5b34f590746f <unknown>
+#22 0x5b34f595a008 <unknown>
+#23 0x5b34f595a1d3 <unknown>
+#24 0x5b34f5969f5c <unknown>
+#25 0x70c45d87339d <unknown>
+#26 0x70c45d8f849c <unknown>
+
+2024-10-13 23:03:51,749 [INFO] Selected course at index 2: Numerical Analysis
+2024-10-13 23:04:41,827 [INFO] Navigated to the CMS login page.
+2024-10-13 23:04:42,219 [INFO] Entered the enrollment and password.
+2024-10-13 23:04:42,444 [INFO] Clicked on the branch dropdown.
+2024-10-13 23:04:42,608 [INFO] Selected the branch dropdown.
+2024-10-13 23:04:42,715 [INFO] Selected the branch: Lahore Campus
+2024-10-13 23:04:42,813 [INFO] Selected the role: Student
+2024-10-13 23:04:42,917 [INFO] Clicked on the login button.
+2024-10-13 23:04:43,541 [INFO] Clicked the go to lms link.
+2024-10-13 23:04:43,600 [INFO] Switched to the LMS window/tab.
+2024-10-13 23:04:45,877 [INFO] Navigated to the assignments page successfully!
+2024-10-13 23:04:45,951 [INFO] Total courses: 8
+2024-10-13 23:04:46,035 [INFO] Selected course at index 1: Technical Writing & Presentation Skills
+2024-10-13 23:04:55,841 [WARNING] Stale element encountered at index 1. Retrying... Error: Message: stale element reference: stale element not found
+  (Session info: chrome=129.0.6668.100); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Stacktrace:
+#0 0x58980d53110a <unknown>
+#1 0x58980d2175e0 <unknown>
+#2 0x58980d22784b <unknown>
+#3 0x58980d21dcf8 <unknown>
+#4 0x58980d21bff9 <unknown>
+#5 0x58980d21f105 <unknown>
+#6 0x58980d21f18c <unknown>
+#7 0x58980d266847 <unknown>
+#8 0x58980d266e81 <unknown>
+#9 0x58980d25b8f3 <unknown>
+#10 0x58980d28bb4d <unknown>
+#11 0x58980d25b478 <unknown>
+#12 0x58980d28bcee <unknown>
+#13 0x58980d2aad7d <unknown>
+#14 0x58980d28b8c3 <unknown>
+#15 0x58980d2596b3 <unknown>
+#16 0x58980d25a68e <unknown>
+#17 0x58980d4fbb0b <unknown>
+#18 0x58980d4ffa91 <unknown>
+#19 0x58980d4e8305 <unknown>
+#20 0x58980d500612 <unknown>
+#21 0x58980d4cd46f <unknown>
+#22 0x58980d520008 <unknown>
+#23 0x58980d5201d3 <unknown>
+#24 0x58980d52ff5c <unknown>
+#25 0x7c60444ba39d <unknown>
+#26 0x7c604453f49c <unknown>
+
+2024-10-13 23:04:59,328 [INFO] Selected course at index 2: Numerical Analysis
+2024-10-13 23:10:25,482 [INFO] Navigated to the CMS login page.
+2024-10-13 23:10:25,738 [INFO] Entered the enrollment and password.
+2024-10-13 23:10:25,911 [INFO] Clicked on the branch dropdown.
+2024-10-13 23:10:25,994 [INFO] Selected the branch dropdown.
+2024-10-13 23:10:26,130 [INFO] Selected the branch: Lahore Campus
+2024-10-13 23:10:26,217 [INFO] Selected the role: Student
+2024-10-13 23:10:27,207 [INFO] Clicked on the login button.
+2024-10-13 23:10:27,427 [INFO] Clicked the go to lms link.
+2024-10-13 23:10:27,461 [INFO] Switched to the LMS window/tab.
+2024-10-13 23:10:33,579 [INFO] Navigated to the assignments page successfully!
+2024-10-13 23:10:33,641 [INFO] Total courses: 8
+2024-10-13 23:10:33,698 [INFO] Selected course at index 1: Technical Writing & Presentation Skills
+2024-10-13 23:10:34,626 [WARNING] Stale element encountered at index 1. Retrying... Error: Message: stale element reference: stale element not found
+  (Session info: chrome=129.0.6668.100); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Stacktrace:
+#0 0x608e5647a10a <unknown>
+#1 0x608e561605e0 <unknown>
+#2 0x608e5617084b <unknown>
+#3 0x608e56166cf8 <unknown>
+#4 0x608e56164ff9 <unknown>
+#5 0x608e56168105 <unknown>
+#6 0x608e5616818c <unknown>
+#7 0x608e561af847 <unknown>
+#8 0x608e561afe81 <unknown>
+#9 0x608e561a48f3 <unknown>
+#10 0x608e561d4b4d <unknown>
+#11 0x608e561a4478 <unknown>
+#12 0x608e561d4cee <unknown>
+#13 0x608e561f3d7d <unknown>
+#14 0x608e561d48c3 <unknown>
+#15 0x608e561a26b3 <unknown>
+#16 0x608e561a368e <unknown>
+#17 0x608e56444b0b <unknown>
+#18 0x608e56448a91 <unknown>
+#19 0x608e56431305 <unknown>
+#20 0x608e56449612 <unknown>
+#21 0x608e5641646f <unknown>
+#22 0x608e56469008 <unknown>
+#23 0x608e564691d3 <unknown>
+#24 0x608e56478f5c <unknown>
+#25 0x7cfea9dee39d <unknown>
+#26 0x7cfea9e7349c <unknown>
+
+2024-10-13 23:10:36,674 [INFO] Selected course at index 2: Numerical Analysis
+2024-10-13 23:10:37,541 [WARNING] Stale element encountered at index 2. Retrying... Error: Message: stale element reference: stale element not found
+  (Session info: chrome=129.0.6668.100); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Stacktrace:
+#0 0x608e5647a10a <unknown>
+#1 0x608e561605e0 <unknown>
+#2 0x608e5617084b <unknown>
+#3 0x608e56166cf8 <unknown>
+#4 0x608e56164ff9 <unknown>
+#5 0x608e56168105 <unknown>
+#6 0x608e5616818c <unknown>
+#7 0x608e561af847 <unknown>
+#8 0x608e561afe81 <unknown>
+#9 0x608e561a48f3 <unknown>
+#10 0x608e561d4b4d <unknown>
+#11 0x608e561a4478 <unknown>
+#12 0x608e561d4cee <unknown>
+#13 0x608e561f3d7d <unknown>
+#14 0x608e561d48c3 <unknown>
+#15 0x608e561a26b3 <unknown>
+#16 0x608e561a368e <unknown>
+#17 0x608e56444b0b <unknown>
+#18 0x608e56448a91 <unknown>
+#19 0x608e56431305 <unknown>
+#20 0x608e56449612 <unknown>
+#21 0x608e5641646f <unknown>
+#22 0x608e56469008 <unknown>
+#23 0x608e564691d3 <unknown>
+#24 0x608e56478f5c <unknown>
+#25 0x7cfea9dee39d <unknown>
+#26 0x7cfea9e7349c <unknown>
+
+2024-10-13 23:10:38,146 [WARNING] Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ConnectionResetError(104, 'Connection reset by peer')': /session/c72e9140eeb224bbba50c12dd0ed9c1d
+2024-10-13 23:10:38,148 [WARNING] Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x753b20a264b0>: Failed to establish a new connection: [Errno 111] Connection refused')': /session/c72e9140eeb224bbba50c12dd0ed9c1d
+2024-10-13 23:10:38,149 [WARNING] Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x753b20a26210>: Failed to establish a new connection: [Errno 111] Connection refused')': /session/c72e9140eeb224bbba50c12dd0ed9c1d
+2024-10-13 23:17:16,840 [INFO] Navigated to the CMS login page.
+2024-10-13 23:17:17,140 [INFO] Entered the enrollment and password.
+2024-10-13 23:17:17,363 [INFO] Clicked on the branch dropdown.
+2024-10-13 23:17:17,480 [INFO] Selected the branch dropdown.
+2024-10-13 23:17:17,638 [INFO] Selected the branch: Lahore Campus
+2024-10-13 23:17:17,739 [INFO] Selected the role: Student
+2024-10-13 23:17:18,303 [INFO] Clicked on the login button.
+2024-10-13 23:17:19,361 [INFO] Clicked the go to lms link.
+2024-10-13 23:17:19,467 [INFO] Switched to the LMS window/tab.
+2024-10-13 23:17:21,874 [INFO] Navigated to the assignments page successfully!
+2024-10-13 23:17:21,935 [INFO] Total courses: 8
+2024-10-13 23:17:22,005 [INFO] Selected course at index 1: Technical Writing & Presentation Skills
+2024-10-13 23:17:22,773 [WARNING] Stale element encountered at index 1. Retrying... Error: Message: stale element reference: stale element not found
+  (Session info: chrome=129.0.6668.100); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Stacktrace:
+#0 0x58810acbd10a <unknown>
+#1 0x58810a9a35e0 <unknown>
+#2 0x58810a9b384b <unknown>
+#3 0x58810a9a9cf8 <unknown>
+#4 0x58810a9a7ff9 <unknown>
+#5 0x58810a9ab105 <unknown>
+#6 0x58810a9ab18c <unknown>
+#7 0x58810a9f2847 <unknown>
+#8 0x58810a9f2e81 <unknown>
+#9 0x58810a9e78f3 <unknown>
+#10 0x58810aa17b4d <unknown>
+#11 0x58810a9e7478 <unknown>
+#12 0x58810aa17cee <unknown>
+#13 0x58810aa36d7d <unknown>
+#14 0x58810aa178c3 <unknown>
+#15 0x58810a9e56b3 <unknown>
+#16 0x58810a9e668e <unknown>
+#17 0x58810ac87b0b <unknown>
+#18 0x58810ac8ba91 <unknown>
+#19 0x58810ac74305 <unknown>
+#20 0x58810ac8c612 <unknown>
+#21 0x58810ac5946f <unknown>
+#22 0x58810acac008 <unknown>
+#23 0x58810acac1d3 <unknown>
+#24 0x58810acbbf5c <unknown>
+#25 0x7b3a7560339d <unknown>
+#26 0x7b3a7568849c <unknown>
+
+2024-10-13 23:17:24,810 [INFO] Selected course at index 2: Numerical Analysis
+2024-10-13 23:17:25,732 [WARNING] Stale element encountered at index 2. Retrying... Error: Message: stale element reference: stale element not found
+  (Session info: chrome=129.0.6668.100); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Stacktrace:
+#0 0x58810acbd10a <unknown>
+#1 0x58810a9a35e0 <unknown>
+#2 0x58810a9b384b <unknown>
+#3 0x58810a9a9cf8 <unknown>
+#4 0x58810a9a7ff9 <unknown>
+#5 0x58810a9ab105 <unknown>
+#6 0x58810a9ab18c <unknown>
+#7 0x58810a9f2847 <unknown>
+#8 0x58810a9f2e81 <unknown>
+#9 0x58810a9e78f3 <unknown>
+#10 0x58810aa17b4d <unknown>
+#11 0x58810a9e7478 <unknown>
+#12 0x58810aa17cee <unknown>
+#13 0x58810aa36d7d <unknown>
+#14 0x58810aa178c3 <unknown>
+#15 0x58810a9e56b3 <unknown>
+#16 0x58810a9e668e <unknown>
+#17 0x58810ac87b0b <unknown>
+#18 0x58810ac8ba91 <unknown>
+#19 0x58810ac74305 <unknown>
+#20 0x58810ac8c612 <unknown>
+#21 0x58810ac5946f <unknown>
+#22 0x58810acac008 <unknown>
+#23 0x58810acac1d3 <unknown>
+#24 0x58810acbbf5c <unknown>
+#25 0x7b3a7560339d <unknown>
+#26 0x7b3a7568849c <unknown>
+
+2024-10-13 23:17:27,771 [INFO] Selected course at index 3: Artificial Intelligence
+2024-10-13 23:17:28,577 [WARNING] Stale element encountered at index 3. Retrying... Error: Message: stale element reference: stale element not found
+  (Session info: chrome=129.0.6668.100); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Stacktrace:
+#0 0x58810acbd10a <unknown>
+#1 0x58810a9a35e0 <unknown>
+#2 0x58810a9b384b <unknown>
+#3 0x58810a9a9cf8 <unknown>
+#4 0x58810a9a7ff9 <unknown>
+#5 0x58810a9ab105 <unknown>
+#6 0x58810a9ab18c <unknown>
+#7 0x58810a9f2847 <unknown>
+#8 0x58810a9f2e81 <unknown>
+#9 0x58810a9e78f3 <unknown>
+#10 0x58810aa17b4d <unknown>
+#11 0x58810a9e7478 <unknown>
+#12 0x58810aa17cee <unknown>
+#13 0x58810aa36d7d <unknown>
+#14 0x58810aa178c3 <unknown>
+#15 0x58810a9e56b3 <unknown>
+#16 0x58810a9e668e <unknown>
+#17 0x58810ac87b0b <unknown>
+#18 0x58810ac8ba91 <unknown>
+#19 0x58810ac74305 <unknown>
+#20 0x58810ac8c612 <unknown>
+#21 0x58810ac5946f <unknown>
+#22 0x58810acac008 <unknown>
+#23 0x58810acac1d3 <unknown>
+#24 0x58810acbbf5c <unknown>
+#25 0x7b3a7560339d <unknown>
+#26 0x7b3a7568849c <unknown>
+
+2024-10-13 23:17:30,629 [INFO] Selected course at index 4: Artificial Intelligence Lab
+2024-10-13 23:17:31,473 [WARNING] Stale element encountered at index 4. Retrying... Error: Message: stale element reference: stale element not found
+  (Session info: chrome=129.0.6668.100); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Stacktrace:
+#0 0x58810acbd10a <unknown>
+#1 0x58810a9a35e0 <unknown>
+#2 0x58810a9b384b <unknown>
+#3 0x58810a9a9cf8 <unknown>
+#4 0x58810a9a7ff9 <unknown>
+#5 0x58810a9ab105 <unknown>
+#6 0x58810a9ab18c <unknown>
+#7 0x58810a9f2847 <unknown>
+#8 0x58810a9f2e81 <unknown>
+#9 0x58810a9e78f3 <unknown>
+#10 0x58810aa17b4d <unknown>
+#11 0x58810a9e7478 <unknown>
+#12 0x58810aa17cee <unknown>
+#13 0x58810aa36d7d <unknown>
+#14 0x58810aa178c3 <unknown>
+#15 0x58810a9e56b3 <unknown>
+#16 0x58810a9e668e <unknown>
+#17 0x58810ac87b0b <unknown>
+#18 0x58810ac8ba91 <unknown>
+#19 0x58810ac74305 <unknown>
+#20 0x58810ac8c612 <unknown>
+#21 0x58810ac5946f <unknown>
+#22 0x58810acac008 <unknown>
+#23 0x58810acac1d3 <unknown>
+#24 0x58810acbbf5c <unknown>
+#25 0x7b3a7560339d <unknown>
+#26 0x7b3a7568849c <unknown>
+
+2024-10-13 23:17:33,509 [INFO] Selected course at index 5: Introduction to Cloud Computing
+2024-10-13 23:17:34,289 [WARNING] Stale element encountered at index 5. Retrying... Error: Message: stale element reference: stale element not found
+  (Session info: chrome=129.0.6668.100); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Stacktrace:
+#0 0x58810acbd10a <unknown>
+#1 0x58810a9a35e0 <unknown>
+#2 0x58810a9b384b <unknown>
+#3 0x58810a9a9cf8 <unknown>
+#4 0x58810a9a7ff9 <unknown>
+#5 0x58810a9ab105 <unknown>
+#6 0x58810a9ab18c <unknown>
+#7 0x58810a9f2847 <unknown>
+#8 0x58810a9f2e81 <unknown>
+#9 0x58810a9e78f3 <unknown>
+#10 0x58810aa17b4d <unknown>
+#11 0x58810a9e7478 <unknown>
+#12 0x58810aa17cee <unknown>
+#13 0x58810aa36d7d <unknown>
+#14 0x58810aa178c3 <unknown>
+#15 0x58810a9e56b3 <unknown>
+#16 0x58810a9e668e <unknown>
+#17 0x58810ac87b0b <unknown>
+#18 0x58810ac8ba91 <unknown>
+#19 0x58810ac74305 <unknown>
+#20 0x58810ac8c612 <unknown>
+#21 0x58810ac5946f <unknown>
+#22 0x58810acac008 <unknown>
+#23 0x58810acac1d3 <unknown>
+#24 0x58810acbbf5c <unknown>
+#25 0x7b3a7560339d <unknown>
+#26 0x7b3a7568849c <unknown>
+
+2024-10-13 23:17:36,327 [INFO] Selected course at index 6: Web Engineering
+2024-10-13 23:17:37,247 [WARNING] Stale element encountered at index 6. Retrying... Error: Message: stale element reference: stale element not found
+  (Session info: chrome=129.0.6668.100); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Stacktrace:
+#0 0x58810acbd10a <unknown>
+#1 0x58810a9a35e0 <unknown>
+#2 0x58810a9b384b <unknown>
+#3 0x58810a9a9cf8 <unknown>
+#4 0x58810a9a7ff9 <unknown>
+#5 0x58810a9ab105 <unknown>
+#6 0x58810a9ab18c <unknown>
+#7 0x58810a9f2847 <unknown>
+#8 0x58810a9f2e81 <unknown>
+#9 0x58810a9e78f3 <unknown>
+#10 0x58810aa17b4d <unknown>
+#11 0x58810a9e7478 <unknown>
+#12 0x58810aa17cee <unknown>
+#13 0x58810aa36d7d <unknown>
+#14 0x58810aa178c3 <unknown>
+#15 0x58810a9e56b3 <unknown>
+#16 0x58810a9e668e <unknown>
+#17 0x58810ac87b0b <unknown>
+#18 0x58810ac8ba91 <unknown>
+#19 0x58810ac74305 <unknown>
+#20 0x58810ac8c612 <unknown>
+#21 0x58810ac5946f <unknown>
+#22 0x58810acac008 <unknown>
+#23 0x58810acac1d3 <unknown>
+#24 0x58810acbbf5c <unknown>
+#25 0x7b3a7560339d <unknown>
+#26 0x7b3a7568849c <unknown>
+
+2024-10-13 23:17:39,285 [INFO] Selected course at index 7: Web Engineering Lab
+2024-10-13 23:17:40,262 [WARNING] Stale element encountered at index 7. Retrying... Error: Message: stale element reference: stale element not found
+  (Session info: chrome=129.0.6668.100); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Stacktrace:
+#0 0x58810acbd10a <unknown>
+#1 0x58810a9a35e0 <unknown>
+#2 0x58810a9b384b <unknown>
+#3 0x58810a9a9cf8 <unknown>
+#4 0x58810a9a7ff9 <unknown>
+#5 0x58810a9ab105 <unknown>
+#6 0x58810a9ab18c <unknown>
+#7 0x58810a9f2847 <unknown>
+#8 0x58810a9f2e81 <unknown>
+#9 0x58810a9e78f3 <unknown>
+#10 0x58810aa17b4d <unknown>
+#11 0x58810a9e7478 <unknown>
+#12 0x58810aa17cee <unknown>
+#13 0x58810aa36d7d <unknown>
+#14 0x58810aa178c3 <unknown>
+#15 0x58810a9e56b3 <unknown>
+#16 0x58810a9e668e <unknown>
+#17 0x58810ac87b0b <unknown>
+#18 0x58810ac8ba91 <unknown>
+#19 0x58810ac74305 <unknown>
+#20 0x58810ac8c612 <unknown>
+#21 0x58810ac5946f <unknown>
+#22 0x58810acac008 <unknown>
+#23 0x58810acac1d3 <unknown>
+#24 0x58810acbbf5c <unknown>
+#25 0x7b3a7560339d <unknown>
+#26 0x7b3a7568849c <unknown>
+
+2024-10-13 23:17:42,390 [INFO] Selected course at index 8: Data Communication and Networking
+2024-10-13 23:17:43,350 [WARNING] Stale element encountered at index 8. Retrying... Error: Message: stale element reference: stale element not found
+  (Session info: chrome=129.0.6668.100); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Stacktrace:
+#0 0x58810acbd10a <unknown>
+#1 0x58810a9a35e0 <unknown>
+#2 0x58810a9b384b <unknown>
+#3 0x58810a9a9cf8 <unknown>
+#4 0x58810a9a7ff9 <unknown>
+#5 0x58810a9ab105 <unknown>
+#6 0x58810a9ab18c <unknown>
+#7 0x58810a9f2847 <unknown>
+#8 0x58810a9f2e81 <unknown>
+#9 0x58810a9e78f3 <unknown>
+#10 0x58810aa17b4d <unknown>
+#11 0x58810a9e7478 <unknown>
+#12 0x58810aa17cee <unknown>
+#13 0x58810aa36d7d <unknown>
+#14 0x58810aa178c3 <unknown>
+#15 0x58810a9e56b3 <unknown>
+#16 0x58810a9e668e <unknown>
+#17 0x58810ac87b0b <unknown>
+#18 0x58810ac8ba91 <unknown>
+#19 0x58810ac74305 <unknown>
+#20 0x58810ac8c612 <unknown>
+#21 0x58810ac5946f <unknown>
+#22 0x58810acac008 <unknown>
+#23 0x58810acac1d3 <unknown>
+#24 0x58810acbbf5c <unknown>
+#25 0x7b3a7560339d <unknown>
+#26 0x7b3a7568849c <unknown>
+
+2024-10-13 23:30:41,713 [INFO] Navigated to the CMS login page.
+2024-10-13 23:30:42,128 [INFO] Entered the enrollment and password.
+2024-10-13 23:30:42,434 [INFO] Clicked on the branch dropdown.
+2024-10-13 23:30:42,624 [INFO] Selected the branch dropdown.
+2024-10-13 23:30:43,224 [INFO] Selected the branch: Lahore Campus
+2024-10-13 23:30:43,525 [INFO] Selected the role: Student
+2024-10-13 23:30:44,974 [INFO] Clicked on the login button.
+2024-10-13 23:30:45,358 [INFO] Clicked the go to lms link.
+2024-10-13 23:30:45,451 [INFO] Switched to the LMS window/tab.
+2024-10-13 23:30:48,909 [INFO] Navigated to the assignments page successfully!
+2024-10-13 23:30:49,025 [INFO] Total courses: 8
+2024-10-13 23:30:49,114 [INFO] Selected course at index 1: Technical Writing & Presentation Skills
+2024-10-13 23:30:50,433 [WARNING] Stale element encountered at index 1. Retrying... Error: Message: stale element reference: stale element not found
+  (Session info: chrome=129.0.6668.100); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Stacktrace:
+#0 0x64902ce0710a <unknown>
+#1 0x64902caed5e0 <unknown>
+#2 0x64902cafd84b <unknown>
+#3 0x64902caf3cf8 <unknown>
+#4 0x64902caf1ff9 <unknown>
+#5 0x64902caf5105 <unknown>
+#6 0x64902caf518c <unknown>
+#7 0x64902cb3c847 <unknown>
+#8 0x64902cb3ce81 <unknown>
+#9 0x64902cb318f3 <unknown>
+#10 0x64902cb61b4d <unknown>
+#11 0x64902cb31478 <unknown>
+#12 0x64902cb61cee <unknown>
+#13 0x64902cb80d7d <unknown>
+#14 0x64902cb618c3 <unknown>
+#15 0x64902cb2f6b3 <unknown>
+#16 0x64902cb3068e <unknown>
+#17 0x64902cdd1b0b <unknown>
+#18 0x64902cdd5a91 <unknown>
+#19 0x64902cdbe305 <unknown>
+#20 0x64902cdd6612 <unknown>
+#21 0x64902cda346f <unknown>
+#22 0x64902cdf6008 <unknown>
+#23 0x64902cdf61d3 <unknown>
+#24 0x64902ce05f5c <unknown>
+#25 0x7a02cd69839d <unknown>
+#26 0x7a02cd71d49c <unknown>
+
+2024-10-13 23:30:52,492 [INFO] Selected course at index 2: Numerical Analysis
+2024-10-13 23:30:53,570 [WARNING] Stale element encountered at index 2. Retrying... Error: Message: stale element reference: stale element not found
+  (Session info: chrome=129.0.6668.100); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Stacktrace:
+#0 0x64902ce0710a <unknown>
+#1 0x64902caed5e0 <unknown>
+#2 0x64902cafd84b <unknown>
+#3 0x64902caf3cf8 <unknown>
+#4 0x64902caf1ff9 <unknown>
+#5 0x64902caf5105 <unknown>
+#6 0x64902caf518c <unknown>
+#7 0x64902cb3c847 <unknown>
+#8 0x64902cb3ce81 <unknown>
+#9 0x64902cb318f3 <unknown>
+#10 0x64902cb61b4d <unknown>
+#11 0x64902cb31478 <unknown>
+#12 0x64902cb61cee <unknown>
+#13 0x64902cb80d7d <unknown>
+#14 0x64902cb618c3 <unknown>
+#15 0x64902cb2f6b3 <unknown>
+#16 0x64902cb3068e <unknown>
+#17 0x64902cdd1b0b <unknown>
+#18 0x64902cdd5a91 <unknown>
+#19 0x64902cdbe305 <unknown>
+#20 0x64902cdd6612 <unknown>
+#21 0x64902cda346f <unknown>
+#22 0x64902cdf6008 <unknown>
+#23 0x64902cdf61d3 <unknown>
+#24 0x64902ce05f5c <unknown>
+#25 0x7a02cd69839d <unknown>
+#26 0x7a02cd71d49c <unknown>
+
+2024-10-13 23:30:55,621 [INFO] Selected course at index 3: Artificial Intelligence
+2024-10-13 23:30:56,664 [WARNING] Stale element encountered at index 3. Retrying... Error: Message: stale element reference: stale element not found
+  (Session info: chrome=129.0.6668.100); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Stacktrace:
+#0 0x64902ce0710a <unknown>
+#1 0x64902caed5e0 <unknown>
+#2 0x64902cafd84b <unknown>
+#3 0x64902caf3cf8 <unknown>
+#4 0x64902caf1ff9 <unknown>
+#5 0x64902caf5105 <unknown>
+#6 0x64902caf518c <unknown>
+#7 0x64902cb3c847 <unknown>
+#8 0x64902cb3ce81 <unknown>
+#9 0x64902cb318f3 <unknown>
+#10 0x64902cb61b4d <unknown>
+#11 0x64902cb31478 <unknown>
+#12 0x64902cb61cee <unknown>
+#13 0x64902cb80d7d <unknown>
+#14 0x64902cb618c3 <unknown>
+#15 0x64902cb2f6b3 <unknown>
+#16 0x64902cb3068e <unknown>
+#17 0x64902cdd1b0b <unknown>
+#18 0x64902cdd5a91 <unknown>
+#19 0x64902cdbe305 <unknown>
+#20 0x64902cdd6612 <unknown>
+#21 0x64902cda346f <unknown>
+#22 0x64902cdf6008 <unknown>
+#23 0x64902cdf61d3 <unknown>
+#24 0x64902ce05f5c <unknown>
+#25 0x7a02cd69839d <unknown>
+#26 0x7a02cd71d49c <unknown>
+
+2024-10-13 23:30:58,806 [INFO] Selected course at index 4: Artificial Intelligence Lab
+2024-10-13 23:30:59,819 [WARNING] Stale element encountered at index 4. Retrying... Error: Message: stale element reference: stale element not found
+  (Session info: chrome=129.0.6668.100); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Stacktrace:
+#0 0x64902ce0710a <unknown>
+#1 0x64902caed5e0 <unknown>
+#2 0x64902cafd84b <unknown>
+#3 0x64902caf3cf8 <unknown>
+#4 0x64902caf1ff9 <unknown>
+#5 0x64902caf5105 <unknown>
+#6 0x64902caf518c <unknown>
+#7 0x64902cb3c847 <unknown>
+#8 0x64902cb3ce81 <unknown>
+#9 0x64902cb318f3 <unknown>
+#10 0x64902cb61b4d <unknown>
+#11 0x64902cb31478 <unknown>
+#12 0x64902cb61cee <unknown>
+#13 0x64902cb80d7d <unknown>
+#14 0x64902cb618c3 <unknown>
+#15 0x64902cb2f6b3 <unknown>
+#16 0x64902cb3068e <unknown>
+#17 0x64902cdd1b0b <unknown>
+#18 0x64902cdd5a91 <unknown>
+#19 0x64902cdbe305 <unknown>
+#20 0x64902cdd6612 <unknown>
+#21 0x64902cda346f <unknown>
+#22 0x64902cdf6008 <unknown>
+#23 0x64902cdf61d3 <unknown>
+#24 0x64902ce05f5c <unknown>
+#25 0x7a02cd69839d <unknown>
+#26 0x7a02cd71d49c <unknown>
+
+2024-10-13 23:31:01,890 [INFO] Selected course at index 5: Introduction to Cloud Computing
+2024-10-13 23:31:02,779 [WARNING] Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x78e43777ae40>: Failed to establish a new connection: [Errno 111] Connection refused')': /session/1cdba67aedf9336cb1b2e334aa79b556
+2024-10-13 23:31:02,788 [WARNING] Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x78e43777a9f0>: Failed to establish a new connection: [Errno 111] Connection refused')': /session/1cdba67aedf9336cb1b2e334aa79b556
+2024-10-13 23:31:02,792 [WARNING] Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x78e43777b3e0>: Failed to establish a new connection: [Errno 111] Connection refused')': /session/1cdba67aedf9336cb1b2e334aa79b556
+2024-10-13 23:35:26,745 [INFO] Navigated to the CMS login page.
+2024-10-13 23:35:27,317 [INFO] Entered the enrollment and password.
+2024-10-13 23:35:27,710 [INFO] Clicked on the branch dropdown.
+2024-10-13 23:35:27,861 [INFO] Selected the branch dropdown.
+2024-10-13 23:35:28,060 [INFO] Selected the branch: Lahore Campus
+2024-10-13 23:35:28,211 [INFO] Selected the role: Student
+2024-10-13 23:35:29,396 [INFO] Clicked on the login button.
+2024-10-13 23:35:29,919 [INFO] Clicked the go to lms link.
+2024-10-13 23:35:30,033 [INFO] Switched to the LMS window/tab.
+2024-10-13 23:35:32,995 [INFO] Navigated to the assignments page successfully!
+2024-10-13 23:35:33,193 [INFO] Total courses: 8
+2024-10-13 23:35:33,337 [INFO] Selected course at index 1: Technical Writing & Presentation Skills
+2024-10-13 23:35:34,899 [WARNING] Stale element encountered at index 1. Retrying... Error: module 'time' has no attribute 'wait'
+2024-10-13 23:35:37,012 [INFO] Selected course at index 2: Numerical Analysis
+2024-10-13 23:35:38,224 [WARNING] Stale element encountered at index 2. Retrying... Error: module 'time' has no attribute 'wait'
+2024-10-13 23:35:40,389 [INFO] Selected course at index 3: Artificial Intelligence
+2024-10-13 23:35:41,568 [WARNING] Stale element encountered at index 3. Retrying... Error: module 'time' has no attribute 'wait'
+2024-10-13 23:35:43,851 [INFO] Selected course at index 4: Artificial Intelligence Lab
+2024-10-13 23:35:44,938 [WARNING] Stale element encountered at index 4. Retrying... Error: module 'time' has no attribute 'wait'
+2024-10-13 23:35:46,981 [WARNING] Stale element encountered at index 5. Retrying... Error: list index out of range
+2024-10-13 23:35:49,028 [WARNING] Stale element encountered at index 6. Retrying... Error: list index out of range
+2024-10-13 23:35:51,164 [WARNING] Stale element encountered at index 7. Retrying... Error: list index out of range
+2024-10-13 23:35:53,220 [WARNING] Stale element encountered at index 8. Retrying... Error: list index out of range
+2024-10-13 23:37:03,969 [INFO] Navigated to the CMS login page.
+2024-10-13 23:37:04,490 [INFO] Entered the enrollment and password.
+2024-10-13 23:37:04,734 [INFO] Clicked on the branch dropdown.
+2024-10-13 23:37:04,840 [INFO] Selected the branch dropdown.
+2024-10-13 23:37:05,052 [INFO] Selected the branch: Lahore Campus
+2024-10-13 23:37:05,189 [INFO] Selected the role: Student
+2024-10-13 23:37:05,368 [INFO] Clicked on the login button.
+2024-10-13 23:37:09,904 [INFO] Clicked the go to lms link.
+2024-10-13 23:37:10,091 [INFO] Switched to the LMS window/tab.
+2024-10-13 23:37:22,857 [INFO] Navigated to the assignments page successfully!
+2024-10-13 23:37:23,034 [INFO] Total courses: 8
+2024-10-13 23:37:23,148 [INFO] Selected course at index 1: Technical Writing & Presentation Skills
+2024-10-13 23:37:27,364 [WARNING] Stale element encountered at index 1. Retrying... Error: Message: stale element reference: stale element not found
+  (Session info: chrome=129.0.6668.100); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Stacktrace:
+#0 0x65406b4fc10a <unknown>
+#1 0x65406b1e25e0 <unknown>
+#2 0x65406b1f284b <unknown>
+#3 0x65406b1e8cf8 <unknown>
+#4 0x65406b1e6ff9 <unknown>
+#5 0x65406b1ea105 <unknown>
+#6 0x65406b1ea18c <unknown>
+#7 0x65406b231847 <unknown>
+#8 0x65406b231e81 <unknown>
+#9 0x65406b2268f3 <unknown>
+#10 0x65406b256b4d <unknown>
+#11 0x65406b226478 <unknown>
+#12 0x65406b256cee <unknown>
+#13 0x65406b275d7d <unknown>
+#14 0x65406b2568c3 <unknown>
+#15 0x65406b2246b3 <unknown>
+#16 0x65406b22568e <unknown>
+#17 0x65406b4c6b0b <unknown>
+#18 0x65406b4caa91 <unknown>
+#19 0x65406b4b3305 <unknown>
+#20 0x65406b4cb612 <unknown>
+#21 0x65406b49846f <unknown>
+#22 0x65406b4eb008 <unknown>
+#23 0x65406b4eb1d3 <unknown>
+#24 0x65406b4faf5c <unknown>
+#25 0x712230ad439d <unknown>
+#26 0x712230b5949c <unknown>
+
+2024-10-13 23:37:29,440 [INFO] Selected course at index 2: Numerical Analysis
+2024-10-13 23:37:30,546 [WARNING] Stale element encountered at index 2. Retrying... Error: Message: stale element reference: stale element not found
+  (Session info: chrome=129.0.6668.100); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Stacktrace:
+#0 0x65406b4fc10a <unknown>
+#1 0x65406b1e25e0 <unknown>
+#2 0x65406b1f284b <unknown>
+#3 0x65406b1e8cf8 <unknown>
+#4 0x65406b1e6ff9 <unknown>
+#5 0x65406b1ea105 <unknown>
+#6 0x65406b1ea18c <unknown>
+#7 0x65406b231847 <unknown>
+#8 0x65406b231e81 <unknown>
+#9 0x65406b2268f3 <unknown>
+#10 0x65406b256b4d <unknown>
+#11 0x65406b226478 <unknown>
+#12 0x65406b256cee <unknown>
+#13 0x65406b275d7d <unknown>
+#14 0x65406b2568c3 <unknown>
+#15 0x65406b2246b3 <unknown>
+#16 0x65406b22568e <unknown>
+#17 0x65406b4c6b0b <unknown>
+#18 0x65406b4caa91 <unknown>
+#19 0x65406b4b3305 <unknown>
+#20 0x65406b4cb612 <unknown>
+#21 0x65406b49846f <unknown>
+#22 0x65406b4eb008 <unknown>
+#23 0x65406b4eb1d3 <unknown>
+#24 0x65406b4faf5c <unknown>
+#25 0x712230ad439d <unknown>
+#26 0x712230b5949c <unknown>
+
+2024-10-13 23:37:32,608 [INFO] Selected course at index 3: Artificial Intelligence
+2024-10-13 23:37:35,329 [WARNING] Stale element encountered at index 3. Retrying... Error: Message: stale element reference: stale element not found
+  (Session info: chrome=129.0.6668.100); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Stacktrace:
+#0 0x65406b4fc10a <unknown>
+#1 0x65406b1e25e0 <unknown>
+#2 0x65406b1f284b <unknown>
+#3 0x65406b1e8cf8 <unknown>
+#4 0x65406b1e6ff9 <unknown>
+#5 0x65406b1ea105 <unknown>
+#6 0x65406b1ea18c <unknown>
+#7 0x65406b231847 <unknown>
+#8 0x65406b231e81 <unknown>
+#9 0x65406b2268f3 <unknown>
+#10 0x65406b256b4d <unknown>
+#11 0x65406b226478 <unknown>
+#12 0x65406b256cee <unknown>
+#13 0x65406b275d7d <unknown>
+#14 0x65406b2568c3 <unknown>
+#15 0x65406b2246b3 <unknown>
+#16 0x65406b22568e <unknown>
+#17 0x65406b4c6b0b <unknown>
+#18 0x65406b4caa91 <unknown>
+#19 0x65406b4b3305 <unknown>
+#20 0x65406b4cb612 <unknown>
+#21 0x65406b49846f <unknown>
+#22 0x65406b4eb008 <unknown>
+#23 0x65406b4eb1d3 <unknown>
+#24 0x65406b4faf5c <unknown>
+#25 0x712230ad439d <unknown>
+#26 0x712230b5949c <unknown>
+
+2024-10-13 23:37:37,400 [INFO] Selected course at index 4: Artificial Intelligence Lab
+2024-10-13 23:37:38,501 [WARNING] Stale element encountered at index 4. Retrying... Error: Message: stale element reference: stale element not found
+  (Session info: chrome=129.0.6668.100); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Stacktrace:
+#0 0x65406b4fc10a <unknown>
+#1 0x65406b1e25e0 <unknown>
+#2 0x65406b1f284b <unknown>
+#3 0x65406b1e8cf8 <unknown>
+#4 0x65406b1e6ff9 <unknown>
+#5 0x65406b1ea105 <unknown>
+#6 0x65406b1ea18c <unknown>
+#7 0x65406b231847 <unknown>
+#8 0x65406b231e81 <unknown>
+#9 0x65406b2268f3 <unknown>
+#10 0x65406b256b4d <unknown>
+#11 0x65406b226478 <unknown>
+#12 0x65406b256cee <unknown>
+#13 0x65406b275d7d <unknown>
+#14 0x65406b2568c3 <unknown>
+#15 0x65406b2246b3 <unknown>
+#16 0x65406b22568e <unknown>
+#17 0x65406b4c6b0b <unknown>
+#18 0x65406b4caa91 <unknown>
+#19 0x65406b4b3305 <unknown>
+#20 0x65406b4cb612 <unknown>
+#21 0x65406b49846f <unknown>
+#22 0x65406b4eb008 <unknown>
+#23 0x65406b4eb1d3 <unknown>
+#24 0x65406b4faf5c <unknown>
+#25 0x712230ad439d <unknown>
+#26 0x712230b5949c <unknown>
+
+2024-10-13 23:37:40,568 [INFO] Selected course at index 5: Introduction to Cloud Computing
+2024-10-13 23:37:41,184 [WARNING] Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ConnectionResetError(104, 'Connection reset by peer')': /session/7a0467c0b21a82cb4f68e7681efbc335
+2024-10-13 23:37:41,193 [WARNING] Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f2034b66ba0>: Failed to establish a new connection: [Errno 111] Connection refused')': /session/7a0467c0b21a82cb4f68e7681efbc335
+2024-10-13 23:37:41,201 [WARNING] Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f2034b672f0>: Failed to establish a new connection: [Errno 111] Connection refused')': /session/7a0467c0b21a82cb4f68e7681efbc335
+2024-10-13 23:38:47,637 [INFO] Navigated to the CMS login page.
+2024-10-13 23:38:48,356 [INFO] Entered the enrollment and password.
+2024-10-13 23:38:48,625 [INFO] Clicked on the branch dropdown.
+2024-10-13 23:38:48,738 [INFO] Selected the branch dropdown.
+2024-10-13 23:38:49,057 [INFO] Selected the branch: Lahore Campus
+2024-10-13 23:38:49,205 [INFO] Selected the role: Student
+2024-10-13 23:38:50,521 [INFO] Clicked on the login button.
+2024-10-13 23:38:50,931 [INFO] Clicked the go to lms link.
+2024-10-13 23:38:50,999 [INFO] Switched to the LMS window/tab.
+2024-10-13 23:38:56,581 [INFO] Navigated to the assignments page successfully!
+2024-10-13 23:38:56,705 [INFO] Total courses: 8
+2024-10-13 23:38:56,878 [INFO] Selected course at index 1: Technical Writing & Presentation Skills
+2024-10-13 23:38:58,862 [WARNING] Stale element encountered at index 1. Retrying... Error: Message: stale element reference: stale element not found
+  (Session info: chrome=129.0.6668.100); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Stacktrace:
+#0 0x59eb6d52c10a <unknown>
+#1 0x59eb6d2125e0 <unknown>
+#2 0x59eb6d22284b <unknown>
+#3 0x59eb6d218cf8 <unknown>
+#4 0x59eb6d216ff9 <unknown>
+#5 0x59eb6d21a105 <unknown>
+#6 0x59eb6d21a18c <unknown>
+#7 0x59eb6d261847 <unknown>
+#8 0x59eb6d261e81 <unknown>
+#9 0x59eb6d2568f3 <unknown>
+#10 0x59eb6d286b4d <unknown>
+#11 0x59eb6d256478 <unknown>
+#12 0x59eb6d286cee <unknown>
+#13 0x59eb6d2a5d7d <unknown>
+#14 0x59eb6d2868c3 <unknown>
+#15 0x59eb6d2546b3 <unknown>
+#16 0x59eb6d25568e <unknown>
+#17 0x59eb6d4f6b0b <unknown>
+#18 0x59eb6d4faa91 <unknown>
+#19 0x59eb6d4e3305 <unknown>
+#20 0x59eb6d4fb612 <unknown>
+#21 0x59eb6d4c846f <unknown>
+#22 0x59eb6d51b008 <unknown>
+#23 0x59eb6d51b1d3 <unknown>
+#24 0x59eb6d52af5c <unknown>
+#25 0x72ff93dc939d <unknown>
+#26 0x72ff93e4e49c <unknown>
+
+2024-10-13 23:39:00,932 [INFO] Selected course at index 2: Numerical Analysis
+2024-10-13 23:39:01,928 [WARNING] Stale element encountered at index 2. Retrying... Error: Message: stale element reference: stale element not found
+  (Session info: chrome=129.0.6668.100); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Stacktrace:
+#0 0x59eb6d52c10a <unknown>
+#1 0x59eb6d2125e0 <unknown>
+#2 0x59eb6d22284b <unknown>
+#3 0x59eb6d218cf8 <unknown>
+#4 0x59eb6d216ff9 <unknown>
+#5 0x59eb6d21a105 <unknown>
+#6 0x59eb6d21a18c <unknown>
+#7 0x59eb6d261847 <unknown>
+#8 0x59eb6d261e81 <unknown>
+#9 0x59eb6d2568f3 <unknown>
+#10 0x59eb6d286b4d <unknown>
+#11 0x59eb6d256478 <unknown>
+#12 0x59eb6d286cee <unknown>
+#13 0x59eb6d2a5d7d <unknown>
+#14 0x59eb6d2868c3 <unknown>
+#15 0x59eb6d2546b3 <unknown>
+#16 0x59eb6d25568e <unknown>
+#17 0x59eb6d4f6b0b <unknown>
+#18 0x59eb6d4faa91 <unknown>
+#19 0x59eb6d4e3305 <unknown>
+#20 0x59eb6d4fb612 <unknown>
+#21 0x59eb6d4c846f <unknown>
+#22 0x59eb6d51b008 <unknown>
+#23 0x59eb6d51b1d3 <unknown>
+#24 0x59eb6d52af5c <unknown>
+#25 0x72ff93dc939d <unknown>
+#26 0x72ff93e4e49c <unknown>
+
+2024-10-13 23:39:04,104 [INFO] Selected course at index 3: Artificial Intelligence
+2024-10-13 23:39:08,715 [WARNING] Stale element encountered at index 3. Retrying... Error: Message: stale element reference: stale element not found
+  (Session info: chrome=129.0.6668.100); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Stacktrace:
+#0 0x59eb6d52c10a <unknown>
+#1 0x59eb6d2125e0 <unknown>
+#2 0x59eb6d22284b <unknown>
+#3 0x59eb6d218cf8 <unknown>
+#4 0x59eb6d216ff9 <unknown>
+#5 0x59eb6d21a105 <unknown>
+#6 0x59eb6d21a18c <unknown>
+#7 0x59eb6d261847 <unknown>
+#8 0x59eb6d261e81 <unknown>
+#9 0x59eb6d2568f3 <unknown>
+#10 0x59eb6d286b4d <unknown>
+#11 0x59eb6d256478 <unknown>
+#12 0x59eb6d286cee <unknown>
+#13 0x59eb6d2a5d7d <unknown>
+#14 0x59eb6d2868c3 <unknown>
+#15 0x59eb6d2546b3 <unknown>
+#16 0x59eb6d25568e <unknown>
+#17 0x59eb6d4f6b0b <unknown>
+#18 0x59eb6d4faa91 <unknown>
+#19 0x59eb6d4e3305 <unknown>
+#20 0x59eb6d4fb612 <unknown>
+#21 0x59eb6d4c846f <unknown>
+#22 0x59eb6d51b008 <unknown>
+#23 0x59eb6d51b1d3 <unknown>
+#24 0x59eb6d52af5c <unknown>
+#25 0x72ff93dc939d <unknown>
+#26 0x72ff93e4e49c <unknown>
+
+2024-10-13 23:39:10,834 [INFO] Selected course at index 4: Artificial Intelligence Lab
+2024-10-13 23:39:12,308 [WARNING] Stale element encountered at index 4. Retrying... Error: Message: stale element reference: stale element not found
+  (Session info: chrome=129.0.6668.100); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Stacktrace:
+#0 0x59eb6d52c10a <unknown>
+#1 0x59eb6d2125e0 <unknown>
+#2 0x59eb6d22284b <unknown>
+#3 0x59eb6d218cf8 <unknown>
+#4 0x59eb6d216ff9 <unknown>
+#5 0x59eb6d21a105 <unknown>
+#6 0x59eb6d21a18c <unknown>
+#7 0x59eb6d261847 <unknown>
+#8 0x59eb6d261e81 <unknown>
+#9 0x59eb6d2568f3 <unknown>
+#10 0x59eb6d286b4d <unknown>
+#11 0x59eb6d256478 <unknown>
+#12 0x59eb6d286cee <unknown>
+#13 0x59eb6d2a5d7d <unknown>
+#14 0x59eb6d2868c3 <unknown>
+#15 0x59eb6d2546b3 <unknown>
+#16 0x59eb6d25568e <unknown>
+#17 0x59eb6d4f6b0b <unknown>
+#18 0x59eb6d4faa91 <unknown>
+#19 0x59eb6d4e3305 <unknown>
+#20 0x59eb6d4fb612 <unknown>
+#21 0x59eb6d4c846f <unknown>
+#22 0x59eb6d51b008 <unknown>
+#23 0x59eb6d51b1d3 <unknown>
+#24 0x59eb6d52af5c <unknown>
+#25 0x72ff93dc939d <unknown>
+#26 0x72ff93e4e49c <unknown>
+
+2024-10-13 23:39:14,408 [INFO] Selected course at index 5: Introduction to Cloud Computing
+2024-10-13 23:39:16,203 [WARNING] Stale element encountered at index 5. Retrying... Error: Message: stale element reference: stale element not found
+  (Session info: chrome=129.0.6668.100); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Stacktrace:
+#0 0x59eb6d52c10a <unknown>
+#1 0x59eb6d2125e0 <unknown>
+#2 0x59eb6d22284b <unknown>
+#3 0x59eb6d218cf8 <unknown>
+#4 0x59eb6d216ff9 <unknown>
+#5 0x59eb6d21a105 <unknown>
+#6 0x59eb6d21a18c <unknown>
+#7 0x59eb6d261847 <unknown>
+#8 0x59eb6d261e81 <unknown>
+#9 0x59eb6d2568f3 <unknown>
+#10 0x59eb6d286b4d <unknown>
+#11 0x59eb6d256478 <unknown>
+#12 0x59eb6d286cee <unknown>
+#13 0x59eb6d2a5d7d <unknown>
+#14 0x59eb6d2868c3 <unknown>
+#15 0x59eb6d2546b3 <unknown>
+#16 0x59eb6d25568e <unknown>
+#17 0x59eb6d4f6b0b <unknown>
+#18 0x59eb6d4faa91 <unknown>
+#19 0x59eb6d4e3305 <unknown>
+#20 0x59eb6d4fb612 <unknown>
+#21 0x59eb6d4c846f <unknown>
+#22 0x59eb6d51b008 <unknown>
+#23 0x59eb6d51b1d3 <unknown>
+#24 0x59eb6d52af5c <unknown>
+#25 0x72ff93dc939d <unknown>
+#26 0x72ff93e4e49c <unknown>
+
+2024-10-13 23:39:18,274 [INFO] Selected course at index 6: Web Engineering
+2024-10-13 23:39:19,323 [WARNING] Stale element encountered at index 6. Retrying... Error: Message: stale element reference: stale element not found
+  (Session info: chrome=129.0.6668.100); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Stacktrace:
+#0 0x59eb6d52c10a <unknown>
+#1 0x59eb6d2125e0 <unknown>
+#2 0x59eb6d22284b <unknown>
+#3 0x59eb6d218cf8 <unknown>
+#4 0x59eb6d216ff9 <unknown>
+#5 0x59eb6d21a105 <unknown>
+#6 0x59eb6d21a18c <unknown>
+#7 0x59eb6d261847 <unknown>
+#8 0x59eb6d261e81 <unknown>
+#9 0x59eb6d2568f3 <unknown>
+#10 0x59eb6d286b4d <unknown>
+#11 0x59eb6d256478 <unknown>
+#12 0x59eb6d286cee <unknown>
+#13 0x59eb6d2a5d7d <unknown>
+#14 0x59eb6d2868c3 <unknown>
+#15 0x59eb6d2546b3 <unknown>
+#16 0x59eb6d25568e <unknown>
+#17 0x59eb6d4f6b0b <unknown>
+#18 0x59eb6d4faa91 <unknown>
+#19 0x59eb6d4e3305 <unknown>
+#20 0x59eb6d4fb612 <unknown>
+#21 0x59eb6d4c846f <unknown>
+#22 0x59eb6d51b008 <unknown>
+#23 0x59eb6d51b1d3 <unknown>
+#24 0x59eb6d52af5c <unknown>
+#25 0x72ff93dc939d <unknown>
+#26 0x72ff93e4e49c <unknown>
+
+2024-10-13 23:39:21,385 [INFO] Selected course at index 7: Web Engineering Lab
+2024-10-13 23:39:22,395 [WARNING] Stale element encountered at index 7. Retrying... Error: Message: stale element reference: stale element not found
+  (Session info: chrome=129.0.6668.100); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Stacktrace:
+#0 0x59eb6d52c10a <unknown>
+#1 0x59eb6d2125e0 <unknown>
+#2 0x59eb6d22284b <unknown>
+#3 0x59eb6d218cf8 <unknown>
+#4 0x59eb6d216ff9 <unknown>
+#5 0x59eb6d21a105 <unknown>
+#6 0x59eb6d21a18c <unknown>
+#7 0x59eb6d261847 <unknown>
+#8 0x59eb6d261e81 <unknown>
+#9 0x59eb6d2568f3 <unknown>
+#10 0x59eb6d286b4d <unknown>
+#11 0x59eb6d256478 <unknown>
+#12 0x59eb6d286cee <unknown>
+#13 0x59eb6d2a5d7d <unknown>
+#14 0x59eb6d2868c3 <unknown>
+#15 0x59eb6d2546b3 <unknown>
+#16 0x59eb6d25568e <unknown>
+#17 0x59eb6d4f6b0b <unknown>
+#18 0x59eb6d4faa91 <unknown>
+#19 0x59eb6d4e3305 <unknown>
+#20 0x59eb6d4fb612 <unknown>
+#21 0x59eb6d4c846f <unknown>
+#22 0x59eb6d51b008 <unknown>
+#23 0x59eb6d51b1d3 <unknown>
+#24 0x59eb6d52af5c <unknown>
+#25 0x72ff93dc939d <unknown>
+#26 0x72ff93e4e49c <unknown>
+
+2024-10-13 23:39:24,510 [INFO] Selected course at index 8: Data Communication and Networking
+2024-10-13 23:39:24,777 [WARNING] Stale element encountered at index 8. Retrying... Error: Message: Could not locate element with index 9; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+
+2024-10-13 23:40:03,565 [INFO] Navigated to the CMS login page.
+2024-10-13 23:40:03,880 [INFO] Entered the enrollment and password.
+2024-10-13 23:40:04,060 [INFO] Clicked on the branch dropdown.
+2024-10-13 23:40:04,177 [INFO] Selected the branch dropdown.
+2024-10-13 23:40:04,355 [INFO] Selected the branch: Lahore Campus
+2024-10-13 23:40:04,448 [INFO] Selected the role: Student
+2024-10-13 23:40:08,260 [INFO] Clicked on the login button.
+2024-10-13 23:40:08,567 [INFO] Clicked the go to lms link.
+2024-10-13 23:40:08,644 [INFO] Switched to the LMS window/tab.
+2024-10-13 23:40:21,095 [INFO] Navigated to the assignments page successfully!
+2024-10-13 23:40:21,158 [INFO] Total courses: 8
+2024-10-13 23:40:21,244 [INFO] Selected course at index 1: Technical Writing & Presentation Skills
+2024-10-13 23:40:24,477 [INFO] Selected course at index 2: Numerical Analysis
+2024-10-13 23:40:27,418 [INFO] Selected course at index 3: Artificial Intelligence
+2024-10-13 23:40:29,645 [INFO] Selected course at index 4: Artificial Intelligence Lab
+2024-10-13 23:40:30,571 [INFO] Selected course at index 5: Introduction to Cloud Computing
+2024-10-13 23:40:32,685 [INFO] Selected course at index 6: Web Engineering
+2024-10-13 23:40:35,590 [INFO] Selected course at index 7: Web Engineering Lab
+2024-10-13 23:40:39,134 [INFO] Selected course at index 8: Data Communication and Networking
+2024-10-13 23:43:06,779 [WARNING] Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x735641822180>: Failed to establish a new connection: [Errno 111] Connection refused')': /session/fc8c8e0aadb0202f6be73d47ab513522
+2024-10-13 23:43:06,786 [WARNING] Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x735641822270>: Failed to establish a new connection: [Errno 111] Connection refused')': /session/fc8c8e0aadb0202f6be73d47ab513522
+2024-10-13 23:43:06,788 [WARNING] Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7356418225d0>: Failed to establish a new connection: [Errno 111] Connection refused')': /session/fc8c8e0aadb0202f6be73d47ab513522
+2024-10-13 23:43:24,357 [INFO] Navigated to the CMS login page.
+2024-10-13 23:43:24,665 [INFO] Entered the enrollment and password.
+2024-10-13 23:43:24,876 [INFO] Clicked on the branch dropdown.
+2024-10-13 23:43:24,983 [INFO] Selected the branch dropdown.
+2024-10-13 23:43:25,119 [INFO] Selected the branch: Lahore Campus
+2024-10-13 23:43:25,221 [INFO] Selected the role: Student
+2024-10-13 23:43:25,854 [INFO] Clicked on the login button.
+2024-10-13 23:43:26,819 [INFO] Clicked the go to lms link.
+2024-10-13 23:43:26,892 [INFO] Switched to the LMS window/tab.
+2024-10-13 23:43:41,109 [INFO] Navigated to the assignments page successfully!
+2024-10-13 23:43:41,163 [INFO] Total courses: 8
+2024-10-13 23:43:41,225 [INFO] Selected course at index 1: Technical Writing & Presentation Skills
+2024-10-13 23:43:43,102 [WARNING] Stale element encountered at index 1. Retrying... Error: module 'time' has no attribute 'wait'
+2024-10-13 23:43:45,201 [INFO] Selected course at index 2: Numerical Analysis
+2024-10-13 23:43:46,755 [WARNING] Stale element encountered at index 2. Retrying... Error: module 'time' has no attribute 'wait'
+2024-10-13 23:43:48,833 [INFO] Selected course at index 3: Artificial Intelligence
+2024-10-13 23:43:50,076 [WARNING] Stale element encountered at index 3. Retrying... Error: module 'time' has no attribute 'wait'
+2024-10-13 23:43:52,245 [INFO] Selected course at index 4: Artificial Intelligence Lab
+2024-10-13 23:43:53,498 [WARNING] Stale element encountered at index 4. Retrying... Error: module 'time' has no attribute 'wait'
+2024-10-13 23:43:55,559 [INFO] Selected course at index 5: Introduction to Cloud Computing
+2024-10-13 23:43:56,612 [WARNING] Stale element encountered at index 5. Retrying... Error: module 'time' has no attribute 'wait'
+2024-10-13 23:43:58,897 [INFO] Selected course at index 6: Web Engineering
+2024-10-13 23:44:00,513 [WARNING] Stale element encountered at index 6. Retrying... Error: module 'time' has no attribute 'wait'
+2024-10-13 23:44:02,602 [INFO] Selected course at index 7: Web Engineering Lab
+2024-10-13 23:44:05,263 [WARNING] Stale element encountered at index 7. Retrying... Error: module 'time' has no attribute 'wait'
+2024-10-13 23:44:07,309 [INFO] Selected course at index 8: Data Communication and Networking
+2024-10-13 23:44:11,358 [WARNING] Stale element encountered at index 8. Retrying... Error: module 'time' has no attribute 'wait'
+2024-10-13 23:44:31,946 [INFO] Navigated to the CMS login page.
+2024-10-13 23:44:32,801 [INFO] Entered the enrollment and password.
+2024-10-13 23:44:32,969 [INFO] Clicked on the branch dropdown.
+2024-10-13 23:44:33,162 [INFO] Selected the branch dropdown.
+2024-10-13 23:44:33,408 [INFO] Selected the branch: Lahore Campus
+2024-10-13 23:44:33,512 [INFO] Selected the role: Student
+2024-10-13 23:44:34,076 [INFO] Clicked on the login button.
+2024-10-13 23:44:34,981 [INFO] Clicked the go to lms link.
+2024-10-13 23:44:35,082 [INFO] Switched to the LMS window/tab.
+2024-10-13 23:44:47,745 [INFO] Navigated to the assignments page successfully!
+2024-10-13 23:44:47,815 [INFO] Total courses: 8
+2024-10-13 23:44:47,886 [INFO] Selected course at index 1: Technical Writing & Presentation Skills
+2024-10-13 23:44:51,882 [WARNING] Stale element encountered at index 1. Retrying... Error: Message: stale element reference: stale element not found
+  (Session info: chrome=129.0.6668.100); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Stacktrace:
+#0 0x56a43db2410a <unknown>
+#1 0x56a43d80a5e0 <unknown>
+#2 0x56a43d81a84b <unknown>
+#3 0x56a43d810cf8 <unknown>
+#4 0x56a43d80eff9 <unknown>
+#5 0x56a43d812105 <unknown>
+#6 0x56a43d81218c <unknown>
+#7 0x56a43d859847 <unknown>
+#8 0x56a43d859e81 <unknown>
+#9 0x56a43d84e8f3 <unknown>
+#10 0x56a43d87eb4d <unknown>
+#11 0x56a43d84e478 <unknown>
+#12 0x56a43d87ecee <unknown>
+#13 0x56a43d89dd7d <unknown>
+#14 0x56a43d87e8c3 <unknown>
+#15 0x56a43d84c6b3 <unknown>
+#16 0x56a43d84d68e <unknown>
+#17 0x56a43daeeb0b <unknown>
+#18 0x56a43daf2a91 <unknown>
+#19 0x56a43dadb305 <unknown>
+#20 0x56a43daf3612 <unknown>
+#21 0x56a43dac046f <unknown>
+#22 0x56a43db13008 <unknown>
+#23 0x56a43db131d3 <unknown>
+#24 0x56a43db22f5c <unknown>
+#25 0x7b0078a0239d <unknown>
+#26 0x7b0078a8749c <unknown>
+
+2024-10-13 23:44:53,997 [INFO] Selected course at index 2: Numerical Analysis
+2024-10-13 23:44:57,827 [WARNING] Stale element encountered at index 2. Retrying... Error: Message: stale element reference: stale element not found
+  (Session info: chrome=129.0.6668.100); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Stacktrace:
+#0 0x56a43db2410a <unknown>
+#1 0x56a43d80a5e0 <unknown>
+#2 0x56a43d81a84b <unknown>
+#3 0x56a43d810cf8 <unknown>
+#4 0x56a43d80eff9 <unknown>
+#5 0x56a43d812105 <unknown>
+#6 0x56a43d81218c <unknown>
+#7 0x56a43d859847 <unknown>
+#8 0x56a43d859e81 <unknown>
+#9 0x56a43d84e8f3 <unknown>
+#10 0x56a43d87eb4d <unknown>
+#11 0x56a43d84e478 <unknown>
+#12 0x56a43d87ecee <unknown>
+#13 0x56a43d89dd7d <unknown>
+#14 0x56a43d87e8c3 <unknown>
+#15 0x56a43d84c6b3 <unknown>
+#16 0x56a43d84d68e <unknown>
+#17 0x56a43daeeb0b <unknown>
+#18 0x56a43daf2a91 <unknown>
+#19 0x56a43dadb305 <unknown>
+#20 0x56a43daf3612 <unknown>
+#21 0x56a43dac046f <unknown>
+#22 0x56a43db13008 <unknown>
+#23 0x56a43db131d3 <unknown>
+#24 0x56a43db22f5c <unknown>
+#25 0x7b0078a0239d <unknown>
+#26 0x7b0078a8749c <unknown>
+
+2024-10-13 23:44:59,578 [WARNING] Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ConnectionResetError(104, 'Connection reset by peer')': /session/8513c63d6cd7bece2ad9f5175ea2b78a
+2024-10-13 23:44:59,580 [WARNING] Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7efd74a2a7e0>: Failed to establish a new connection: [Errno 111] Connection refused')': /session/8513c63d6cd7bece2ad9f5175ea2b78a
+2024-10-13 23:44:59,583 [WARNING] Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7efd74a2a840>: Failed to establish a new connection: [Errno 111] Connection refused')': /session/8513c63d6cd7bece2ad9f5175ea2b78a

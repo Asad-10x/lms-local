@@ -37,9 +37,9 @@ def go_to_lms(driver, name):
     time.sleep(2)  # Give it some time to open the new tab
     handles = driver.window_handles
     if len(handles) > 1:
-      driver.switch_to.window(handles[1])
-      print("Switched to the LMS window/tab.")
-      time.sleep(10)
+        driver.switch_to.window(handles[1])
+        print("Switched to the LMS window/tab.")
+        time.sleep(10)
 
 def test_get_assignments(driver):
     try:
